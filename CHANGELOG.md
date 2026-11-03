@@ -2,21 +2,44 @@
 
 Public versions of *Sapiens Novus — Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.1 — 2026-11-04
+
+Public release.
+
+- Version line set to **Public Release v1.1**.
+- Clarity rewrite of the full text. The twelve axioms are unchanged. Numbers, weights, formulas, headings, and status lines are unchanged.
+- Glossary **JI** corrected from `E\\\_net` to `E\_net`, matching the VCI formula.
+- III.17, V.35, and V.37: the Pactum lines are operative sentences. Codex and Lex in those rooms are unchanged.
+- VIII.10 Prioritas: the parenthetical is a sentence. It still distinguishes that room from the P0–P3 grade in VII.48.
+- IX.2 QAT now precedes IX.3 Cycle. Neither room's text changed.
+- A blank line stands before the IX.1 status line, and between a status line and the next chapter heading.
+- Added 40 rooms: B.1 Usus, I.9 Cingulum, I.10 Clausura, II.30 Sexus Verus, II.31 Pupillus, II.32 Census, III.20 Aerarium, III.21 Manus, III.22 Circulus, III.23 Otiosus, III.24 Veritas Energiae, IV.25 Calibratio, IV.26 Schisma, IV.27 Sterilitas, IV.28 Radix Dispersa, V.40 Exemplar, V.41 Fama, V.42 Sensus, V.43 Incrementum, VI.29 Ereptio, VII.56 Architectus Absens, VII.57 Clavis Viva, VII.58 Patronus, VII.59 Sortitio, VII.60 Modulus, VII.61 Limites, VII.62 Autonomia, VII.63 Intercessio, VIII.21 Copia, VIII.22 Forum Externum, VIII.23 Insula, VIII.24 Mora, VIII.25 Discordia, VIII.26 Furca, VIII.27 Fusio, VIII.28 Ingressus, VIII.29 Emptio, VIII.30 Triplex, VIII.31 Arbiter Externus, IX.4 Fructus. No existing room was renumbered.
+
+### Known issues in 1.02, and their state in 1.1
+
+The three issues listed under 1.02 below are addressed in 1.1. The history is kept. Duplicate numbering of 1.6, the two rooms named Horologium, Nefas lines VII and XII, the word "eight" in I. Carta, the symbol names in I.IV and IX.1, and the verb "uncompromise" were left as written.
+
 ## 1.02
 
 - Final cleanup of residual meta-commentary in V.32 Patrimonium and V.36 Scaena.
 - All "Taken from" / "Refused" framing removed; operative rules preserved.
-- Version bumped from published v1.01. Document is now free of editing traces.
+- Version bumped from published v1.01. Meta-commentary blocks are removed. Sentence-level traces that remain are listed under Known issues in 1.02.
+
+### Known issues in 1.02
+
+- Glossary entry **JI** still reads `Feeds VCI E\\\_net.` The doubled backslash renders as a visible backslash. The VCI formula uses `E\_net`. The 1.0 file used `E\_net`; the 1.01 file wrote `E\\\_net`, and 1.02 keeps it. **Resolved in 1.1.**
+- PACTUM lines beginning "Closes the missing joint..." remain in III.17 Rate Chain, V.35 Limen Scholae, and V.37 Pinna. **Resolved in 1.1.**
+- VIII.10 Prioritas keeps the parenthetical "(The local-claim sense of Prioritas, distinct from the P0–P3 urgency grade of VII.48.)" **Resolved in 1.1.**
 
 ## 1.01
 
 - Cleaned public release of all internal version notes, audit traces, and historical framing.
 - Removed "Refused", "Kept", and "Taken from" meta-commentary blocks while preserving the operative Pactum, Codex, and Lex.
-- Document now stands as a self-contained instrument with no residual log of prior editing steps.
+- Document stands as a self-contained instrument. Meta-commentary blocks were removed. Sentence-level traces of prior editing remain and are named under Known issues in 1.02.
 
 ## 1.0
 
 Public Release.
 
 - Full instrument added as `sapiens-novus.md`.
-- Glossary entry **JI** carried a doubled backslash (`E\\\_net`), which renders as a visible backslash. It now uses the same escape as the VCI formula (`E\_net`), so the name renders as `E_net`. No word was changed.
+- Glossary entry **JI** in this release used the same escape as the VCI formula (`E\_net`), so the name rendered as `E_net`. No word was changed. The published 1.02 text again uses the doubled backslash; see Known issues in 1.02.
