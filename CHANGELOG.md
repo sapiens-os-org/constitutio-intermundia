@@ -2,6 +2,13 @@
 
 Public versions of *Sapiens Novus — Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.11 — 2026-11-04
+
+- Version line set to **Public Release v1.11**. `date-released` in `CITATION.cff` is 2026-11-04.
+- VII.58 Patronus records the payers of an external seat on the open ledger. A payer is not custody. The room does not bar a signature and does not add a recusal.
+- B.1 Usus records that the eight departments in I. Carta are deliberate: Prima is the root, and eight departments stand under it. I. Carta is unchanged.
+- VII.61 Limites is unchanged. QAT stays unexpanded. The Grace Period stays N+1.
+
 ## 1.1 — 2026-11-04
 
 Public release.
