@@ -1,0 +1,48 @@
+name: Audit and Propose
+
+on:
+  workflow_dispatch:
+    inputs:
+      audit_scope:
+        description: 'What to audit (e.g. latest constitution files)'
+        required: false
+        default: 'full'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub App token (1-hour, auto-refreshable)
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+
+      - name: Run audit (placeholder)
+        run: |
+          echo "Audit scope: ${{ inputs.audit_scope }}"
+          echo "Findings summary" > findings.md
+          echo "- Example improvement 1" >> findings.md
+          echo "- Example improvement 2" >> findings.md
+
+      - name: Create pull request with findings
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          commit-message: "Audit findings – ready for review"
+          title: "Audit proposal: ${{ inputs.audit_scope }}"
+          body: |
+            Automated audit results.
+            Human approval required before merge to main.
+          branch: audit/findings-${{ github.run_id }}
+          delete-branch: true
