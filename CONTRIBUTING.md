@@ -41,3 +41,7 @@ A fork is not the official text.
 ## What does not belong here
 
 Build scripts, a website, and continuous integration are out of scope unless a later maintainer asks for them. The published artifact is the Markdown file.
+
+## Automation
+
+Workflow changes are reviewed by a human before they merge. Workflows in this repository do not publish issues, comments, pull requests, or other repository output unattended.

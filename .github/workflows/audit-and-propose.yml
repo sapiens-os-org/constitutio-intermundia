@@ -7,42 +7,40 @@ on:
         description: 'What to audit (e.g. latest constitution files)'
         required: false
         default: 'full'
+        type: choice
+        options:
+          - full
 
 permissions:
   contents: read
-  pull-requests: write
+
+concurrency:
+  group: audit-and-propose-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   audit:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate GitHub App token (1-hour, auto-refreshable)
-        id: app-token
-        uses: actions/create-github-app-token@v1
-        with:
-          app-id: ${{ secrets.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
-          token: ${{ steps.app-token.outputs.token }}
+          persist-credentials: false
 
-      - name: Run audit (placeholder)
+      - name: Validate scope and write report
+        env:
+          AUDIT_SCOPE: ${{ inputs.audit_scope }}
         run: |
-          echo "Audit scope: ${{ inputs.audit_scope }}"
-          echo "Findings summary" > findings.md
-          echo "- Example improvement 1" >> findings.md
-          echo "- Example improvement 2" >> findings.md
-
-      - name: Create pull request with findings
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ steps.app-token.outputs.token }}
-          commit-message: "Audit findings – ready for review"
-          title: "Audit proposal: ${{ inputs.audit_scope }}"
-          body: |
-            Automated audit results.
-            Human approval required before merge to main.
-          branch: audit/findings-${{ github.run_id }}
-          delete-branch: true
+          case "$AUDIT_SCOPE" in
+            full)
+              ;;
+            *)
+              printf '%s\n' "Rejected audit_scope." >&2
+              exit 1
+              ;;
+          esac
+          printf '%s\n' "$AUDIT_SCOPE"
+          printf '%s\n' "Findings summary"
+          printf '%s\n' "- Example improvement 1"
+          printf '%s\n' "- Example improvement 2"
