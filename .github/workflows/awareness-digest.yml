@@ -1,51 +1,21 @@
 name: Awareness Digest
 
+# Disabled. No schedule and no publication. The job fails closed.
 on:
-  schedule:
-    - cron: '0 */6 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: read
-  issues: write
-  pull-requests: read
+permissions: {}
+
+concurrency:
+  group: awareness-digest
+  cancel-in-progress: false
 
 jobs:
   digest:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Generate GitHub App token
-        id: app-token
-        uses: actions/create-github-app-token@v1
-        with:
-          app-id: ${{ secrets.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-
-      - name: Collect recent activity
-        env:
-          GH_TOKEN: ${{ steps.app-token.outputs.token }}
-          REPO: ${{ github.repository }}
+      - name: Fail closed
         run: |
-          echo "### Recent activity digest" > digest.md
-          echo "" >> digest.md
-          echo "**Open PRs:**" >> digest.md
-          gh pr list --repo "$REPO" --state open --limit 10 --json number,title,updatedAt >> digest.md || echo "(none)" >> digest.md
-          echo "" >> digest.md
-          echo "**Open issues:**" >> digest.md
-          gh issue list --repo "$REPO" --state open --limit 10 --json number,title,updatedAt >> digest.md || echo "(none)" >> digest.md
-          echo "" >> digest.md
-          echo "**Recent commits:**" >> digest.md
-          gh api repos/$REPO/commits --jq '.[0:5] | .[] | "- \(.commit.message | split("\n")[0]) (\(.sha[0:7]))"' >> digest.md || echo "(none)" >> digest.md
-
-      - name: Create or update digest issue
-        env:
-          GH_TOKEN: ${{ steps.app-token.outputs.token }}
-          REPO: ${{ github.repository }}
-        run: |
-          DIGEST=$(cat digest.md)
-          EXISTING=$(gh issue list --repo "$REPO" --label "awareness-digest" --state open --json number --jq '.[0].number' || true)
-          if [ -n "$EXISTING" ] && [ "$EXISTING" != "null" ]; then
-            gh issue comment "$EXISTING" --repo "$REPO" --body "$DIGEST"
-          else
-            gh issue create --repo "$REPO" --title "sapiensOS awareness digest" --body "$DIGEST" --label "awareness-digest"
-          fi
+          printf '%s\n' "Awareness Digest is disabled."
+          exit 1

@@ -1,0 +1,41 @@
+name: Critique
+description: Name the room, quote the clause, and say what fails.
+title: "Critique: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Name the room. Quote the clause. Say what fails: a meter the clause cannot meet, a contradiction with a named room, or a term the Glossary does not lock. Tone is not the charge. A critique that only dislikes the aim will be closed.
+  - type: input
+    id: room
+    attributes:
+      label: Room
+      description: The heading, or the bold room title.
+      placeholder: "II.10 Sex, Pairing and Legal Form"
+    validations:
+      required: true
+  - type: textarea
+    id: clause
+    attributes:
+      label: Quoted clause
+      description: Quote the current wording.
+    validations:
+      required: true
+  - type: dropdown
+    id: failure
+    attributes:
+      label: What fails
+      description: Tone is not the charge.
+      options:
+        - A meter the clause cannot meet
+        - A contradiction with a named room
+        - A term the Glossary does not lock
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Detail
+      description: Say which meter, contradiction, or unlocked term. A critique that only dislikes the aim will be closed.
+    validations:
+      required: true
