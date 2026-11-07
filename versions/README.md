@@ -1,6 +1,6 @@
 # Released texts
 
-Each file is the complete constitution of that release. It is byte-identical to `sapiens-novus.md` at the tag, and GitHub renders it as a page.
+Each file is the complete constitution of that release. It is byte-identical to `sapiens-novus.md` at the tag, and GitLab renders it as a page.
 
 | Version | Date | Page |
 | --- | --- | --- |
