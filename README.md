@@ -1,8 +1,8 @@
-# Sapiens OS · Constitutio Intermundia
+# sapiensOS · Constitutio Intermundia
 
-Full text of the current release, v1.13: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.13](https://github.com/sapiens-os-org/constitutio-intermundia/releases/tag/v1.13). Historical version files: [versions/](versions/).
+Full text of the current release, v1.13.1: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.13.1](https://github.com/sapiens-os-org/constitutio-intermundia/releases/tag/v1.13.1). Historical version files: [versions/](versions/).
 
-## Public Release v1.13
+## Public Release v1.13.1
 
 **A machine of survival for human flourishing under sensor-driven law.**
 

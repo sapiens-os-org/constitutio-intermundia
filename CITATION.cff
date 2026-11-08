@@ -1,10 +1,10 @@
 # The instrument names no personal author and no publication date.
 # human-terran is the public author name, recorded here as the publishing entity.
 cff-version: 1.2.0
-title: "Sapiens OS · Constitutio Intermundia"
+title: "sapiensOS · Constitutio Intermundia"
 message: "If you cite this work, use the metadata in this file."
-version: "1.13"
-date-released: 2026-11-07
+version: "1.13.1"
+date-released: 2026-11-08
 license: GPL-3.0-only
 repository-code: "https://github.com/sapiens-os-org/constitutio-intermundia"
 url: "https://github.com/sapiens-os-org/constitutio-intermundia/blob/main/sapiens-novus.md"
@@ -12,4 +12,4 @@ authors:
   - name: human-terran
 abstract: >-
   A constitution and operating system for decentralized human settlements.
-  Public Release v1.13.
+  Public Release v1.13.1.

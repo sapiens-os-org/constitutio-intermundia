@@ -1,6 +1,12 @@
 # Changelog
 
-Public versions of *Sapiens OS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
+Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
+
+## 1.13.1 — 2026-11-08
+
+- The public name is sapiensOS. The combined title is sapiensOS · Constitutio Intermundia. Constitutio Intermundia is unchanged. Homo Novus, Lingua Novus, and Axiom OS are unchanged.
+- Version line set to **Public Release v1.13.1**. Release date 08.11.2026.
+- Axioms unchanged; no number, weight or formula changed.
 
 ## 1.13 — 2026-11-07
 
