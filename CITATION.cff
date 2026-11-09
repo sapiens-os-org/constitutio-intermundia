@@ -3,7 +3,7 @@
 cff-version: 1.2.0
 title: "sapiensOS · Constitutio Intermundia"
 message: "If you cite this work, use the metadata in this file."
-version: "1.14"
+version: "1.14.1"
 date-released: 2026-11-09
 license: GPL-3.0-only
 repository-code: "https://github.com/sapiensos-org/constitutio-intermundia"
@@ -11,5 +11,8 @@ url: "https://github.com/sapiensos-org/constitutio-intermundia/blob/main/sapiens
 authors:
   - name: human-terran
 abstract: >-
-  A constitution and operating system for decentralized human settlements.
-  Public Release v1.14.
+  sapiensOS is an operating system for human consciousness: the software
+  layer that runs on human hardware and runs the constitution, Constitutio
+  Intermundia, for decentralized human settlements, local, planetary, and
+  interplanetary.
+  Public Release v1.14.1.
