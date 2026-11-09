@@ -2,6 +2,32 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.14 — 2026-11-09
+
+- Version line set to **Public Release v1.14**. Release date 09.11.2026.
+- Axioms 1, 3, 7, and 8 are unchanged from v1.13.1. The 99.9% gate is not lowered. Axiom 4 keeps the same family form (one XY male, one XX female, their offspring, parental authority) and names it “the sacred house that carries life and culture forward.” Axiom 12 keeps the same command test and names “the person who preaches a banned command.”
+- Parts of this release rewrite Neutralization, Nefas, hold-and-appeal rules, evidence independence, and Emergency Override limits. Adopting those joints requires the Root Amendment Path (1.5). No act is charged under a room that did not exist when the act was done.
+- II.33 Senectus implements Florescentia, a named human-flourishing priority: healthspan, lifespan, and the improvement of human life. Aging and early death are not 4.3 Entropy Events and are not Entropia Dolosa. No competent adult is compelled. Minors follow 2.2 and Axiom 4. Spend is metered inside the P15 unified claims cap.
+- II.9a funds recovery for a child victim. The child is not named in the public record and does not attend Publicum or P6.
+- A person under 18, or a person with verified incapacity, never enters Neutralization. An adult who commands, equips, or conceals such a person stands the adult’s own class.
+- A constructed file (no live sensor of the act) never uses a shortened hold. Full Proof does not remove that bar. “Just completed” is the sensor’s own signed window, default not more than one hour from the last live frame.
+- Full Proof on live-sensor evidence of a named annihilation class uses a 24-hour window only after provenance and defense review, and only after two officers confirm a living-tissue match to Genomic UID part A.
+- Vindicta uses that same duration window and cannot begin until those gates and the two-officer confirmation have been written.
+- TPS from 90% up to but not including 99.9% is the doubt band. Both substrates must stand at or above 99.9% and agree within 0.05% before Full Proof. The lower reading governs if they disagree about the gate.
+- New evidence pauses a live short clock only when it is provenanced and would move TPS by more than the agreement band, or drop it below the gate. Serial filings on the same facts are Lawfare. The clock resumes with remaining time; it does not restart.
+- Intentional mass-casualty killing is an attacker who sets out to kill more than one person, in any place. Entropia Dolosa requires proved intent and metered harm above a published threshold, not a bare 2% tick.
+- Adding a new high-tier form does not, by itself, make an act eligible for Neutralization.
+- Halt-in-Progress still permits a stop of a listed crime in motion. A body in view, without the act itself in view, is aid, not corroboration of a halt.
+- The duty to act still names rape and a sexual act with a child only, and only when acting is safe. “Safe” has an objective test. The Node bears the burden. A good-faith contrary judgment is a complete defense. The published refusal entry is 1% of median VCI and counts toward the yearly swing-cap; it does not move title, status, or ESU held.
+- Gaming is use of the letter of a clause against a purpose the file already writes as a meter, an axiom, or a named room. Lawful use of Axioms 2, 3, or 8 is not gaming.
+- Emergency Override cannot move the unsellable axioms, the 99.9% gate, Neutralization, or the other protected joints.
+- A living Founder dissent does not auto-convert a Root vote.
+- No named private person holds a kernel-release veto.
+- Funding, appointment, design, or operational control of two seats used in a live 99.9% gate is shared custody. A missing payer disclosure voids that seat’s signature on Neutralization, mint, Franchise, or Root packets until cured.
+- Sortition seeds pre-commit the component that is not the case hash before the file opens.
+- Definitions for rape, sexual act, and Furtum identitatis; Hospitium recognition that cannot arrive by silence or by a gift of energy alone; Transitio rules that keep a pre-Entityhood hold from closing the exit door unless host law independently allows detention; Arca restore rules for compromised sessions; Agnitio retention of unsolved Critical identity data; floors that a module patch may not undercut for snapshot retention, Restitutio pay, and the child-care share; and a Franchise rule that Public Bodies sharing officers, payers, or a published common purpose aggregate under the 2% cap.
+- Until the P15 unified-cap fraction is hashed at activation, that cap does not bind. The child-care minimum still binds.
+
 ## 1.13.1 — 2026-11-08
 
 - The public name is sapiensOS. The combined title is sapiensOS · Constitutio Intermundia. Constitutio Intermundia is unchanged. Homo Novus, Lingua Novus, and Axiom OS are unchanged.

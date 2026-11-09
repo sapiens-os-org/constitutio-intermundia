@@ -4,6 +4,7 @@ Each file is the complete constitution of that release. It is byte-identical to 
 
 | Version | Date | Page |
 | --- | --- | --- |
+| v1.14 | 2026-11-09 | [sapiens-novus-v1.14.md](sapiens-novus-v1.14.md) |
 | v1.13.1 | 2026-11-08 | [sapiens-novus-v1.13.1.md](sapiens-novus-v1.13.1.md) |
 | v1.13 | 2026-11-07 | [sapiens-novus-v1.13.md](sapiens-novus-v1.13.md) |
 | v1.12.3 | 2026-11-06 | [sapiens-novus-v1.12.3.md](sapiens-novus-v1.12.3.md) |
