@@ -1,6 +1,6 @@
 # sapiensOS · Constitutio Intermundia
 
-Full text of the current release, v1.13.1: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.13.1](https://github.com/sapiens-os-org/constitutio-intermundia/releases/tag/v1.13.1). Historical version files: [versions/](versions/).
+Full text of the current release, v1.13.1: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.13.1](https://github.com/sapiensos-org/constitutio-intermundia/releases/tag/v1.13.1). Historical version files: [versions/](versions/).
 
 ## Public Release v1.13.1
 
@@ -31,7 +31,7 @@ Pactum explains. Codex governs. Lex executes. Words are commands. Meters outrank
 - [IX. OMEGA](sapiens-novus.md#ix-omega) — Master objective: net negentropy.
 
 ### License
-[GNU General Public License v3.0](LICENSE). Derivatives must remain under the same license. The sole canonical repository is [sapiens-os-org/constitutio-intermundia](https://github.com/sapiens-os-org/constitutio-intermundia). Forks are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+[GNU General Public License v3.0](LICENSE). Derivatives must remain under the same license. The sole canonical repository is [sapiensos-org/constitutio-intermundia](https://github.com/sapiensos-org/constitutio-intermundia). Forks are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
