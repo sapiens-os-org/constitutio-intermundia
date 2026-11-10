@@ -1,7 +1,7 @@
 **sapiensOS · Constitutio Intermundia**
-**Public Release v1.14.1**
+**Public Release v1.14.2**
 
-sapiensOS is an operating system for human consciousness. Humans are the hardware, sapiensOS is the software layer, and inside it runs the constitution, Constitutio Intermundia, for decentralized human settlements: local, planetary, and interplanetary. It ranks binary biological reality, measured energy surplus, individual responsibility, and sensor-driven outcomes above ideology and above central control. It is built to heal itself, to fork, and to scale from camps on Earth to wells beyond it.
+Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it. From Earth camps to interplanetary wells, and across the mesh where decentralized nodes connect into one network, it defines what sapiensOS is · an operating system for human consciousness. It scales exponentially from Earth into the interplanetary. Its aim is to maximize measured human flourishing while relentlessly minimizing entropy. It measures and pinpoints from reality.
 
 ### Map of the File
 - **Praefatio** — What this instrument is, and the stack (0.S).

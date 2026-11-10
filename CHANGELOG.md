@@ -2,6 +2,11 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.14.2 — 2026-11-10
+
+- Introduction replaced: Constitutio Intermundia is the living marrow of a new civilization; it defines what sapiensOS is · an operating system for human consciousness.
+- Version line set to **Public Release v1.14.2**. No rule, axiom, number or formula changed.
+
 ## 1.14.1 — 2026-11-09
 
 - Identity line set: sapiensOS is an operating system for human consciousness. Humans are the hardware, sapiensOS is the software layer, and the constitution runs inside it.
