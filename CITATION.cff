@@ -3,8 +3,8 @@
 cff-version: 1.2.0
 title: "sapiensOS · Constitutio Intermundia"
 message: "If you cite this work, use the metadata in this file."
-version: "1.14.2"
-date-released: 2026-11-10
+version: "1.15"
+date-released: 2026-11-13
 license: GPL-3.0-only
 repository-code: "https://github.com/sapiensos-org/constitutio-intermundia"
 url: "https://github.com/sapiensos-org/constitutio-intermundia/blob/main/sapiens-novus.md"
@@ -15,4 +15,4 @@ abstract: >-
   layer that runs on human hardware and runs the constitution, Constitutio
   Intermundia, for decentralized human settlements, local, planetary, and
   interplanetary.
-  Public Release v1.14.2.
+  Public Release v1.15.

@@ -1,8 +1,8 @@
 # sapiensOS · Constitutio Intermundia
 
-Full text of the current release, v1.14.2: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.14.2](https://github.com/sapiensos-org/constitutio-intermundia/releases/tag/v1.14.2). Historical version files: [versions/](versions/).
+Full text of the current release, v1.15: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.15](https://github.com/sapiensos-org/constitutio-intermundia/releases/tag/v1.15). Historical version files: [versions/](versions/).
 
-## Public Release v1.14.2
+## Public Release v1.15
 
 Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it. From Earth camps to interplanetary wells, and across the mesh where decentralized nodes connect into one network, it defines what sapiensOS is · an operating system for human consciousness. It scales exponentially from Earth into the interplanetary. Its aim is to maximize measured human flourishing while relentlessly minimizing entropy. It measures and pinpoints from reality.
 
@@ -13,7 +13,7 @@ Pactum explains. Codex governs. Lex executes. Words are commands. Meters outrank
 
 ### Contents
 
-- [0. PRAEFATIO](sapiens-novus.md#0-praefatio) — What this instrument is.
+- [0. PRAEFATIO](sapiens-novus.md#0-praefatio) — What this instrument is, the stack (0.S), and the formula (0.F).
 - [0.R HERITAS](sapiens-novus.md#0r-heritas) — Inherited civil method.
 - [0. ALPHA](sapiens-novus.md#0-alpha) — Biological inception.
 - [A. Ordo](sapiens-novus.md#a-ordo) — Department map.
