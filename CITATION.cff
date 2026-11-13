@@ -6,8 +6,8 @@ message: "If you cite this work, use the metadata in this file."
 version: "1.15.2"
 date-released: 2026-11-13
 license: GPL-3.0-only
-repository-code: "https://github.com/sapiensos-org/constitutio-intermundia"
-url: "https://github.com/sapiensos-org/constitutio-intermundia/blob/main/sapiens-novus.md"
+repository-code: "https://github.com/sapiens-os-org/constitutio-intermundia"
+url: "https://github.com/sapiens-os-org/constitutio-intermundia/blob/main/sapiens-novus.md"
 authors:
   - name: human-terran
 abstract: >-

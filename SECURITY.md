@@ -6,7 +6,7 @@ Please report security vulnerabilities privately.
 
 GitHub private vulnerability reporting is enabled for this repository:
 
-https://github.com/sapiensos-org/constitutio-intermundia/security/advisories/new
+https://github.com/sapiens-os-org/constitutio-intermundia/security/advisories/new
 
 A report submitted there goes to the maintainers. It is not opened as a public issue.
 
