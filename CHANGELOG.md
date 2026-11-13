@@ -2,6 +2,12 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.15.2 — 2026-11-13
+
+- Version line set to **Public Release v1.15.2**. Release date 13.11.2026.
+- Introduction rewritten in plainer words, to match the text on sapiensos.org. It now opens in three short paragraphs. The first is unchanged: Constitutio Intermundia is the living marrow of a new civilization. The second is new: sapiensOS is not software for machines; it is a shared set of rules that people run together; Constitutio Intermundia is Latin for "constitution between worlds". The third says what the old closing sentences said, in simpler words: from the first camps on Earth to settlements on other worlds it defines what sapiensOS is, an operating system for human consciousness; it is made to scale; its aim is more human flourishing that can be measured, and less entropy; it takes its bearings from reality.
+- No room, rule, axiom, number or formula changed. 297 rooms, 799 Lex lines and 185 Glossary cells, as in v1.15.1.
+
 ## 1.15.1 — 2026-11-13
 
 - Version line set to **Public Release v1.15.1**. Release date 13.11.2026.
