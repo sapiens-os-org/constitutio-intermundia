@@ -2,6 +2,12 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.15.1 — 2026-11-13
+
+- Version line set to **Public Release v1.15.1**. Release date 13.11.2026.
+- One Lex line reworded, in II.7 Child Development. LEX 22CR read "B\_success is lagged one SMW and is a contraction." It now reads "B\_success is lagged one SMW and capped at 25% of total VCI." The word "contraction" was defined nowhere. The new wording states the rule III.2 has carried since v1.0 ("B\_success is lagged one SMW (2.7) and caps at 25% of total VCI") and the Codex of II.7 already states. No rule, axiom, number or formula changed.
+- Size: 297 rooms, 799 Lex lines and 185 Glossary cells, as in v1.15.
+
 ## 1.15 — 2026-11-13
 
 - Version line set to **Public Release v1.15**. Release date 13.11.2026. The title reads *sapiensOS · Constitutio Intermundia*.

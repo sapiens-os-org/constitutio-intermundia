@@ -1,6 +1,6 @@
 # sapiensOS · Constitutio Intermundia
 
-**Public Release v1.15**
+**Public Release v1.15.1**
 
 Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it. From Earth camps to interplanetary wells, and across the mesh where decentralized nodes connect into one network, it defines what sapiensOS is · an operating system for human consciousness. It scales exponentially from Earth into the interplanetary. Its aim is to maximize measured human flourishing while relentlessly minimizing entropy. It measures and pinpoints from reality.
 
@@ -854,7 +854,7 @@ Status: **MODULE**
 
 B\_success is the parent's term, written by each child. For each child it starts at 0.5, turns full at that child's maturity, and locks at that child's age 25 on the child's realized life (survival, health, tier, energy, not VCI), attested by two independent biological or legal records. It is lagged one SMW and capped (3.2). Fabricated adoption, maturity, or gestation records are office-falsehood (7.33) and high-tier fraud. They are Nefas line X only when the fabrication conceals a non-edge ending of a conceived child. B\_success is retroactively falsifiable within one SMW of lock on a signed contrary meter. A person with no offspring locks B\_success at zero (neutral). That zero is neutral, not a status fall. Raising a child to maturity under a published adoption or Node-raise packet writes the same B\_success as bearing. Parental review opens only on metered harm to a living child (abuse, starvation, abandonment) after EEP. Two adult children failing maturity is a private outcome. It does not open review, status drop, or removal. Neglect remains a Prime violation when harm is metered. Axiom 4 outranks offspring-score.
 
-**LEX 22CR:** B\_success is lagged one SMW and is a contraction.
+**LEX 22CR:** B\_success is lagged one SMW and capped at 25% of total VCI.
 **LEX 23CR:** B\_success of zero is neutral. The economic cap does not convert it to Unprotected.
 **LEX 24CR:** Adult-child outcome does not open parental review. Metered harm to a living child does.
 Status: **MODULE**
