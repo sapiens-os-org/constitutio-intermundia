@@ -2,6 +2,22 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.16 — 2026-11-17
+
+- Version line set to **Public Release v1.16**. Release date 17.11.2026. This release applies Audit 3 of v1.15.2: eighteen edits to existing rooms, one new Kernel room (I.16 Nemo Iudex) and two Glossary rows. Nothing else changed. Two findings (C2, C3) are left as they stand and go to the next audit.
+- Size, as I.12 requires: 298 rooms (297 before; 62 Kernel, 236 Module), 802 Lex lines (799 before), 187 Glossary cells (185 before), 74,467 words (73,908 before), 461,994 bytes (458,701 before).
+- **New room.** I.16 Nemo Iudex, with LEX 57PR to 59PR. An actor that watches itself is judged on that claim and is never the only judge of its own conduct, score, audit, patch, halt or review. A second judge examines the same evidence first. Where a room orders a review and names no reviewer, a Sortition of seven reviews. Two Glossary rows are added: Operational Tier and Nemo Iudex.
+- **Emergency Override and Halt (I.V, VII.44, LEX 56PR, LEX 102AX).** A confirmed suspension ends at the latest after five CECs from the invocation; the clause then revives as written, and a further suspension needs a new packet. A Halt is judged within one short clock by a Sortition of seven sitting in the place of Memory, which does not judge its own Halt; an unjudged Halt is refused and may be refiled.
+- **Order of rules (I.15, LEX 52PR).** A Kernel room now ranks over a Module room, as the new fourth step; the later steps move down by one.
+- **Votes and panels (I.V, VII.1, VII.59).** A patch that would move the selection, tenure, recusal, audit or limit of a body that votes or attests it, or the floor or weight of the Franchise, binds only when a Sortition of thirteen ratifies it by nine of thirteen. Where a room requires the seal of People and names no form, the seal is a Sortition of seven. Panels of seven and thirteen are drawn by stratum, so no stratum alone reaches a deciding number. The draw seed joins the published hash to the first value published after it by at least two of three: the Oracle beacon, the Fallback beacon and the published broadcast chain. While fewer than three Nodes exist, the proof is taken on the Node and on a parallel run, and EVL with two distinct Fallback Anchors attests it. Where a Steward is missing, this is the sole case in which People etch without Steward (VII.1).
+- **Franchise gate (I.V).** The 99% approval is counted over the Franchise weight cast, on a count in which two thirds of all Franchise weight is cast, and weight above a cap is left uncounted.
+- **Patch window (VII.63).** The patch window is thirty days; the shorter seven-day window for privilege patches is gone.
+- **Protected-List (VII.30, VII.35, VII.24).** Three rooms that listed Axioms by number now point to the Protected-List (I.9).
+- **Necessity (I.14).** Where no life is in question, silence past the clock yields the act that can be undone.
+- **Decoys (VII.67).** A touch on a decoy opens a file under VII.65; it is not proof of intent.
+- **Citations and tags.** V.16 cites "I. Prima, VI. Terminology" in place of "1.6", and the B.1 note on that citation is removed. LEX 2GL says that the tags 0.0, 0.R.1, 0.1 and I. Carta each begin at 1 and are cited with their room. III.4 and VIII.2 no longer name Bitcoin as the broadcast chain.
+- Version file `versions/sapiens-novus-v1.16.md` is byte-identical to `sapiens-novus.md`. SHA-256 of `sapiens-novus.md` is in the release notes.
+
 ## 1.15.2 — 2026-11-13
 
 - Version line set to **Public Release v1.15.2**. Release date 13.11.2026.
