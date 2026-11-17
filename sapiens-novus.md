@@ -1,6 +1,6 @@
 # sapiensOS · Constitutio Intermundia
 
-**Public Release v1.15.2**
+**Public Release v1.16**
 
 Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it.
 
@@ -370,11 +370,13 @@ Rooms added after the first release take the next free number in their departmen
 | B\_success                 | The parent's term in VCI, written by each child (2.7). Zero is neutral.                                                                       |
 | T\_value                   | VCI term for the attested service life of the goods, works, and services a person has delivered (4.13).                                       |
 | I\_built                   | VCI term for attested lasting plant, tools, and works a person has built and keeps in service.                                                |
+| Operational Tier           | Franchise holders from the VCI median up to, and not including, Command Tier.                                                                 |
+| Nemo Iudex                 | I.16. An actor that watches itself is judged on that claim and is never its own only judge.                                                   |
 
 VCI\_t = 0.40 E\_net + 0.25 B\_success + 0.20 T\_value + 0.15 I\_built − P. E\_net is Earth-equivalent kWh/year at the signed meter. Off-Earth BOT uses BOT\_earth × (g\_local/g\_earth)^0.3 × (T\_atm\_local/T\_atm\_earth)^0.2 × radiation\_factor. One ESU is also 3.6 MJ of that surplus. High-tier crimes are the acts named on the table of VII.10g, not branded classes.
 
 **LEX 1GL:** The terms in this Glossary are the only operative meanings.
-**LEX 2GL:** Named rooms bind. A number is an aid. A gate moves by its name. A Lex tag is a number plus a letter code: PR Prima, CR Corpus, AN Annona, ÆT ÆTHER, AV Animus, AEG AEGIS, AX Arx, LM Limen, GL Glossary, MG Omega. No tag uses the letter O or the letter I. Æ is one letter. Numbers run 1..N inside each chapter and do not restart per room.
+**LEX 2GL:** Named rooms bind. A number is an aid. A gate moves by its name. A Lex tag is a number plus a letter code: PR Prima, CR Corpus, AN Annona, ÆT ÆTHER, AV Animus, AEG AEGIS, AX Arx, LM Limen, GL Glossary, MG Omega. No tag uses the letter O or the letter I. Æ is one letter. Numbers run 1..N inside each chapter and do not restart per room, save that 0.0, 0.R.1, 0.1 and I. Carta each begin at 1; such a tag is cited with its room.
 **LEX 3GL:** Sex is observed hardware, XY or XX. No one assigns it.
 **LEX 4GL:** There is no right not to be offended.
 **LEX 5GL:** Religion and ideology do not write Pactum, Codex, or Lex.
@@ -416,7 +418,6 @@ Horologium, in the Glossary and in I.6, means that a period runs from the trigge
 
 CEC is used in two ways that this version does not rename. (1) As a standing 270-day calendar cycle counted from activation or from the prior CEC boundary (I.V "after CEC 2", "until five CECs have run"; VII.2; VII.29; P5; P9; P10; P12; P16). (2) As the winter protocol that VII.4 opens when maintenance, meter divergence, or SHI fails. A period named as one CEC in sense (1) runs 270 consecutive days from its trigger under I.6 and does not wait for a VII.4 opening. Root 1.5's "≥3 CECs and 5 SMWs" uses sense (1): three standing 270-day cycles and five standing 180-day windows, concurrent floor 900 days. A VII.4 winter that happens to be open during those days is not an extra requirement and does not pause the count.
 
-The bare cite "1.6" in V.16 sits on the words "co-opted legal fictions." The list of what is struck is written in VI. Terminology. I.6 Horologium is the clock, and it does not list those fictions. This version does not rewrite the citation inside V.16. The reader applies the struck list where it is written.
 
 I.IV writes the base integral with E\_ref, Ψ(B), A\_ART, entropy, and parasitism. IX.1 writes the enforced integral with Er, Ψ, A, S, P, the gates G and Φ, and the penalties κ D and μ V. I.IV states that IX.1 is the enforced form. The symbols name the same meters: E\_ref is Er, Ψ(B) is Ψ, A\_ART is A, entropy is S, and parasitism is P. Neither formula is replaced here.
 
@@ -547,9 +548,9 @@ Status: **KERNEL**
 
 **CODEX:** Every law, every axiom, and every protocol is a module. It can be audited, updated, or removed without breaking the root. Each room states its class in its status line: Kernel or Module. A Kernel room moves only by the Root path of this room. A Module room moves by attested patch. To change the class of a room is an act on the Root path. Until five CECs have run, the founding seats are boxed in time. After CEC 2, one third of them open to merit reclaim under 7.2. Founding lineages may not hold more than a published share of the sitting Founder seats across two consecutive CECs.
 
-After CEC 5, the ordinary rules of seats apply, except for a permanent floor of founder-reclaim: at least two sitting seats remain reclaimable by the original founding packet or by its published merit heirs. The first crew may not freeze the operating system, and the first crew may not vanish from the ladder of reclaim. The Prime Directive, the twelve axioms, and every Kernel room move only when all of the following are present: a multi-node Bayesian proof of superior Omega across ≥3 CECs and 5 SMWs; a unanimous Founder Council as VII.2 reconciles that vote (Phoenix cannot stand in; a living Founder dissent does not auto-convert); 99% approval weighted by VCI, with no natural person holding \>2% of authority and no lineage holding \>5%; and a physical etch into analog sapphire, with signatures from more than one lineage. If a verified physical law contradicts a clause, the Founders may invoke Emergency Override by unanimous Founders, two Nodes, a conflict that can be shown within five years, and a confirm-or-revert within one CEC. The override does one thing: it suspends the clause that the physical-law packet directly contradicts. It rewrites nothing. Within one CEC the conflict is confirmed by a second packet on two fresh substrates, attested by EVL, Oracle, and the same second party, or the suspension reverts. A confirmed suspension stands only while a Root-path motion on that clause is open. Emergency Override may not suspend or move Axioms 1, 3, 4, 7, or 8, the 99.9% TPS gate, Neutralization under 7.10, the speech exceptions of Axiom 3, VCI weights, the Oracle root, the Ne floor, or Protected-List grammar. "Verified physical law" means a result reproducible on two independent substrates and attested by EVL and Oracle, not a doctrine. The same holds in a world with fewer than three Nodes.
+After CEC 5, the ordinary rules of seats apply, except for a permanent floor of founder-reclaim: at least two sitting seats remain reclaimable by the original founding packet or by its published merit heirs. The first crew may not freeze the operating system, and the first crew may not vanish from the ladder of reclaim. The Prime Directive, the twelve axioms, and every Kernel room move only when all of the following are present: a multi-node Bayesian proof of superior Omega across ≥3 CECs and 5 SMWs; a unanimous Founder Council as VII.2 reconciles that vote (Phoenix cannot stand in; a living Founder dissent does not auto-convert); 99% approval of the Franchise weight cast, weighted by VCI, on a count in which two thirds of all Franchise weight is cast, with no natural person holding \>2% of authority and no lineage holding \>5%, and weight above a cap left uncounted; and a physical etch into analog sapphire, with signatures from more than one lineage. While fewer than three Nodes exist, the proof is taken on the Node and on a parallel run under I.12, and EVL with two distinct Fallback Anchors attests it. If a verified physical law contradicts a clause, the Founders may invoke Emergency Override by unanimous Founders, two Nodes, a conflict that can be shown within five years, and a confirm-or-revert within one CEC. The override does one thing: it suspends the clause that the physical-law packet directly contradicts. It rewrites nothing. Within one CEC the conflict is confirmed by a second packet on two fresh substrates, attested by EVL, Oracle, and the same second party, or the suspension reverts. A confirmed suspension stands only while a Root-path motion on that clause is open, and in no case beyond five CECs from the invocation; at that term the clause revives as it was written, and a further suspension requires a new packet. Emergency Override may not suspend or move Axioms 1, 3, 4, 7, or 8, the 99.9% TPS gate, Neutralization under 7.10, the speech exceptions of Axiom 3, VCI weights, the Oracle root, the Ne floor, or Protected-List grammar. "Verified physical law" means a result reproducible on two independent substrates and attested by EVL and Oracle, not a doctrine. The same holds in a world with fewer than three Nodes.
 
-If \<3 Nodes exist in the world, EVL plus two distinct Fallback Anchors may stand as the second party who invokes the override. One entity shall not fill two external seats. Every Node carries a Planetary Constants Vector, measured and locked at activation or at transfer. Module rooms may be patched by the Audit Unit plus EVL plus a Command-Tier majority, without the 99% path of Root. Each such patch sits a published comment window of thirty days, and an EVL counterfactual, before it binds. A Command-Tier voter whose VCI, seat, or purse the pending patch would move does not vote on that patch. A patch that touches privilege sits the same thirty days; no label shortens the window.
+If \<3 Nodes exist in the world, EVL plus two distinct Fallback Anchors may stand as the second party who invokes the override. One entity shall not fill two external seats. Every Node carries a Planetary Constants Vector, measured and locked at activation or at transfer. Module rooms may be patched by the Audit Unit plus EVL plus a Command-Tier majority, without the 99% path of Root. Each such patch sits a published comment window of thirty days, and an EVL counterfactual, before it binds. A Command-Tier voter whose VCI, seat, or purse the pending patch would move does not vote on that patch. A patch that would move the selection, tenure, recusal, audit, or limit of a body that votes or attests it, or the floor or weight of the Franchise, binds only when a Sortition of thirteen, drawn under VII.59 from Franchise outside that body, ratifies it by nine of thirteen. A patch that touches privilege sits the same thirty days; no label shortens the window.
 
 A module patch shall not touch Axioms 1, 3, 4, 7, or 8, the Ne floor, the Oracle root, Neutralization under 7.10, the 99.9% TPS gate, the speech exceptions of Axiom 3, the VCI weights, or the grammar of the Protected-List that names those items. To reclassify a protected item as a module is itself an act on the Root path. The operating system proposes its own patches. A self-heal that touches Root requires the trio and the rules of etch. Grief, rage, love, and offense do not amend. Neither does a religious or ideological source (Axiom 12).
 
@@ -559,7 +560,7 @@ A module patch shall not touch Axioms 1, 3, 4, 7, or 8, the Ne floor, the Oracle
 **LEX 20PR:** A member whose VCI, seat, or purse the pending patch would move does not vote on that patch.
 **LEX 21PR:** After CEC 5, a founder-reclaim floor of two seats remains.
 **LEX 50PR:** Every room is Kernel or Module, and its status line says which. Kernel moves only by the Root path.
-**LEX 56PR:** Emergency Override suspends one contradicted clause for one CEC. It rewrites nothing.
+**LEX 56PR:** Emergency Override suspends one contradicted clause: one CEC unconfirmed, five CECs at most confirmed. It rewrites nothing.
 Status: **KERNEL**
 
 **VI. Terminology**
@@ -723,7 +724,7 @@ Status: **KERNEL**
 
 The actor writes the Speculum line within four hours and stands review within P7b. The Node bears the cost of a good-faith act and pays any harm by the P13 formula. A pretended necessity is office-falsehood in an officer and fraud in any other. An act under this room ends at seventy-two hours unless the ordinary procedure has by then confirmed it. A second use by the same office within one short clock opens the Sortition audit that VII.45 requires for Gelu.
 
-No procedure blocks by silence. Every step that can stop an act names its clock and the default that follows when the clock runs out. A step without a clock is void as a bar, and silence past the clock yields the default that protects life.
+No procedure blocks by silence. Every step that can stop an act names its clock and the default that follows when the clock runs out. A step without a clock is void as a bar, and silence past the clock yields the default that protects life, and where no life is in question, the act that can be undone.
 
 **LEX 47PR:** Reversible rescue does not wait for a form. The form follows within four hours.
 **LEX 48PR:** Necessity opens nothing irreversible and never the kernel.
@@ -735,9 +736,21 @@ Status: **KERNEL**
 
 **PACTUM:** When two rooms speak to one fact, the reader must know which voice binds before he knows which voice he prefers.
 
-**CODEX:** Where two provisions meet, the order is this. First, the Axioms and the Final Invariant (VII.19). Second, the Protected-List and its closure (I.9). Third, a room that limits force, a hold, or a penalty governs the room it limits. Fourth, the room that names the matter most specifically. Fifth, the parameter tables (VII.10d, VII.66) over a number written elsewhere. Sixth, the text sealed later over the text sealed earlier. Codex governs Lex where they differ. Pactum explains and binds nothing. A Glossary cell governs usage. Where doubt remains, it is resolved for the accused, for the smaller power, and for the act that can be undone. The three questions of the Prime Directive test the whole; they license no act that an Axiom forbids.
+**CODEX:** Where two provisions meet, the order is this. First, the Axioms and the Final Invariant (VII.19). Second, the Protected-List and its closure (I.9). Third, a room that limits force, a hold, or a penalty governs the room it limits. Fourth, a Kernel room over a Module room. Fifth, the room that names the matter most specifically. Sixth, the parameter tables (VII.10d, VII.66) over a number written elsewhere. Seventh, the text sealed later over the text sealed earlier. Codex governs Lex where they differ. Pactum explains and binds nothing. A Glossary cell governs usage. Where doubt remains, it is resolved for the accused, for the smaller power, and for the act that can be undone. The three questions of the Prime Directive test the whole; they license no act that an Axiom forbids.
 
-**LEX 52PR:** The limit governs the power. The specific governs the general. Codex governs Lex.
+**LEX 52PR:** The limit governs the power. Kernel governs Module. The specific governs the general. Codex governs Lex.
+Status: **KERNEL**
+
+**I.16 Nemo Iudex**
+###### RADIX \> I. PRIMA \> I.16 Nemo Iudex
+
+**PACTUM:** Vigilance that answers only to itself is reflection, not vigilance. Whoever professes to observe his own conduct submits that profession to judgment, and the judgment is never his alone.
+
+**CODEX:** Any person, office, body, substrate, or system that professes to monitor, audit, correct, or certify itself is assessed upon that profession. It publishes the meter by which its self-observation may be shown to fail, together with the record of what that observation found and what it missed. No such actor is the sole judge of its own conduct, score, audit, patch, halt, or review. Before a finding that it renders upon itself may open a gate, close a file, or enter a packet, a second judge that meets VII.53 against it — an uninvolved leg, an external, or a Sortition drawn under VII.59 — examines the same evidence and confirms, corrects, or voids the finding. Where a room orders a review and names no reviewer, the reviewer is a Sortition of seven. A self-assessment that no independent judge has examined is hygiene (VII.20): it carries no weight. The second judge acquires no power over the matter observed; it judges the watch, and its own judgment stands review in the same manner, the regress ending at the People in Sortition and at the external that the Node did not print. The absence of the profession removes no audit that another room imposes.
+
+**LEX 57PR:** A self-audit is evidence, not a verdict. A second judge under VII.53 examines it before it opens a gate or closes a file.
+**LEX 58PR:** A self-watching actor publishes the meter that would show its watch has failed.
+**LEX 59PR:** A review with no named reviewer goes to a Sortition of seven.
 Status: **KERNEL**
 
 # II. CORPUS
@@ -1336,7 +1349,7 @@ Status: **MODULE**
 
 **PACTUM:** This room governs the movement of surplus. It prevents drawer-coin and 180-day freezes.
 
-**CODEX:** Transfers are signed ledger events. Ordinary cross-Node transfers need mutual checkpoint acknowledgement on the published broadcast chain (at activation: Bitcoin) within one SMW. Emergency transfers clear in 24 hours upon Triple Arbiter verification of existential need. UID records etch to sapphire quarterly and recover from sapphire plus EEP-verified logs if the live hash fails.
+**CODEX:** Transfers are signed ledger events. Ordinary cross-Node transfers need mutual checkpoint acknowledgement on the published broadcast chain within one SMW. Emergency transfers clear in 24 hours upon Triple Arbiter verification of existential need. UID records etch to sapphire quarterly and recover from sapphire plus EEP-verified logs if the live hash fails.
 
 **LEX 13AN:** Emergency cross-Node transfer may clear in 24 hours on Arbiter verification.
 Status: **MODULE**
@@ -2227,7 +2240,7 @@ Status: **MODULE**
 
 **CODEX:** Formal speech is direct, exact, and anchored in observed fact. Academic precision is required. Soft moral wrapping is forbidden.
 
-Co-opted legal fictions (1.6) are void at sight in statute, school, and court. If the working tongue is captured, Founders plus EVL plus Command-Tier majority may commission Lingua Novus: a constructed language for low drift, named actors, binary sex, and meter-facing verbs. Adoption is a module patch under 1.5.
+Co-opted legal fictions (I. Prima, VI. Terminology) are void at sight in statute, school, and court. If the working tongue is captured, Founders plus EVL plus Command-Tier majority may commission Lingua Novus: a constructed language for low drift, named actors, binary sex, and meter-facing verbs. Adoption is a module patch under 1.5.
 
 It shall not be a church-tongue or hide the actor. Until then, the locked formal English of this file is the statute tongue. If the working tongue is captured and the ordinary 1.5 path cannot move because the captor holds the ballot, Phoenix plus Fallback plus two live triad legs may freeze official speech to this file's locked English for one SMW and reopen the commission path. That freeze is containment-root, not a new church-tongue. The freeze needs a live Critical Entropy Event finding. A commission under it is capped at one SMW and auto-reverts unless that finding is still live. A semantic coup under a containment pretext is 6.6 of the commissioning officials.
 
@@ -3029,9 +3042,9 @@ Verdicts are derived from meters and from persons. Office does not absolve a cri
 
 **PACTUM:** Separates the duties to decide, to brief, and to try, so that one person cannot hold command, and a stopped Node may be restarted by the same three.
 
-**CODEX:** Trias is Steward, Memory, and People. Steward splits into Steward Etch (Root motion, Phoenix open, Interdictum release) and Steward Bellum (Exercitus and Firewall operational command in P0). The split is live at activation. No person holds both Etch and Bellum. The first CEC is not a window for holding both crowns. A single person holding both is void at sight under VII.25. In P0, if only one Steward lives, that person holds containment-root, not etch-root and not full Exercitus command. Etch then sits as Memory plus People plus a peer observer until a second Steward is named. Memory is three air-gapped models that brief under 4.5; EVL and Oracle keep meters the Node did not print. A rotating high-VCI human panel signs Memory briefs that move mint, sword, or school; silicon does not brief those joints alone. Effective power of model-sublegs plus the Command-Tier patch class is counted against the four-leg lock: three models that collude are not a fourth named leg, and they are still a Critical Entropy Event (4.5).
+**CODEX:** Trias is Steward, Memory, and People. Steward splits into Steward Etch (Root motion, Phoenix open, Interdictum release) and Steward Bellum (Exercitus and Firewall operational command in P0). The split is live at activation. No person holds both Etch and Bellum. The first CEC is not a window for holding both crowns. A single person holding both is void at sight under VII.25. In P0, if only one Steward lives, that person holds containment-root, not etch-root and not full Exercitus command. Etch then sits as Memory plus People plus a peer observer until a second Steward is named; this is the sole case in which People etch without Steward. Memory is three air-gapped models that brief under 4.5; EVL and Oracle keep meters the Node did not print. A rotating high-VCI human panel signs Memory briefs that move mint, sword, or school; silicon does not brief those joints alone. Effective power of model-sublegs plus the Command-Tier patch class is counted against the four-leg lock: three models that collude are not a fourth named leg, and they are still a Critical Entropy Event (4.5).
 
-People: Sortition juries try, and Protected citizens witness shard-boots (1.8). A Sortition jury is 90th-percentile VCI plus a stratified random sample from Operational Tier plus at least two seats drawn from below the VCI median, Character-filtered, age/sex-stratified, seven or thirteen people, for one case, thirty days, or one sitting on a Compressed Capital Docket. Deliberation is blind to VCI weight. A panel ratifies an irreversible act only by all seven, or by twelve of thirteen. It decides any other finding by five of seven, or nine of thirteen. A panel that does not reach its number has refused. No Steward rules without Memory; no Memory kills without People; no People etch without Steward.
+People: Sortition juries try, and Protected citizens witness shard-boots (1.8). A Sortition jury is 90th-percentile VCI plus a stratified random sample from Operational Tier plus at least two seats drawn from below the VCI median, Character-filtered, age/sex-stratified, seven or thirteen people, for one case, thirty days, or one sitting on a Compressed Capital Docket. Deliberation is blind to VCI weight. Of seven, three seats are Command Tier, two Operational Tier, and two below the median; of thirteen, five, four, and four. No stratum alone reaches a deciding number. A panel ratifies an irreversible act only by all seven, or by twelve of thirteen. It decides any other finding by five of seven, or nine of thirteen. A panel that does not reach its number has refused. Where a room requires the seal of People and names no form, the seal is that of a Sortition of seven drawn under VII.59. No Steward rules without Memory; no Memory kills without People; no People etch without Steward.
 
 **LEX 1AX:** Command is Steward plus Memory plus People; no single arm holds meters, mint, EEP, and Firewall.
 **LEX 2AX:** Every Sortition panel includes an Operational-tier sample.
@@ -3542,7 +3555,7 @@ Status: **MODULE**
 
 **PACTUM:** Permits citizens to submit patches, so that the root stays locked and the bench remains open.
 
-**CODEX:** Protected/Neutral citizens are invited to debug. Tools and channels are provided as in 7.22. Citizen patches integrate only if reproducible against published meters/ledgers, align with 1.2, carry Audit/EVL signatures, and do not widen ε, mint off-split, rotate the Oracle, or rewrite Axioms 1, 3, 4, 7, 8, or 12.
+**CODEX:** Protected/Neutral citizens are invited to debug. Tools and channels are provided as in 7.22. Citizen patches integrate only if reproducible against published meters/ledgers, align with 1.2, carry Audit/EVL signatures, and do not widen ε, mint off-split, rotate the Oracle, or touch the Protected-List (I.9) or Axiom 12.
 
 **LEX 49AX:** Founder speech is not a substitute for Audit plus EVL on a citizen patch.
 Status: **MODULE**
@@ -3619,7 +3632,7 @@ Status: **MODULE**
 
 **CODEX:** When SHI, ascent, or a Critical Event trips 7.18, the Arbiter proposes a patch from existing tools; EVL scores it; an Integration officer accepts/rejects within one SMW. A second independent leg must attest each accepted patch. Accepted Module patches are rate-limited to a published count per SMW; flood of reproducible-but-adversarial patches is Entropy of the proposing pipe. Rejected proposals publish reasons. Accepted proposals etch as Module patches (1.5).
 
-The loop cannot touch Axioms 1, 3, 4, 7, 8, Oracle, Ne floor, 7.10, or speech exceptions. A loop attempting this is an Entropy Event. Regeneration uses the shard set in 1.8.
+The loop cannot touch the Protected-List (I.9). A loop attempting this is an Entropy Event. Regeneration uses the shard set in 1.8.
 
 Each confirmed gaming route, failed meter, or repeated Entropy Event writes a patch proposal inside one SMW. The loop learns: a closed route is shared with peer Nodes, sealed first and then published, as VII.67 orders. Limits of 7.30 and LEX 65AX stand.
 
@@ -3678,7 +3691,7 @@ Status: **KERNEL**
 
 **PACTUM:** The Node must increase in competence without selling the kernel.
 
-**CODEX:** The Node designs the next better plant, school, and meter under 1.5. It keeps a published unknown-band: shocks not in the model. Self-heal may not rewrite Axioms 1, 3, 4, 7, 8, Oracle, Ne floor, or Neutralization. Silicon may draft. Only the triad etches. A new constitution written by silicon alone is void.
+**CODEX:** The Node designs the next better plant, school, and meter under 1.5. It keeps a published unknown-band: shocks not in the model. Self-heal may not touch the Protected-List (I.9). Silicon may draft. Only the triad etches. A new constitution written by silicon alone is void.
 
 **LEX 76AX:** The Node may improve itself inside the kernel.
 **LEX 77AX:** Silicon drafts. Humans etch.
@@ -3805,10 +3818,10 @@ Status: **MODULE**
 
 **CODEX:** Official motion — mint, gate, school statute, sword order, seat act, plant command — must cite a live room before it moves. Memory compiles that cite against Axioms and Lex. No cite, or a cite that breaks Root, and Memory Halts the motion at the switch. The person may still speak. The desk may not spend. Halt is not Neutralization and not etch. Steward and People may override a Memory Halt only inside 7 days, and only if they cite a live Root-locked room verified by an independent external leg (peer Node or Fallback). An internal leg alone does not suffice. When no external leg can be reached, a Sortition of seven stands as that leg, and the first peer or Fallback that answers reviews the override. The override writes Speculum immediately. A blanket override past 7 days is Critical Entropy. Every Halt and every override publishes its citation. Silicon may not invent a new crime. Silicon may not freeze private speech, pairing, or a booked Agon packet. A Halt that Memory cannot show on a meter is itself office-falsehood of the models and EVL pulls them.
 
-Default is deny, save the reversible rescue of I.14, whose line follows within four hours. Years of "we will strike it later" are refused. An act without a room is not late-illegal. It is unborn. Void at sight and Unborn name such an act: any leg, officer, or citizen may refuse it; Memory Halts it at the switch; and the triad judges the Halt. Until that judgment the act stands suspended. No officer voids another by assertion.
+Default is deny, save the reversible rescue of I.14, whose line follows within four hours. Years of "we will strike it later" are refused. An act without a room is not late-illegal. It is unborn. Void at sight and Unborn name such an act: any leg, officer, or citizen may refuse it; Memory Halts it at the switch; and the triad judges the Halt within one short clock, a Sortition of seven sitting in the place of Memory, which does not judge its own Halt. Until that judgment the act stands suspended; unjudged at that term, it is refused and may be refiled. No officer voids another by assertion.
 
 **LEX 101AX:** No cite, no motion.
-**LEX 102AX:** Memory Halts. The triad judges. Silicon does not rule.
+**LEX 102AX:** Memory Halts. The triad judges inside one short clock, with seven in Memory's chair. Silicon does not rule.
 **LEX 103AX:** Halt is a pause, not a kill.
 **LEX 104AX:** Private speech and lawful self-halt still move.
 **LEX 105AX:** Memory may reject only against a published Room-Index grammar. An arbitrary deny confirmed by Sortition is office-falsehood of the Memory leg. A blanket deny past one short clock is Critical Entropy.
@@ -4038,7 +4051,7 @@ Status: **MODULE**
 
 **PACTUM:** A lot that cannot be replayed is not a lot.
 
-**CODEX:** The Sortition draw replays from its seed. The filer first publishes the hash of the file on Speculum. The seed is the first Oracle-or-Fallback beacon signed after that publication, joined to that hash. One matter has one published hash; parallel variant hashes of one matter are void. A file whose hash changes after its beacon draws again and writes the reason on Speculum, and a second redraw on the same facts needs leave of the Iudex. A seed fixed before the file hash is published, or chosen after the beacon is known, is void, and the sitting is reheard. Until the sitting ends, the seed and the names are held under seal by the Iudex and an uninvolved leg; then the draw is published and replayed. A draw that cannot be replayed is void, and the sitting that used it is reheard. Related-party disclosure is required before the draw. Detected coordination to inflate VCI for the sortition pool triggers automatic dual-substrate audit and temporary freeze of the affected VCI. The composition of the panel remains VII.1, including size, strata, and the seats below the median. The stratum of a juror is a published meter and may be appealed under VII.6 before the sitting. A motion to void a docket because a term this file already uses was missing from the Glossary fails if B.1 records that use. The motion does not delay the rehearing of a void draw.
+**CODEX:** The Sortition draw replays from its seed. The filer first publishes the hash of the file on Speculum. The seed joins that hash to the first value published after it by at least two of three: the Oracle beacon, the Fallback beacon, and the published broadcast chain. One matter has one published hash; parallel variant hashes of one matter are void. A file whose hash changes after its beacon draws again and writes the reason on Speculum, and a second redraw on the same facts needs leave of the Iudex. A seed fixed before the file hash is published, or chosen after the beacon is known, is void, and the sitting is reheard. Until the sitting ends, the seed and the names are held under seal by the Iudex and an uninvolved leg; then the draw is published and replayed. A draw that cannot be replayed is void, and the sitting that used it is reheard. Related-party disclosure is required before the draw. Detected coordination to inflate VCI for the sortition pool triggers automatic dual-substrate audit and temporary freeze of the affected VCI. The composition of the panel remains VII.1, including size, strata, and the seats below the median. The stratum of a juror is a published meter and may be appealed under VII.6 before the sitting. A motion to void a docket because a term this file already uses was missing from the Glossary fails if B.1 records that use. The motion does not delay the rehearing of a void draw.
 
 **LEX 150AX:** Hash first, beacon after. No one sees the lot before the file is fixed. An unreplayed draw is void.
 **LEX 151AX:** Panel composition remains VII.1.
@@ -4083,7 +4096,7 @@ Status: **MODULE**
 
 **PACTUM:** A module patch can be asked to wait. It cannot be asked to become Root in the waiting.
 
-**CODEX:** The comment window on a module patch remains what I.V already sets: thirty days, or seven days where the patch touches privilege. A Sortition of seven, drawn as VII.1 and replayable under VII.59, may suspend the binding of a non-root patch until that window ends and until EVL has answered the objection in writing. The suspension does not outlast the window. It does not apply to a Root-path act. It does not touch Neutralization, speech exceptions, or the weights. A frivolous suspension, repeated so as to stall a patch that EVL has already answered, is Lawfare under VII.28.
+**CODEX:** The comment window on a module patch remains what I.V already sets: thirty days. A Sortition of seven, drawn as VII.1 and replayable under VII.59, may suspend the binding of a non-root patch until that window ends and until EVL has answered the objection in writing. The suspension does not outlast the window. It does not apply to a Root-path act. It does not touch Neutralization, speech exceptions, or the weights. A frivolous suspension, repeated so as to stall a patch that EVL has already answered, is Lawfare under VII.28.
 
 **LEX 159AX:** Sortition of seven may hold a module patch only to the end of its existing window.
 **LEX 160AX:** Root path and the kernel are outside this hold.
@@ -4178,7 +4191,7 @@ Status: **MODULE**
 
 **CODEX:** The Node keeps one immune loop of seven steps, each with its clock and its meter.
 
-1. Sense. Every room names the meter that would show its own failure. A room with no such meter is listed for sunset under I.12. Decoys with no lawful use — keys, ledger lines, shards — are planted on every protected joint. A touch on a decoy is a confirmed hostile act.
+1. Sense. Every room names the meter that would show its own failure. A room with no such meter is listed for sunset under I.12. Decoys with no lawful use — keys, ledger lines, shards — are planted on every protected joint. A touch on a decoy opens a file under VII.65; it is not proof of intent.
 2. Name. The actor is identified under VII.65. The route is written in one sentence: the clause, the meter, the cost to the attacker, the gain to the attacker.
 3. Contain. Only the written tools: Halt, Gelu, Expurgo, process-kill, hold. Containment touches the route. It never touches a bystander, private speech, or a household.
 4. Repair. A patch under VII.30 within one SMW, proved in parallel under I.12. Every patch names the meter that would show it has failed and the date it lapses unless re-affirmed.
@@ -4217,7 +4230,7 @@ Status: **MODULE**
 
 **PACTUM:** The birth order of a new Node keeps people-first colonies from starving, and it keeps one root from being the sole trust.
 
-**CODEX:** Plant comes first, then population. Analog sapphire is the physical root of truth and is stored across at least two geographically distinct, geologically stable sites. The published broadcast chain (at activation: Bitcoin) is the broadcast/tamper-evidence. Fallback and Oracle close the triangle. The Oracle root-set and the uncertainty floor are generated at activation by a multi-party ceremony across three mutually uncorrelated externals, with a published no-backdoor proof, etched into sapphire, and countersigned by the Founder Council and a People sample. The proof is published on Trinitas. A post-activation challenge window of one SMW runs before the Oracle root-set is immutable. A demonstrated backdoor in that window voids the etch and restarts the ceremony. Founders do not pick a captive set. After activation, auditor rotation is 7.21. Two distinct Fallback Anchors are live at activation. A Fallback Anchor does not sit on the same physical sapphire that holds the Oracle root-set. When fewer than two peer Nodes exist, a peer-signature slot is a distinct Fallback, never this Node's Steward.
+**CODEX:** Plant comes first, then population. Analog sapphire is the physical root of truth and is stored across at least two geographically distinct, geologically stable sites. The published broadcast chain is the broadcast/tamper-evidence. Fallback and Oracle close the triangle. The Oracle root-set and the uncertainty floor are generated at activation by a multi-party ceremony across three mutually uncorrelated externals, with a published no-backdoor proof, etched into sapphire, and countersigned by the Founder Council and a People sample. The proof is published on Trinitas. A post-activation challenge window of one SMW runs before the Oracle root-set is immutable. A demonstrated backdoor in that window voids the etch and restarts the ceremony. Founders do not pick a captive set. After activation, auditor rotation is 7.21. Two distinct Fallback Anchors are live at activation. A Fallback Anchor does not sit on the same physical sapphire that holds the Oracle root-set. When fewer than two peer Nodes exist, a peer-signature slot is a distinct Fallback, never this Node's Steward.
 
 New Nodes grow from high-VCI families beside high-energy plant. Energy may concentrate; census may not. Caput (8.16) is the ceiling. Rete (8.15) is the mesh. The Sovereignty Event Checklist is cryptographic broadcast, kinetic assertion, economic decoupling, and radio silence toward legacy diplomatic noise (with threat-monitoring active).
 
