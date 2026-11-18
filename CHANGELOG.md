@@ -2,6 +2,18 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.17 — 2026-11-18
+
+- Version line set to **Public Release v1.17**. Release date 18.11.2026. Three new rooms, edits to three existing rooms, five new Glossary rows and one changed row. Nothing else changed. Kernel rooms are touched (I.V, VI.12) and two Kernel rooms are new (VII.10h, VIII.32): adopting them requires the Root Amendment Path (1.5). No act is charged under a room that did not exist when the act was done.
+- Size, as I.12 requires: 301 rooms (298 before; 64 Kernel, 237 Module), 817 Lex lines (802 before), 192 Glossary cells (187 before), 76,337 words (74,467 before), 472,862 bytes (461,994 before).
+- **New room.** VII.10h Nemesis (Kernel), LEX 193AX to 197AX. A proved high-tier act meets the consequence of its row, no less and no more. No office, wealth or petition lightens a row; no lapse of time bars a high-tier file; the injured house files, is heard inside a band and is paid first; force after the act has ended is not defense and is not Nemesis.
+- **Vindicta (VI.12, LEX 24AEG, LEX 76AEG).** The hand of the house now also stands for the murder without defense of a child, only on live-sensor evidence with intent to kill in the ratified finding. No hand of the accused's lineage.
+- **Open contact.** VIII.5a Contactus Apertus (Module), LEX 79LM to 85LM: the declared state, proof of origin, the ladder by behaviour, the citizen, protection both ways, quarantine, gifts, doctrine, departure, bodies, machines, relics, others' wars, conduct outward, language. VIII.32 Non Cedenda (Kernel), LEX 86LM to 88LM: what is never given to a non-human party; no child leaves with one; no one speaks for humanity; no surrender is valid.
+- **Official seats (II.25, LEX 81CR).** A kindred filter decides who may stand; it is never a weight against a merit meter. This closes C2 of Audit 3.
+- **Root path (I.V).** A dissent names the meter it rests on; a dissent that names none counts as not cast. This closes C3 of Audit 3.
+- Glossary: Nemesis, Retributio Iusta, Open Contact, Contact Log, Non Cedenda added; Vindicta updated.
+- Version file `versions/sapiens-novus-v1.17.md` is byte-identical to `sapiens-novus.md`. SHA-256 of `sapiens-novus.md` is in the release notes.
+
 ## 1.16 — 2026-11-17
 
 - Version line set to **Public Release v1.16**. Release date 17.11.2026. This release applies Audit 3 of v1.15.2: eighteen edits to existing rooms, one new Kernel room (I.16 Nemo Iudex) and two Glossary rows. Nothing else changed. Two findings (C2, C3) are left as they stand and go to the next audit.
