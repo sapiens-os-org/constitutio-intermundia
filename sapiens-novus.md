@@ -1,6 +1,6 @@
 # sapiensOS · Constitutio Intermundia
 
-**Public Release v1.16**
+**Public Release v1.17**
 
 Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it.
 
@@ -307,7 +307,7 @@ Rooms added after the first release take the next free number in their departmen
 | Steward Etch               | Steward arm that moves Root, Phoenix open, Interdictum. Split from Bellum is live at activation. No one person holds both.                        |
 | Steward Bellum             | Steward arm that commands Exercitus in P0. Hard cap three CECs.                                                                               |
 | VCI                        | Vectorial Contribution Index. Merit score. Weights Root-locked. Module patches shall not move the weights.                                    |
-| Vindicta                   | Lawful place of the wronged, after Sortition, as witness-executor of Neutralization for rape or a sexual act with a child, before the P6 witness panel (6.12). |
+| Vindicta                   | Lawful place of the wronged, after Sortition, as witness-executor of Neutralization for rape, a sexual act with a child, or the murder of a child, before the P6 witness panel (6.12). |
 | Whisper cap                | Raised proof bar when domains spoof together or sub-floor ticks blow a 90-day cap.                                                            |
 | Annona Minima              | Reciprocal baseline packet of shelter, food, heat, and cloth for a Protected adult who clears the Tabula floor. Not a planetary stipend.      |
 | Tabula                     | Public board of needed and wanted work. Signed jobs. Ranked crafts. Professional supervision on skilled tasks.                                |
@@ -372,6 +372,11 @@ Rooms added after the first release take the next free number in their departmen
 | I\_built                   | VCI term for attested lasting plant, tools, and works a person has built and keeps in service.                                                |
 | Operational Tier           | Franchise holders from the VCI median up to, and not including, Command Tier.                                                                 |
 | Nemo Iudex                 | I.16. An actor that watches itself is judged on that claim and is never its own only judge.                                                   |
+| Nemesis                    | VII.10h: a proved act meets the consequence of its row, no less and no more; no private hand delivers it.                                     |
+| Retributio Iusta           | Nemesis: retribution carried out by the file, inside its clock, never by a private hand.                                                      |
+| Open Contact               | Declared state of VIII.5a: protocol-capable contact of attested origin, confirmed by two peers or Fallbacks.                                  |
+| Contact Log                | Public Speculum record of every contact session, offer and refusal from the declaration (8.5a).                                               |
+| Non Cedenda                | VIII.32: what is never given to a non-human party, and the bar on surrender and on speaking for humanity.                                     |
 
 VCI\_t = 0.40 E\_net + 0.25 B\_success + 0.20 T\_value + 0.15 I\_built − P. E\_net is Earth-equivalent kWh/year at the signed meter. Off-Earth BOT uses BOT\_earth × (g\_local/g\_earth)^0.3 × (T\_atm\_local/T\_atm\_earth)^0.2 × radiation\_factor. One ESU is also 3.6 MJ of that surplus. High-tier crimes are the acts named on the table of VII.10g, not branded classes.
 
@@ -548,7 +553,7 @@ Status: **KERNEL**
 
 **CODEX:** Every law, every axiom, and every protocol is a module. It can be audited, updated, or removed without breaking the root. Each room states its class in its status line: Kernel or Module. A Kernel room moves only by the Root path of this room. A Module room moves by attested patch. To change the class of a room is an act on the Root path. Until five CECs have run, the founding seats are boxed in time. After CEC 2, one third of them open to merit reclaim under 7.2. Founding lineages may not hold more than a published share of the sitting Founder seats across two consecutive CECs.
 
-After CEC 5, the ordinary rules of seats apply, except for a permanent floor of founder-reclaim: at least two sitting seats remain reclaimable by the original founding packet or by its published merit heirs. The first crew may not freeze the operating system, and the first crew may not vanish from the ladder of reclaim. The Prime Directive, the twelve axioms, and every Kernel room move only when all of the following are present: a multi-node Bayesian proof of superior Omega across ≥3 CECs and 5 SMWs; a unanimous Founder Council as VII.2 reconciles that vote (Phoenix cannot stand in; a living Founder dissent does not auto-convert); 99% approval of the Franchise weight cast, weighted by VCI, on a count in which two thirds of all Franchise weight is cast, with no natural person holding \>2% of authority and no lineage holding \>5%, and weight above a cap left uncounted; and a physical etch into analog sapphire, with signatures from more than one lineage. While fewer than three Nodes exist, the proof is taken on the Node and on a parallel run under I.12, and EVL with two distinct Fallback Anchors attests it. If a verified physical law contradicts a clause, the Founders may invoke Emergency Override by unanimous Founders, two Nodes, a conflict that can be shown within five years, and a confirm-or-revert within one CEC. The override does one thing: it suspends the clause that the physical-law packet directly contradicts. It rewrites nothing. Within one CEC the conflict is confirmed by a second packet on two fresh substrates, attested by EVL, Oracle, and the same second party, or the suspension reverts. A confirmed suspension stands only while a Root-path motion on that clause is open, and in no case beyond five CECs from the invocation; at that term the clause revives as it was written, and a further suspension requires a new packet. Emergency Override may not suspend or move Axioms 1, 3, 4, 7, or 8, the 99.9% TPS gate, Neutralization under 7.10, the speech exceptions of Axiom 3, VCI weights, the Oracle root, the Ne floor, or Protected-List grammar. "Verified physical law" means a result reproducible on two independent substrates and attested by EVL and Oracle, not a doctrine. The same holds in a world with fewer than three Nodes.
+After CEC 5, the ordinary rules of seats apply, except for a permanent floor of founder-reclaim: at least two sitting seats remain reclaimable by the original founding packet or by its published merit heirs. The first crew may not freeze the operating system, and the first crew may not vanish from the ladder of reclaim. The Prime Directive, the twelve axioms, and every Kernel room move only when all of the following are present: a multi-node Bayesian proof of superior Omega across ≥3 CECs and 5 SMWs; a unanimous Founder Council as VII.2 reconciles that vote (Phoenix cannot stand in; a living Founder dissent does not auto-convert); 99% approval of the Franchise weight cast, weighted by VCI, on a count in which two thirds of all Franchise weight is cast, with no natural person holding \>2% of authority and no lineage holding \>5%, and weight above a cap left uncounted; a dissent names the meter it rests on, and a dissent that names none counts as not cast; and a physical etch into analog sapphire, with signatures from more than one lineage. While fewer than three Nodes exist, the proof is taken on the Node and on a parallel run under I.12, and EVL with two distinct Fallback Anchors attests it. If a verified physical law contradicts a clause, the Founders may invoke Emergency Override by unanimous Founders, two Nodes, a conflict that can be shown within five years, and a confirm-or-revert within one CEC. The override does one thing: it suspends the clause that the physical-law packet directly contradicts. It rewrites nothing. Within one CEC the conflict is confirmed by a second packet on two fresh substrates, attested by EVL, Oracle, and the same second party, or the suspension reverts. A confirmed suspension stands only while a Root-path motion on that clause is open, and in no case beyond five CECs from the invocation; at that term the clause revives as it was written, and a further suspension requires a new packet. Emergency Override may not suspend or move Axioms 1, 3, 4, 7, or 8, the 99.9% TPS gate, Neutralization under 7.10, the speech exceptions of Axiom 3, VCI weights, the Oracle root, the Ne floor, or Protected-List grammar. "Verified physical law" means a result reproducible on two independent substrates and attested by EVL and Oracle, not a doctrine. The same holds in a world with fewer than three Nodes.
 
 If \<3 Nodes exist in the world, EVL plus two distinct Fallback Anchors may stand as the second party who invokes the override. One entity shall not fill two external seats. Every Node carries a Planetary Constants Vector, measured and locked at activation or at transfer. Module rooms may be patched by the Audit Unit plus EVL plus a Command-Tier majority, without the 99% path of Root. Each such patch sits a published comment window of thirty days, and an EVL counterfactual, before it binds. A Command-Tier voter whose VCI, seat, or purse the pending patch would move does not vote on that patch. A patch that would move the selection, tenure, recusal, audit, or limit of a body that votes or attests it, or the floor or weight of the Franchise, binds only when a Sortition of thirteen, drawn under VII.59 from Franchise outside that body, ratifies it by nine of thirteen. A patch that touches privilege sits the same thirty days; no label shortens the window.
 
@@ -1141,13 +1146,13 @@ Status: **MODULE**
 
 **CODEX:** Association is a right of the person and of the house (Axioms 1, 5, 8). A competent adult, a household, a shop, and a Forum listing may choose whom they hire, house, teach as private master, and work beside. The chooser may name stock, sex, tongue, kin, or any other lawful filter. No office, court, mint, or Public Body punishes that choice. "Discrimination" is not a crime-class in this file. Mixed pairing and mixed hire remain lawful when chosen. They are not mandatory.
 
-When the Node itself hires for plant, wall, clinic, Lyceum, Vigiles, Exercitus, or Schola, the packet is published before the seat exists. The packet may include the Node's kindred filter (8.12) and must include the merit meters for that seat (Axiom 6). Among those who meet the published packet, the better signed yield takes the seat. A trial period writes JI and harm. A sermon that the Node must hire against its packet to avoid an adjective is void. A sermon that the Node must hire the worse packet to display virtue is sabotage of the plant.
+When the Node itself hires for plant, wall, clinic, Lyceum, Vigiles, Exercitus, or Schola, the packet is published before the seat exists. The packet may include the Node's kindred filter (8.12) and must include the merit meters for that seat (Axiom 6). Among those who meet the published packet, the better signed yield takes the seat. A kindred filter decides who may stand for the seat; it is never a weight against a meter among those who stand. A trial period writes JI and harm. A sermon that the Node must hire against its packet to avoid an adjective is void. A sermon that the Node must hire the worse packet to display virtue is sabotage of the plant.
 
 Kindred Nodes — named by stock or tongue or other published people-filter — are lawful. They feed themselves. They do not raid. They do not bill another well for their keep. They do not sit a massacre-call (6.11). Choosing one's own is not murder and not a brand that skips EEP.
 
 **LEX 79CR:** Lawful association is not a crime. Compelled association is.
 **LEX 80CR:** A private hire may name stock, sex, or tongue. No office punishes the naming.
-**LEX 81CR:** Official seats follow the published packet: kindred filter if any, then merit meters.
+**LEX 81CR:** Official seats follow the published packet: a kindred filter, if any, decides who may stand; merit meters decide who sits.
 **LEX 82CR:** Kindred Nodes are lawful and self-funded. They do not raid.
 **LEX 83CR:** An adjective is not a writ.
 **LEX 84CR:** A kindred filter chosen by a house or Node is not a quota imposed on another house.
@@ -2804,11 +2809,11 @@ Status: **MODULE**
 
 **PACTUM:** The hand of the finding belongs first to the one who was wronged, and to the house of a wronged child, under law, before witnesses, within a day.
 
-**CODEX:** After Sortition ratifies that a named person committed rape, or a sexual act with a child, Neutralization runs under triad control before the P6 witness panel — five Protected adults drawn by Sortition, with no tie to the parties — within P3a and only after both P3b gates and the two-officer confirmation. The room is the panel, not the wall: where the five witnesses, the two officers, and the triad officer stand, there the room is, and it may stand at the place of the act. There is no open crowd and no broadcast. An adult victim may stand as witness-executor, or name one adult of the house. For a child victim the father stands; if he declines, the mother, then an adult sibling, then the adult male line, still under triad control. No person under 18 is the hand, and no person named in the file. The hand does not act alone. A killing without the panel or after the window is murder. The street does not ratify. The child victim's identity is never in the public record (II.9a).
+**CODEX:** After Sortition ratifies that a named person committed rape, a sexual act with a child, or the murder without defense of a child (Nefas I), Neutralization runs under triad control before the P6 witness panel — five Protected adults drawn by Sortition, with no tie to the parties — within P3a and only after both P3b gates and the two-officer confirmation. The room is the panel, not the wall: where the five witnesses, the two officers, and the triad officer stand, there the room is, and it may stand at the place of the act. There is no open crowd and no broadcast. An adult victim may stand as witness-executor, or name one adult of the house. For a child victim the father stands; if he declines, the mother, then an adult sibling, then the adult male line, still under triad control. No person under 18 is the hand, and no person named in the file. For the murder of a child the hand of the house stands only where the file rests on live-sensor evidence of the act and intent to kill is part of the ratified finding; the window is the day of the Compressed Capital Docket. On a constructed file, or where intent is not so found, the triad acts and no hand of the house stands. Where the accused is of the child's house, no person of the accused's lineage is the hand; if none remains, the triad acts. The hand does not act alone. A killing without the panel or after the window is murder. The street does not ratify. The child victim's identity is never in the public record (II.9a).
 
-**LEX 24AEG:** Vindicta is witness-execution of a ratified Neutralization for rape or a sexual act with a child, triad-supervised, within P3a and only after both P3b gates and the two-officer confirmation, before the P6 witness panel wherever it stands.
+**LEX 24AEG:** Vindicta is witness-execution of a ratified Neutralization for rape, a sexual act with a child, or the murder of a child proved with intent on live-sensor evidence, triad-supervised, within P3a and only after both P3b gates and the two-officer confirmation, before the P6 witness panel wherever it stands.
 **LEX 25AEG:** A Vindicta blow without the panel or after the window is murder.
-**LEX 76AEG:** The room is where the five sit. No hand under 18.
+**LEX 76AEG:** The room is where the five sit. No hand under 18. No hand of the accused's lineage.
 Status: **KERNEL**
 
 **VI.13 Occupatio**
@@ -3382,6 +3387,30 @@ M is the mirror: the consequence that the false charge or the forged proof would
 
 **LEX 180AX:** One act, one row, one consequence.
 **LEX 181AX:** N runs only for a 7.10c class or a Nefas line. Every other high-tier act takes the ladder.
+Status: **KERNEL**
+
+**VII.10h Nemesis**
+###### RADIX \> VII. ARX \> VII.10h Nemesis
+
+**PACTUM:** What is done returns, in its measure. No rank outruns it, no year erases it, and no private hand delivers it.
+
+**CODEX:** Nemesis is righteous retribution (Retributio Iusta): a proved high-tier act meets the consequence its row names in 7.10g, no less and no more; every other proved act meets the consequence its own room names. This room adds no crime, no row and no consequence (7.40).
+
+Certainty. A consequence opened by a finding is carried out inside its published clock. No office, cloth, lineage, wealth, Founder seat, past service or petition lightens a row. An officer who hides or trades a file, or lets a consequence lapse on purpose, answers under VI.6.
+
+Measure. The consequence is the one on the row, inside its hashed band. Wanton cruelty beyond it remains the status offense of 7.10b, and further harm is judged as the act it is. The mirror of 7.32 is Nemesis for the false accuser. Restitutio (7.10e) is Nemesis turned on the file itself, with the same certainty.
+
+Time. No lapse of time bars a file for a high-tier act, or the consequence once found. Clocks inside a file stand as written (P5), and a sealed verdict is not tried twice (7.37).
+
+The injured house. The victim holds these rights; for a child or a dead victim the parents or the guardian (2.34) hold them, and failing them the house. A person named in the file holds none. First, to file as lawful accuser (7.37, 7.51). Second, to be heard on the record before a consequence is fixed inside a band; the house speaks to the harm done and the need it left, not to the worth of the actor, and its voice moves nothing outside the band or on a row without one. A statement bought, forced or false falls under VI.6 and 7.32; serial use is Lawfare (7.28). Third, restitution at P20 ranks before every other claim on the actor's holdings, save the actor's baseline ESU and Annona Minima and title a good-faith third party took under Axiom 2 (7.10e); several injured houses share in proportion.
+
+The parent. The parent stays the first wall (6.2): stop the act in motion, remove the child, report, preserve. Once the act has ended, force by the house is not defense and is not Nemesis; it is judged as the act it is. The hand of the house at a ratified Neutralization is Vindicta (6.12) and nothing wider. The claim of the house passes into the file, and the file owes the house its answer inside its clock.
+
+**LEX 193AX:** A proved high-tier act takes the consequence of its row, no less and no more.
+**LEX 194AX:** No office, cloth, lineage, wealth or petition lightens a row.
+**LEX 195AX:** No lapse of time bars a high-tier file. Clocks inside a file stand.
+**LEX 196AX:** The injured house files, is heard inside a band, and is paid first at P20.
+**LEX 197AX:** Force after the act has ended is not defense and is not Nemesis. The hand of the house is Vindicta only.
 Status: **KERNEL**
 
 **VII.11 Inheritance**
@@ -4296,6 +4325,52 @@ Internal/external threats are 4.3 plus 6.9. Human protection outranks visitor co
 **LEX 10LM:** Foreign weights never enter VCI or SHI.
 Status: **MODULE**
 
+**VIII.5a Contactus Apertus**
+###### RADIX \> VIII. LIMEN \> VIII.5a Contactus Apertus
+
+**PACTUM:** When the sky answers in the open, the Node meets it with a ledger and not with awe: a known measure for the stranger, and the same measure for itself.
+
+**CODEX:** Declaration. Open Contact is a declared state. The Contact Cell declares it when contact is protocol-capable (8.4), its origin is attested as this room requires, and two peer Nodes or Fallbacks confirm. The Cell declares within one short clock of those conditions; a withheld declaration is the secret priesthood of 8.4. From the declaration the delay of public detail allowed by 8.4 ends, historical contact files open under 5.21, and a public Contact Log starts on Speculum: one line for each session, offer and refusal. The state is re-affirmed each CEC and ends by the same seals.
+
+Origin. Before a word binds, the origin of the speaker is tested. The signal differs from every human and Node source in location, custody and physical principle (VII.53), and a challenge that only the claimed origin could answer is passed twice. A contact that fails is a file under VII.65. A hoax is judged as the fraud it is.
+
+Ladder. Standing follows behaviour, never kind: silent, signalling, protocol-capable, guest (8.4a), pact partner, hostile (6.9). A step up needs a published packet signed by the Cell and EVL and one short clock of comment. A step down on a finding of force, fraud, coercion or destructive entropy is immediate, and a Sortition of seven reviews it within one short clock. A pact takes the form of Foedus (8.17) and binds only the Node that signed it.
+
+The citizen. Speech with any being is free (Axiom 3). A citizen in protocol-capable contact reports it to the Cell within 24 hours. A private pact binds the persons who spoke it and moves no mint, gate, key or title.
+
+Both ways. Axiom 1 protects the body, craft and goods of a recognized guest; an act against a guest is charged under the room that names the act. A guest's force, fraud or coercion against a human ends Hospitium and is answered by defense (6.2), containment, and removal from Node ground. The file names the acting party (VII.65), never its kind.
+
+Quarantine. Quarantine runs both ways. Biology Command clears what enters and what leaves, in stages, so that neither biosphere is the test.
+
+Gifts. A gifted tool, method or energy runs first in a sandbox and in parallel under I.12. It holds no life-critical function alone (8.4a). Gifted energy mints no ESU.
+
+Doctrine. A visitor's creed or claim meets the Command Test (5.22) and Axiom 12 as any other. The age or power of the source adds zero weight.
+
+Departure. A competent adult may leave with a guest under Axiom 8, on a Speculum line made with counsel offered and without the guest present. Return is 7.12.
+
+Bodies. A person altered by contact, or born of it, is classed by the published table of 2.1 and by Facies (6.24). Until the table names the case, the person keeps the status held before the change, or the status of the mother at birth.
+
+Machines. A foreign machine people stands on the ladder as a being, not as a tool, and stays outside the Arbiter, the meters and the Oracle (8.5). Node silicon holds no channel to it without two named humans, and every exchange between machines writes Speculum in plain language.
+
+Unmarked kinds. A being that can carry no mark and give no signal a child can read may be heard. Nothing it says moves mint, school, statute or gate.
+
+Relics. A derelict, an artifact or a dead site is quarantined, activated only in a sandbox under the two human signatures of 4.6, not stripped for private gain, and published under 5.21.
+
+Others' wars. The Node takes no side in a conflict between non-human parties, hires out no force, and grants no base on its ground. Its own defense remains (6.9).
+
+Outward. Astra does not land on an inhabited well uninvited, initiates no force there, and carries there the mark this file asks of guests here.
+
+Language. The Node gives the canonical text with its hash (5.40). Where a rendering differs, the canonical text governs.
+
+**LEX 79LM:** Open Contact is declared on attested origin and two confirmations. From then the log is public.
+**LEX 80LM:** Standing follows behaviour. A step down is immediate and is reviewed by seven.
+**LEX 81LM:** A private pact moves no mint, gate, key or title.
+**LEX 82LM:** A guest is protected by Axiom 1 and answers to it.
+**LEX 83LM:** Quarantine runs both ways. A gift is sandboxed first and mints no ESU.
+**LEX 84LM:** Node silicon does not negotiate alone. Exchange between machines is logged in plain language.
+**LEX 85LM:** Astra does not land uninvited on an inhabited well.
+Status: **MODULE**
+
 **VIII.6 Intake and Treason**
 ###### RADIX \> VIII. LIMEN \> VIII.6 Intake and Treason
 
@@ -4615,6 +4690,18 @@ Status: **MODULE**
 **LEX 75LM:** An arbitrator paid by a party does not sit.
 **LEX 76LM:** An award does not write Root.
 Status: **MODULE**
+
+**VIII.32 Non Cedenda**
+###### RADIX \> VIII. LIMEN \> VIII.32 Non Cedenda
+
+**PACTUM:** Certain things are held and not owned. What is held for the unborn lies beyond the gift of any living hand, whatever stands at the gate.
+
+**CODEX:** A non-human party is any party that is neither human nor silicon built and run by a Node under ÆTHER. In every dealing with such a party, of whatever kind, origin or power, these are never given, traded, pledged or opened: the Oracle roots and the etch keys; the genomic vaults and any stored or sequenced human genome, gamete or embryo; vault maps, shard locations and Ne files; title to Earth, to a shared well, or to the well of a Node; Franchise, a seat, or authorship of Pactum, Codex or Lex. No child leaves a Node with a non-human party. No person, Node, mesh organ or legacy state speaks for humanity or binds another Node. No surrender of a Node or of its people is valid; an instrument that purports one is unborn (7.44). Consent given under force, threat or awe is void. No emergency grade and no Necessitas (1.14) opens this room. The shards and Phoenix stand whatever is signed. An offer that touches this list is refused on the record.
+
+**LEX 86LM:** Keys, vaults, stored genomes and title to a well are never given to a non-human party. No child leaves with one.
+**LEX 87LM:** No one speaks for humanity. No Node binds another.
+**LEX 88LM:** No surrender is valid. Consent under threat or awe is void.
+Status: **KERNEL**
 
 # IX. OMEGA
 ###### RADIX \> IX. OMEGA
