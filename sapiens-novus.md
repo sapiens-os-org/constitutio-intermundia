@@ -1,12 +1,12 @@
 # sapiensOS · Constitutio Intermundia
 
-**Public Release v1.18**
+**Public Release v1.19**
 
-Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it.
+Constitutio Intermundia is the living marrow of a new civilization: sovereign yet shared, written not for one tribe alone but for anyone who chooses to live by its order.
 
-sapiensOS is not software for machines. It is a shared set of rules that people run together. Its constitution, Constitutio Intermundia, is Latin for "constitution between worlds": one text, meant to hold on Earth and beyond it.
+sapiensOS is not software for machines. It is operating consciousness — a shared discipline of awareness, law, and self-rule run together by conscious humans. *Constitutio Intermundia*, Latin for "constitution between worlds," is its binding text, built to hold on Earth and wherever human settlements take root.
 
-From the first camps on Earth to settlements on other worlds, and across the mesh where decentralized nodes join into one network, it defines what sapiensOS is: an operating system for human consciousness. It is made to scale exponentially, from Earth out to the planets. Its aim is easy to say and hard to fake: more human flourishing that can be measured, and relentlessly less entropy. And it takes its bearings from reality: it measures, then pinpoints.
+From the first camps on Earth to worlds across the mesh, it aligns human consciousness with physical reality. Beneath it sit deterministic instruments — reactors, sensors, sapphires, and ledgers — that measure and record; above them, conscious humans decide, sign, and answer. Its aim is plain to state and impossible to counterfeit: measurable human flourishing, and relentlessly less decay.
 
 ### Map of the File
 - **Praefatio** — What this instrument is, the stack (0.S), and the formula (0.F).
@@ -33,26 +33,20 @@ Pactum explains. Codex governs. Lex executes. Words are commands. Meters outrank
 # 0. PRAEFATIO
 ###### RADIX \> 0. PRAEFATIO
 
-*sapiensOS · Constitutio Intermundia* is the digital and biological core of a new civilization. It is an operating system for human consciousness and a techno-deterministic architecture: a sovereign constitution joined to a technical operating system (Axiom OS), made to govern a decentralized web of human Nodes. The text joins law, energy standards, biological imperatives, and kinetic defense into one order that runs on Earth and beyond it. It is fluid rather than rigid. It heals itself, and it can evolve, adjusting its parameters to the pace of environmental change and of human evolution. No single person controls it, and no central office controls it. At its core is **net negentropy**: ordered complexity held against entropy and decay. It is a machine of survival. A living triad runs it — Steward, Memory, and People — and sensor-driven feedback keeps the triad honest.
+*sapiensOS · Constitutio Intermundia* is the living core of a new civilization: **operating consciousness** carried by human minds and backed by deterministic instruments (meters, sapphires, and ledgers) across a decentralized web of Nodes. It binds law, energy physics, biology, and defense into one self-correcting order on Earth and beyond. It adapts to new worlds without dissolving its constants; no single person or central throne owns it. At its center stands **net negentropy** — living order held against decay — steered by a living triad (Steward, Memory, and People) and verified by physical meters.
 
-The text is the foundation of any settlement that aspires to **Entityhood**. It does not buy allegiance with a letterhead or with a stipend. Sovereignty sits in the Node. To enter is to take Protected status. Those who remain outside do not take part in the Cursus, the Forum, or the interior ledger.
+Any settlement seeking **Entityhood** builds on this text. It buys no loyalty with a letterhead or stipend; sovereignty sits in the Node, entered by taking Protected status. Outsiders have no seat in Cursus, Forum, or the interior ledger.
 
-To read this text is to use a working grammar:
+Every room follows one grammar: **Pactum** states *why* (intent), **Codex** states *what* (rules and limits), and **Lex** states *how* (enforceable gates and bans). Words execute; formulas and room-codes bind.
 
-I. The **Pactum** gives the "why": the intent of a room.
-II. The **Codex** gives the "what": the functions and the limits of that room.
-III. The **Lex** gives the "how": the operative clauses, the mathematical gates, and the bans.
-
-Words are not ornaments. They are commands. Formulas, room-codes, and proper names are kinetic. They execute.
-
-The **Ordo** maps the departments that keep the Node alive. The **Glossary** holds the lexicon, so that meaning does not drift. From **Alpha**, the inception and the seed of the people, to **Omega**, the yield, the departments keep the field between those two. The aim is not bare survival. The aim is that human civilization thrives. Meters outrank speech.
+**Ordo** maps the departments; **Glossary** locks the lexicon against drift. Between **Alpha** (inception) and **Omega** (yield), the Node does not settle for bare survival — it builds flourishing order. Meters outrank speech.
 
 **0.0 Quid sit**
 ###### RADIX \> 0. PRAEFATIO \> 0.0 Quid sit
 
 **PACTUM:** Before any office speaks, a stranger who opens this file must know what he holds.
 
-**CODEX:** sapiensOS is the operating system; Constitutio Intermundia is its law for humans; Axiom OS names the 12 Axioms as the constant core of both. It founds Nodes, and it limits them. It does not found a world parliament, a church, or a stipend for those who will not keep a well. Reading is not consent. Consent is the taking of Protected status, of a shard, and of the oath of the rooms (governing Nodes, Castra within the scope of VIII.19, and Protected, Neutral, or Unprotected persons within their respective rooms). The inherited joints are 0.R; they name a method and do not rewrite the Axioms.
+**CODEX:** sapiensOS is operating consciousness — shared human self-rule over deterministic instruments; Constitutio Intermundia is its law for humans; Axiom OS names the 12 Axioms as the constant core of both. It founds Nodes and bounds them. It builds no world parliament, no church, and no stipend for the idle. Reading is not consent; consent begins with Protected status, a personal shard, and the oath of the rooms (governing Nodes, Castra under VIII.19, and Protected, Neutral, or Unprotected persons within their respective rooms). Inherited methods sit in 0.R and never alter the Axioms.
 
 **LEX 1PR:** This file is Constitutio Intermundia, the law for humans inside sapiensOS. It is not liturgy, and it is not a foreign statute.
 **LEX 2PR:** It binds a Node, its Castra (VIII.19), and Protected, Neutral, or Unprotected persons as each room states.
@@ -62,14 +56,14 @@ Status: **KERNEL**
 **0.S Structura**
 ###### RADIX \> 0. PRAEFATIO \> 0.S Structura
 
-**PACTUM:** Hardware carries the OS. The OS carries the law. The law serves the human.
+**PACTUM:** Matter carries the instruments. Operating consciousness carries the law. The law serves the human.
 
 **CODEX:** The stack has three layers.
-1. Hardware: the physical base — energy plant, sensors, compute, communications, the human body and the biosphere of each well.
-2. sapiensOS: the operating system for humans that runs on that base: ledger (ESU), meters, identity (Genomic UID), Speculum log, Arca (VII.64), Nucleus (I.12), the mesh between Nodes, and the interfaces to other beings (VIII.4a). sapiensOS can host further modules and plans beyond Constitutio Intermundia; each module passes the Prime Directive's three questions, runs under the 12 Axioms, and never overrides Constitutio Intermundia for humans.
-3. Constitutio Intermundia: the body of law inside sapiensOS that governs humans as individuals, households and settlements, on Earth, between planets, and across the mesh.
+1. Hardware: the physical base — reactors, sensors, compute, comms, the human body, and the local biosphere.
+2. sapiensOS: the operating consciousness and shared instrument layer — energy ledger (ESU), meters, Genomic UID, Speculum, Arca (VII.64), Nucleus (I.12), the Rete mesh, and contact interfaces (VIII.4a). Additional modules may run here only if they clear the Prime Directive's three questions, obey the 12 Axioms, and never override this law.
+3. Constitutio Intermundia: the binding law governing individuals, households, and settlements on Earth, between worlds, and across the mesh.
 
-**LEX 41PR:** sapiensOS runs on hardware; Constitutio Intermundia runs inside sapiensOS. A module may add; it may not override the law for humans.
+**LEX 41PR:** Hardware carries the instruments; sapiensOS runs above them; Constitutio Intermundia binds the humans. Modules may extend, never override.
 Status: **KERNEL**
 
 **0.F Formula**
@@ -77,11 +71,11 @@ Status: **KERNEL**
 
 **PACTUM:** The whole instrument fits in one line, so that a child may carry it and an engineer may check it.
 
-**CODEX:** Ω\_day = Φ · G · Ψ · E · K − λ(S + P). Living order is people times energy times skill while the gates hold, minus decay.
+**CODEX:** Ω\_day = Φ · G · Ψ · E · K − λ(S + P). Each day's living order multiplies healthy fertile people (Ψ), bounded energy (E), and ordered skill plus meaning (K) while the constitutional gates (G, Φ) hold, then subtracts waste (S) and free-riding (P).
 
-- Ψ: people — health, fertile houses, genetic breadth, character (starts at 1.0). E = Es / Ed = 1 − e^(−Ea/Ed): dimensionless energy sufficiency (0 to 1). K = C + α A: skill and meaning, α ∈ [0.05, 0.50]. S: entropy; P: parasitism; λ: their positive weight. G, Φ ∈ {0, 1}: Prime Directive and Final Invariant gates.
+- Ψ: biological vitality — fertile XY–XX houses, Ne, and Character (base 1.0). E = Es / Ed = 1 − e^(−Ea/Ed): bounded energy sufficiency (0 to 1), so abundance helps without rewarding reckless burn. K = C + α A: complexity and meaning (α ∈ [0.05, 0.50]). λ \> 0: weight on entropy S and parasitism P. G and Φ (1 or 0): Prime Directive and Final Invariant gates.
 
-Over a rolling fifty-year horizon t0→T, the Node seeks Ω\* = max\_N ∫ t0→T e^(−ρ(t−t0)) · Er · [Φ · G · Ψ · E · K − λ(S + P)] dt − κ D − μ V, where Er is 1 MW (so Er·dt is 1 MW-year), D is optionality eaten, V = Σ max(0, g − c) over Active Vulnerarium routes (each closed hit raising attacker cost under VII.67), and κ, μ map D and V to MW-year. If G = 0 or Φ = 0 on any day, the positive term counts zero while −λ(S + P) still accrues and the Node fails admissibility. Five readings: people, energy, and skill multiply; fire saturates; gates are not for sale; eating optionality is fined; every unclosed attack is debt (aim V = 0). IX.1 is the enforced integral and governs if the two differ.
+Over a fifty-year horizon t0→T, the Node maximizes Ω\* = max\_N ∫ t0→T e^(−ρ(t−t0)) · Er · [Φ · G · Ψ · E · K − λ(S + P)] dt − κ D − μ V, where Er = 1 MW (making Er·dt one MW-year), D is optionality consumed, V = Σ max(0, g − c) sums open Active Vulnerarium attack margins (VII.67), and κ, μ \> 0 convert D and V to MW-years. If G = 0 or Φ = 0 on any day, positive yield counts zero while −λ(S + P) still accrues and the Node fails admissibility. Five plain rules: people, energy, and skill multiply; fire saturates; gates are never for sale; consuming future optionality is fined; every unclosed flaw is debt (drive V → 0). IX.1 governs if texts differ.
 
 **LEX 53PR:** Ω\_day = Φ · G · Ψ · E · K − λ(S + P); gate failure zeros only the yield term and fails admissibility.
 **LEX 54PR:** Ω\* = max\_N ∫ t0→T e^(−ρ(t−t0)) Er Ω\_day dt − κ D − μ V, with V = Σ max(0, g − c) over Active Vulnerarium routes.
@@ -94,18 +88,16 @@ This file is not a dead empire under a new flag. The Latin room-names are the fi
 
 Take the inheritance as method, not as an altar: written law over mood; the magistrate bound; a mixed triad; the colony as a seed; a pact with a well that can stand; spectacle without gravitas; hard drill that does not kill the weak child; open inquiry with a human sign.
 
-Common law is the method of the land: a prior written room, a named actor and a named act, no dual law, and no clerical authority. Maritime and admiralty forms are confined to Astra contracts (space, sea, orbital). They do not write terrestrial title, custody, Neutralization, or school.
-
-The aim is the expansion of human status. Foedus (8.17) precedes kinetic reduction when the well can keep BOT and the named Axioms. A raid is not owed a treaty.
+Common-law rigor governs the land; admiralty stays at sea and in orbit. Foedus (8.17) precedes force against any well that keeps BOT and the floor Axioms; a raid is owed no treaty.
 
 **0.R.1 Method**
 ###### RADIX \> 0.R HERITAS \> 0.R.1 Method
 
 **PACTUM:** Name the inheritance, so that a costume cannot take the place of the machine.
 
-**CODEX:** Old titles used in this file are aliases for rooms that already exist. A man who puts on a costume and skips Entityhood has founded a theater. He has not founded a Node.
+**CODEX:** Inherited titles are aliases for existing rooms, never a shortcut past Entityhood. Common law governs terrestrial rooms: a prior written room, a named actor and act, no dual law, and no clerical authority. Maritime and admiralty forms govern Astra space, sea, and orbital contracts only — never terrestrial title, custody, Neutralization, or school.
 
-**LEX 1PR:** Aliases do not rewrite Axioms, Oracle, Ne, Neutralization, or VCI weights.
+**LEX 1PR:** Aliases do not rewrite Axioms, Oracle, Ne, Neutralization, or VCI weights; admiralty stays off land.
 **LEX 2PR:** A costume is not Entityhood.
 Status: **MODULE**
 
@@ -131,54 +123,33 @@ Status: **KERNEL**
 ###### RADIX \> A. ORDO
 
 **0. PRAEFATIO**
-What this file is: sapiensOS is the operating system; Constitutio Intermundia is its law for humans; Axiom OS names the 12 Axioms as the constant core of both; and the way Pactum, Codex, and Lex are to be read.
+What this file is: sapiensOS as operating consciousness, Constitutio Intermundia as its law for humans, Axiom OS as the 12-Axiom core, and the Pactum/Codex/Lex reading grammar.
 
-**0.R HERITAS**
-Inherited civil method. A pact comes before a needless sack. There is no costume-empire.
+**0.R HERITAS** — Inherited civil method: common law on land, admiralty off-world, Foedus before needless force, no costume-empire.
+**0. ALPHA** — Biological inception before any office speaks.
+**I. PRIMA** — Purpose, twelve Axioms, Root/Module amendment paths, clocks (I.6), closure (I.9), precedent (I.15), and self-audit (I.16).
+**II. CORPUS** — Binary sex (XY/XX), Axiom-4 household, physical mastery, directed genome, earned citizenship, chosen association (II.25), and zero sex/stock privilege.
+**III. ANNONA** — Measured energy ledger (1 ESU = 1 kWh surplus), VCI, Tabula (3.16) -> Rate Chain (3.17) -> Pretium Vitae (3.18), reciprocal Annona Minima, and clean food.
+**IV. ÆTHER** — Plant, meters, silicon-as-tool (4.5–4.7), pharmacy liability, open joint software, Trinitas triple ledger, Forum, Cursus, and Lyceum.
+**V. ANIMUS** — Cognitive armor, inviolable speech/ridicule (5.12), unvarnished history (5.9, 5.38), hybrid examined Schola (5.34), Limen Scholae (5.35), and Camena (5.39).
+**VI. AEGIS** — Physical wall, personal arms, Halt-in-Progress (6.2), Vindicta (6.12), Vigiles (6.27), Exercitus/Praetoria (6.28), and Murus (6.23).
+**VII. ARX** — Meters and Sortition verdicts, rotating Iudex, Neutralization (7.10–7.10i), Nefas (7.52), EVL/Oracle, Speculum, Arca, and Immunitas (7.67).
+**VIII. LIMEN** — Entityhood, Caput (8.16), Rete mesh (8.15), Foedus (8.17), Astra (8.18), Castra (8.19), Contactus Apertus (8.5a), Insula (8.23), and Non Cedenda (8.32).
+**IX. OMEGA** — Master negentropy integral (IX.1), QAT (IX.2), Cycle (IX.3), and citizen dashboard (IX.4).
 
-**0. ALPHA**
-The primary letter. What this people is, before any office speaks for it.
-
-**I. PRIMA**
-The foundation: the purpose, the twelve immutable constants, the single path by which they may be amended, and the clock rule.
-
-**II. CORPUS**
-The human is biological hardware: binary sex, a stable household, a resilient body, a directed genome, and the capacity to keep oneself. Citizenship is earned by labor. Agoge hardens the professional track and does not expose the weak. Association is chosen. It is not assigned. An official race-quota is sabotage. The sexes are not interchangeable. High command is a packet, not a symmetry. There is no female surplus-claim, no female sentence-discount, and no maternal custody default.
-
-**III. ANNONA**
-Net energy and agricultural surplus are measured. The token is a signed kilowatt-hour. The rate-chain (3.17) sits between Tabula and Pretium Vitae. Speech does not outrank the reactor. No single lineage owns the next generation. Baseline Annona is reciprocal necessity. It is not a planetary stipend. Willful waste of the body is not a claim on the clinic. Clean food is a security joint.
-
-**IV. ÆTHER**
-Energy is plant and meter. Silicon is a tool. It is not a ruler. A drug carries the name of its maker. Shared software must stay legible. The ledger is a trinity, with a cold store. Services move on an open board. Cursus classifies the hand that takes the work, and examines that hand. Lyceum funds the experiment that can be killed.
-
-**V. ANIMUS**
-The mind is trained against its own biases. Speech and critique stay free. History stays unvarnished. Talk that does not move the physical world is not care. School is hybrid. It is examined, and it is closed to catechism. Limen Scholae (5.35) keeps the exam apart from the stage. Pinna (5.37) indexes a doctrine before Bestiarum pins it. Camena governs the child's screen.
-
-**VI. AEGIS**
-The perimeter: the wall, personal defense, the halt of a crime in motion, and the ban on taking resources in secret. Vigiles are the waking immune arm. Exercitus is the standing art. Cohors Praetoria is its tip. Issued kit follows Norma.
-
-**VII. ARX**
-Verdicts come from meters and from men. Office does not wash a crime. The ballot is earned. The machine proposes a remedy. Three seals confirm it. Iudex rotates. Fame does not weigh a file. Nefas is the closed 24-hour list.
-
-**VIII. LIMEN**
-A settlement becomes a Node by becoming able to keep itself. The founding plant must cover N × BOT plus surplus. Contact does not hand over sovereignty. The gate is not a substitute for the pump. Nodes form a mesh. A census above Caput founds another Node. Foedus is offered to a well that can stand. Astra opens the next well and studies contact. A Castra is bound before Entityhood. Vector Breach freezes the old floor.
-
-**IX. OMEGA**
-The work is living order against decay. This claim answers to that measure alone.
-
-Rooms added after the first release take the next free number in their department, and no room is renumbered. The Changelog names them by release. Where two rooms meet, I.15 gives the order. This index maps departments and adds no rule beyond its rooms.
+New rooms take the next free number without renumbering; I.15 resolves collisions. This index adds no rule.
 Status: **MODULE**
 
 # B. Glossary
 ###### RADIX \> B. GLOSSARY
 
-**PACTUM:** This room locks the lexicon, so that no faction may redefine energy, lineage, sex, or truth.
+**PACTUM:** Locks the lexicon against faction redefinition.
 
 **CODEX:** The definitions below are the only operative meanings. A formula that will not fit a cell follows the table. A faction may not redefine a term.
 
 | Term                       | Definition                                                                                                                                    |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| AXIOM OS                   | sapiensOS is the operating system; Constitutio Intermundia is its law for humans; Axiom OS names the 12 Axioms as the constant core of both.  |
+| AXIOM OS                   | The 12 immutable Axioms at the core of sapiensOS (operating consciousness) and Constitutio Intermundia (its law for humans).                     |
 | Heritas                    | Inherited civil method. Aliases only. Not a costume-empire.                                                                                   |
 | Foedus                     | Offered pact with a well that can keep BOT and the named Axioms. Seed-path before kinetic reduction when the offer is honest.                 |
 | Astra                      | Space and contact arm. Not a private sky. Tours under 7.29. Historical hide is a crime.                                                       |
@@ -187,7 +158,7 @@ Status: **MODULE**
 | Vicus                      | Self-funded adult quarter for same-sex households that cluster. No lineage subsidy. No priority. Not a prison.                                |
 | Consociatio                | Freedom to choose hire, house, and company. Kindred filter lawful. Compelled mix void.                                                        |
 | Quota Nulla                | Ban on official race-over-competence doctrine and quotas. Kindred choice is not a quota on others.                                            |
-| Dominium                   | Published packet by which a woman may sit a male-default high-tier command seat. Not a quota.                                                 |
+| Dominium                   | Published packet by which a woman may sit a male-default apex command seat. Not a quota.                                                      |
 | Custodia                   | Child placement after a split. Better parent packet. No sex default.                                                                          |
 | Mater                      | Gestation and early-care help for an Axiom-4 mother with the father. Not a custody trump.                                                     |
 | Exercitus                  | Standing professional force: Legio, Classis, Alae. Paid from the collective-kit cap. Does not etch Root.                                      |
@@ -235,7 +206,7 @@ Status: **MODULE**
 | Halt-in-Progress           | Stop of a high-tier crime in plain view, lethal only where less would not serve. Defense, not Neutralization.                                 |
 | Homo Novus                 | Directed-evolution successor on the long horizon. Not a caste-name for the living.                                                            |
 | Hostia Nulla               | No citizen is a lamb for a camera story. Triage of many versus few is Prioritas, not a sermon.                                                |
-| Interdictum                | Official motion without a live room does not run. Memory Halts. The triad judges.                                                             |
+| Interdictum                | Official motion without a live room does not run. Memory Halts; an uninvolved panel (Sortition of seven replacing Memory and any motion-issuing office) judges inside the VII.44 clock. |
 | JI                         | Joule Index. Surplus in megajoules attributed to a person, times I/J, minus waste caused. Feeds VCI E\_net.                                 |
 | Lawfare                    | Process, delay, cost, or volume used to exhaust a person who has not lost on the merits.                                                      |
 | Limen                      | Department VIII. Birth, death, contact, gate. Lex tag LM.                                                                                     |
@@ -273,7 +244,7 @@ Status: **MODULE**
 | Semantic Trojan            | Drift that changes a word's meaning without a formal etch. Archive sabotage when done on purpose.                                             |
 | SHI                        | System Health Index. Dashboard with a corpse-cap.                                                                                             |
 | Shard                      | Personal Root packet carried by every Protected adult. Full Root reconstructs only from a published k-of-n fragment set (1.8).                |
-| Shard-Fragment             | One secret-share of Root. A single fragment does not yield Root, Phoenix mint, or last-seal replay.                                           |
+| Shard-Fragment             | One secret-share of Root. A single fragment never yields Root, Phoenix mint, or last-seal replay, save Phoenix restart under VIII.14 Ultimus when Fallback attests under VII.53 that no other fragment survives. |
 | Protected-List             | The set of joints module patches may not touch. The list-grammar itself is Root-locked (1.5).                                                 |
 | Cross-Quorum Rule          | On divergence among Trinitas, External Auditors, and the living triad, Fallback plus one peer signs precedence; disputed meters write no law. |
 | Signum                     | Live signed hash across Steward, Memory, People, and shard sample. Drift isolates.                                                            |
@@ -292,7 +263,7 @@ Status: **MODULE**
 | Ultimus                    | Last human plus shard opens Phoenix. Vault and maternity facility rebuild stock. Silicon keeps lights; it does not become the people.                 |
 | Unprotected                | Status with no Franchise. Subject to Transport after EEP. Neutralization only for a class that 7.10 names.                                    |
 | Usura                      | Contracted increase on a loan that is not a published risk-share in a joint plant. Banned.                                                    |
-| Continuity Bond            | Plant-and-surplus escrow a seceding group leaves so the parent keeps BOT coverage for one SMW. Size is N_parent × BOT_local × one SMW, hashed to sapphire at activation. |
+| Continuity Bond            | Plant-and-surplus escrow a seceding group leaves so the parent keeps BOT coverage for one SMW. Size is N\_parent × BOT\_local × one SMW, hashed to sapphire at activation. |
 | Short clock                | One 90-day cycle. Unit for Gelu, Interdictum, sapphire hash, VCI-median recalibration, and the self-heal loop. Distinct from SMW. Gelu auto-reverts at 72 hours unless an uninvolved leg plus Fallback or peer confirms extension to the full short clock. |
 | Uninvolved                 | A triad leg or external that holds no seat, key, or meter authority over the triggering event or the room under audit in the prior two short clocks, and that meets VII.53 independence against the Node's own meters. |
 | Horologium                 | Periods run from the trigger unless a clause names a clock boundary.                                                                          |
@@ -300,7 +271,7 @@ Status: **MODULE**
 | Steward Etch               | Steward arm that moves Root, Phoenix open, Interdictum. Split from Bellum is live at activation. No one person holds both.                        |
 | Steward Bellum             | Steward arm that commands Exercitus in P0. Hard cap three CECs.                                                                               |
 | VCI                        | Vectorial Contribution Index. Merit score. Weights Root-locked. Module patches shall not move the weights.                                    |
-| Vindicta                   | Lawful place of the wronged, after Sortition, as witness-executor of Neutralization for rape, a sexual act with a child, or the murder of a child, before the P6 witness panel (6.12). |
+| Vindicta                   | Lawful place of the wronged, after Sortition, as witness-executor of Neutralization for rape, a sexual act with a child, or the murder without defense of a child proved with intent on live-sensor evidence, subject to VII.10i clean hands, before the P6 witness panel (6.12). |
 | Whisper cap                | Raised proof bar when domains spoof together or sub-floor ticks blow a 90-day cap.                                                            |
 | Annona Minima              | Reciprocal baseline packet of shelter, food, heat, and cloth for a Protected adult who clears the Tabula floor. Not a planetary stipend.      |
 | Tabula                     | Public board of needed and wanted work. Signed jobs. Ranked crafts. Professional supervision on skilled tasks.                                |
@@ -308,7 +279,7 @@ Status: **MODULE**
 | Rete                       | Inter-Node mesh of trade, hashes, rescue contracts, and exam-roots. No planetary parliament.                                                  |
 | Caput                      | Census-and-space ceiling of a Node. Default N\_max is 8,000 Protected adults. Above it, fission.                                              |
 | N\_max                     | Published Protected-adult ceiling of a Node. Retuned off-Earth by the Planetary Constants Vector.                                             |
-| Trinitas Ledgeri           | Triple ledger: analog sapphire, inter-Node broadcast, air-gapped twin. Cold optical or cassette dump each SMW.                                |
+| Trinitas Ledgeri           | Triple ledger: analog sapphire, inter-Node broadcast, air-gapped twin. Migrated archival optical or sapphire dump each SMW (IV.20).             |
 | Forum                      | Open board for services and used goods. UID-signed rank. No silent third-party mute.                                                          |
 | Campus Scholae             | Node school for children. Distinct from adult Campus (2.15).                                                                                  |
 | Cursus                     | Node-only ladder of classified crafts and sciences, G0–G5, examined in person or under proctor. Feeds Forum and Tabula.                       |
@@ -335,7 +306,7 @@ Status: **MODULE**
 | Swift method               | A rapid, non-cruel means of Neutralization under triad control.                                                                             |
 | Hospitium                  | VIII.4a mandatory accommodation path for qualifying beings; the law for humans does not change.                                             |
 | Structura                  | 0.S stack: hardware, sapiensOS, Constitutio Intermundia.                                                                                    |
-| Furtum identitatis         | Knowing use, cloning, or substitution of another person's Genomic UID (part A or part B), Facies mark, or shard-credential, without that person's consent, to act as that person so as to move a ballot, a seal, mint, title, or a file, or to cause that person to stand a file they did not act. Lesser uses are ordinary fraud. Reissuing B after lawful biometric match to A plus two witnesses (II.21) is not this crime. |
+| Furtum identitatis         | Knowing use, cloning, or substitution of another person's Genomic UID (A or B), Facies mark, or shard-credential, without consent, to move a ballot, seal, mint, title, or file, or shift criminal standing. Lesser uses are fraud. Disclosed V.36 stage aliases and II.21 compromise rotations are excluded. |
 | Rape                       | A sexual act with a person who has not given competent, contemporaneous consent, or who cannot consent because of force, threat of imminent force, unconsciousness, or verified incapacity. A sexual act with a person under 18 is the separate class "sexual act with a child" whether or not force is shown. |
 | Sexual act                 | Intimate sexual contact, including penetration or the use of a body or object for sexual contact. The exact packaged definition is hashed at activation as a published band (I.VI) so that speech alone does not publish it. |
 | Kernel                     | A room whose status line reads KERNEL. It moves only by the Root path. Root, Root Code, and Root-locked name the Kernel.                      |
@@ -381,11 +352,33 @@ Status: **MODULE**
 | Vector Breach              | VIII.20 freeze of imported floors or parameters when a foreign vector collides with local BOT or Axioms.                                       |
 | Stock / People-Filter      | II.25 / VIII.12 published heritable population/tongue cluster defined by objective biometric/demographic packet hashed at Node declaration.     |
 | Joule Index Terms          | J\_use (direct human useful energy), J\_cmd (commanded Consors/plant useful energy), I/J (bounded dimensionless information-yield factor ∈ [0, k\_max]), J\_waste (dissipated waste energy), per III.6. |
+| Curriculum                 | Mandatory empirical formation of Axiom 10 and V.2 (logic, physics, biology, stats, history, practical arts); doctrine is barred.               |
+| Stability Reserve          | 2% daily minting reserve plus VII.11 estate absorption; funds emergencies, II.9a care, P13 redress, and seed custody. Never an idle stipend.    |
+| Dormancy                   | VIII.3 survival state holding a weakened Node on minimal Biological Layer until recovery, merger, or seed-preserving shutdown.                 |
+| Biology Command            | Domain Commander overseeing biological, clinical, and genome gates (distinct from Energy, Defense, and Integration offices).                   |
+| Compressed Capital Docket  | VII.10/VII.52 24-hour P3a execution docket for live-sensor Full-Proof 7.10c/Nefas classes under P3b gates (30-day hold if constructed).       |
+| Contact Cell               | VIII.5 collective channel (Defense, Biology, Energy Commanders, one Founder, one EVL observer) managing protocol-capable contact.             |
+| Final Invariant            | VII.19 non-negotiable boundary protecting computability of Omega/VCI/SHI, binary sex, Ne floor, 99.9% gate, and Axioms 1, 3, 4, 7, 8.         |
+| Optimization Directive     | II.3/II.6 12-month corrective plan triggered by three bottom-band health quarters or two sub-0.4 virtue years.                                |
+| Resourceless-Protected     | VI.3/III.15 interim status for a Transport-ordered person when no external destination exists, capped by Tabula floor and EEP appeal.          |
+| Pretium Vitae              | III.18 yield-to-life pricing bands: first band (plant, clinic, wall, Vigiles, Schola), second (ordinary work), third (Otium Opus, Scaena).   |
+| Lingua Novus               | V.16 optional low-drift constructed tongue commissioned under I.5 only if working English is captured.                                         |
+| Debug                      | VII.23 standing unit that stress-tests live text and plant against Active Vulnerarium and novel attacks each short clock.                    |
+| Patronus                   | VII.58 independent Ius-Gradus defender assigned to an accused without counsel; never an officer or witness in the case.                       |
+| Opus Rank                  | III.13/IV.21 public craft score built strictly from signed work by named counterparties; moves hire only, never Franchise or status.         |
+| Grace Period               | VI.1 N+1 power-redundancy interval preceding Phoenix or seed-denial triggers when integrity falls toward 30%.                                |
+| Terminal Entropy Protocol  | IX.1/VII.4 emergency shed-and-reclaim sequence under three seals when 90-day ascent stays negative past one winter cycle.                    |
+| Intercessio                | VII.63 Sortition-of-seven stay suspending a non-root patch until EVL answers in writing and a fresh panel rules.                             |
+| Mora                       | VIII.24 relativistic/transit clock rule counting consecutive days on the locus Node's SI sapphire clock without stacking transit lag.       |
+| Schisma                    | IV.26 partition tie-breaker awarding the live book to sapphire plus the most VII.53 Oracle/Fallback signatures while freezing twin mint.      |
+| Furca                      | VIII.26 offline fork-bond rule requiring physical plant escrow verified before Rete privileges unlock.                                       |
+| Fusio                      | VIII.27 ledger-and-hold merger rule forcing one SMW of public books and carrying live holds forward on the latest verified kernel.           |
+| Discordia                  | VIII.25 cross-Node vector isolation preventing foreign planetary constants from rewriting local BOT or condemning visitors.                  |
 
 VCI\_t = 0.40 E\_net + 0.25 B\_success + 0.20 T\_value + 0.15 I\_built − P, where each weighted positive term is normalized to frozen cohort median = 500 under III.2 (not raw kWh). Off-Earth BOT uses BOT\_earth × max(1.0, (1 + c\_g·|1 − g\_local/g\_earth|) · (1 + c\_p·|1 − P\_atm\_local/P\_atm\_earth|) · (T\_atm\_earth/max(T\_atm\_local, ε\_T))^0.2) × radiation\_factor, and is never below BOT\_earth × radiation\_factor (c\_g, c\_p, ε\_T hashed at activation). One ESU is 3.6 MJ of verified surplus above BOT. High-tier crimes are the acts named on the table of VII.10g, not branded classes.
 
 **LEX 1GL:** The terms in this Glossary are the only operative meanings.
-**LEX 2GL:** Named rooms bind. A number is an aid. A gate moves by its name. A Lex tag is a number plus a letter code: PR Prima, CR Corpus, AN Annona, ÆT ÆTHER, AV Animus, AEG AEGIS, AX Arx, LM Limen, GL Glossary, MG Omega. No tag uses the letter O or the letter I. Æ is one letter. Tags inside each chapter are unique 1..N integers (appended by release without renumbering) and never duplicate, save that 1PR and 2PR only may restart in 0.0, 0.R.1, 0.1, and I. Carta; such a tag is cited with its room.
+**LEX 2GL:** Named rooms bind; numbers aid. Lex tags pair integer 1..N with chapter code (PR, CR, AN, ÆT, AV, AEG, AX, LM, GL, MG; never O or I; Æ is one letter), unique per chapter and never renumbered, except 1PR/2PR restarting in 0.0, 0.R.1, 0.1, and I. Carta (cited by room).
 **LEX 3GL:** Sex is observed hardware, XY or XX. No one assigns it.
 **LEX 4GL:** There is no right not to be offended.
 **LEX 5GL:** Religion and ideology do not write Pactum, Codex, or Lex.
@@ -397,32 +390,17 @@ Status: **KERNEL**
 
 **PACTUM:** A word the rooms already use is not a hole through which a faction may call the file a syntax error.
 
-**CODEX:** The Glossary remains the lock. This room records how the rooms already use terms the Glossary does not spell in its own cell, and it records collisions of name that this version does not rename. It adds no office, no threshold, and no exception. If a sentence here and a Glossary cell differ, the cell governs. To copy a line of this room into the Glossary is a later etch. It is not a silent edit.
+**CODEX:** B. Glossary remains the lock. This room disambiguates homonyms and cross-room usage without adding any office, threshold, or exception; where this room and a Glossary cell differ, the cell governs.
 
-QAT is the name of IX.2. The file does not expand the three letters. The operative meaning is the Codex of that room: the aim, said in one breath, for the wall and for the pocket.
-
-Neutral is a reciprocal status in Axiom 11 and in VII.7. It stands between Protected and Unprotected. Each step needs EEP. This room gives Neutral no Franchise and no new duty.
-
-Excision is the status step named in Axiom 11. VII.9 calls Transport the standard excision. Excision is not a second punishment beside Transport and beside Neutralization.
-
-Integration officer (VII.30), Audit Unit (I.V / VII.20; one body with continuous audit until an etch splits them), Trust Budget (IV.2, IV.3), Kali Yuga and Planetary Cycle Vector (IX.3), and Carcer (VII.10) carry full cells in B. Glossary and remain bounded by their respective rooms. Compressed Capital Docket remains the 24-hour Nefas clock in VII.10 and VII.52 (constructed files retain the 30-day hold under VII.10). Grace Period remains the N+1 redundancy interval before VI.1 seed-denial (≤30% integrity).
-
-Command Tier is the headword in the Glossary: the 90th percentile of Node VCI. Other rooms also write Command-Tier and Command-tier. They are the same term.
-
-Horologium, in the Glossary and in I.6, means that a period runs from the trigger unless the clause names a boundary. III.14 uses the same name for a different joint: two clocks, two books, and no shared blink, so that a desk cannot hide a position across a review. This version does not rename either room.
-
-CEC is used in two ways that this version does not rename. (1) As a standing 270-day calendar cycle counted from activation or from the prior CEC boundary (I.V "after CEC 2", "until five CECs have run"; VII.2; VII.29; P5; P9; P10; P12; P16). (2) As the winter protocol that VII.4 opens when maintenance, meter divergence, or SHI fails. A period named as one CEC in sense (1) runs 270 consecutive days from its trigger under I.6 and does not wait for a VII.4 opening. Root 1.5's "≥3 CECs and 5 SMWs" uses sense (1): three standing 270-day cycles and five standing 180-day windows, concurrent floor 900 days. A VII.4 winter that happens to be open during those days is not an extra requirement and does not pause the count.
-
-
-I.IV writes the base integral with E\_ref, Ψ(B), A\_ART, entropy, and parasitism. IX.1 writes the enforced integral with Er, Ψ, A, S, P, the gates G and Φ, and the penalties κ D and μ V. I.IV states that IX.1 is the enforced form. The symbols name the same meters: E\_ref is Er, Ψ(B) is Ψ, A\_ART is A, entropy is S, and parasitism is P. Neither formula is replaced here.
-
-VII.49 uses the verb "uncompromise" for the step after isolation and before replacement: restore the leg from the last clean hash, then replace it. This version does not change that verb.
-
-Colonia, EADIP, Semantic Trojan, and Silicon Layer keep the meanings in the Glossary. Later rooms in this version use them, so that a defined term is not an empty cell.
-
-I. Carta's count of eight departments is deliberate. Prima is the root, and eight departments stand under it, from Corpus through Omega, which is II through IX. The Prima tag still names the span from I PRIMA through IX OMEGA. This sentence records that reading. It does not amend I. Carta.
-
-P is written in three senses that this version does not rename. In III.2 it is parasitism, the subtracted term of VCI. In Prioritas it is a grade, P0 through P3. In VII.10d and VII.66 it is a parameter, P1 through P20. The room in which the letter stands tells which.
+- **QAT (IX.2):** The aim in one breath for wall and pocket.
+- **Neutral & Excision (Axiom 11):** Neutral stands between Protected and Unprotected by EEP; Excision names Transport (VII.9) or Neutralization (VII.10), never a third penalty.
+- **Case & Alias:** Command Tier, Command-Tier, and Command-tier are identical; Audit Unit (I.V/VII.20) is one continuous-audit body until etched apart.
+- **Horologium:** I.6 measures trigger-anchored SI clocks; III.14 requires two independent clocks and books against hidden positions.
+- **CEC (two senses):** (1) A standing 270-day calendar cycle counted under I.6 (I.V, VII.2, VII.29, P5, P9–P12, P16); Root 1.5's ≥3 CECs and 5 SMWs uses sense (1) (concurrent 900-day floor, unpaused by winter). (2) The winter protocol opened under VII.4.
+- **Formula Symbols:** I.IV and IX.1 map one-to-one (E\_ref = Er, Ψ(B) = Ψ, A\_ART = A, entropy = S, parasitism = P); IX.1 is the enforced form.
+- **Uncompromise (VII.49):** Restore a leg from its last clean hash before replacement.
+- **Department Count:** I. Carta's eight departments sit under Prima (II Corpus–IX Omega); tag PR covers the root span I–IX.
+- **P (three senses):** Parasitism in III.2; urgency grade P0–P3 in Prioritas; parameter P1–P20 in VII.10d/VII.66, fixed by context.
 
 **LEX 7GL:** A term recorded here from a room already in the file is not undefined.
 **LEX 8GL:** If this room and a Glossary cell differ, the cell wins.
@@ -437,7 +415,7 @@ Status: **KERNEL**
 
 **PACTUM:** The departments are named here, so that a citizen knows where he stands.
 
-**CODEX:** Eight departments govern the machine. Prima is the root. Corpus manages the body and the family. Annona manages surplus, energy, the reciprocal baseline, and the Tabula. ÆTHER manages plant, meters, silicon, the triple ledger, the Forum, and Cursus. Animus manages education, speech, and meaning. Schola is hybrid, and it is examined. AEGIS manages the perimeter, attribution, and Vigiles. Arx manages decision, trial, audit, and the rotating Iudex. Limen manages birth, death, contact, the mesh, and Caput. Omega measures net living order against decay.
+**CODEX:** Prima is the root; eight departments govern the Node under it. Corpus manages the body and the family. Annona manages surplus, energy, the reciprocal baseline, and the Tabula. ÆTHER manages plant, meters, silicon, the triple ledger, the Forum, and Cursus. Animus manages education, speech, and meaning. Schola is hybrid, and it is examined. AEGIS manages the perimeter, attribution, and Vigiles. Arx manages decision, trial, audit, and the rotating Iudex. Limen manages birth, death, contact, the mesh, and Caput. Omega measures net living order against decay.
 
 **LEX 1PR:** Root Code departments are I PRIMA through IX OMEGA.
 **LEX 2PR:** Citations use live room names.
@@ -450,7 +428,7 @@ Status: **KERNEL**
 
 **CODEX:** This is the root constant. A law that does not serve it is error. Flourishing is binary sex, an intact genome, cognition, vitality, and children in a house that stands. The far horizon is Homo Novus. Captured surplus is the only honest meter of a civilization. Trade and logistics serve that surplus. Complexity is knowledge, plant, and culture, braced against the second law. Parasitism is a transfer from those who yield to those who do not: a desk without a watt, a dole without reciprocity, corruption, genetic load kept as fashion, or a meme that drains the will.
 
-Every act answers three questions. Does it raise surplus? Does it raise biological or cognitive excellence? Does it minimize entropy and the free-rider while maximizing human flourishing? Work that claims ascent must clear all three. Rest, sport, dance, and craft count when they return the body to readiness. Collapse of will, of mind, or of drive is Terminal Entropy, and Transport sheds it. A proved high-tier crime is shed under 7.10. What lowers net negentropy is waste heat.
+Every policy answers three questions: does it raise surplus, raise biological or cognitive excellence, and minimize waste and free-riding while advancing human flourishing? No policy clears ascent unless it clears all three, and those questions rank lawful options — they never license an Axiom breach against an individual. Rest, sport, dance, and craft count when they return the body to readiness. Collapse of will, of mind, or of drive is Terminal Entropy, and Transport sheds it. A proved high-tier crime is shed under 7.10. What lowers net negentropy is waste heat.
 
 Root Code sits under the same three questions. A clause that cannot show a meter, a karyotype, or a contract, on the same test it applies to others, is doctrine, and it opens 1.5. Detection without a motion is an Entropy Event. A heal requires Integration, EVL, and the silicon briefers. There is no solo patch of Root.
 
@@ -515,11 +493,11 @@ Status: **KERNEL**
 **IV. Master Objective Function**
 ###### RADIX \> I. PRIMA \> IV. Master Objective Function
 
-**PACTUM:** This is the aim, written so that it can be computed. The Node may not hide a prayer inside a maximum, and it may not let the score consume the species.
+**PACTUM:** The computable aim. The Node may not hide a prayer inside a maximum, and it may not let the score consume the species.
 
 **CODEX:** Maximize the time-discounted integral of net negentropy over a rolling fifty-year horizon t0→T: Ω\* = max\_N ∫ t0→T e^(-ρ(t−t0)) × E\_ref × [Ψ(B) × (Es/E\_design) × (C + α A\_ART) − λ(entropy + parasitism)] dt.
 
-E\_ref is 1 MW (reference power, so E\_ref·dt yields 1 MW-year). ρ ≈ 0.001/year. Ψ(B) is the biological composite (XY–XX fertility, Ne vs floor, capped Character Event rate). C is complexity, A\_ART is the normalized meaning/aesthetic index (5.5, 5.11), α ∈ [0.05, 0.50], and λ is positive weight on entropy and parasitism. Es = E\_design × (1 − exp(−E\_actual/E\_design)); surplus above design stores toward I\_built. The Planetary Constants Vector scales energy and biology. IX.1 enforces this form with gates G, Φ ∈ {0, 1} on the positive yield term and penalties − κ D − μ V (so gate failure never turns a negative day upward and always fails admissibility).
+E\_ref is 1 MW (reference power, so E\_ref·dt yields 1 MW-year). ρ ≈ 0.001/year. Ψ(B) is the biological composite (XY–XX fertility, Ne vs floor, capped Character Event rate). C is complexity, A\_ART is the normalized meaning/aesthetic index (5.5, 5.11), α ∈ [0.05, 0.50], and λ is positive weight on entropy and parasitism. Es = E\_design × (1 − exp(−E\_actual/E\_design)); surplus above design stores toward I\_built. The Planetary Constants Vector scales energy and biology. IX.1 enforces this form with gates G and Φ (1 or 0) on the positive yield term and penalties − κ D − μ V (so gate failure never turns a negative day upward and always fails admissibility).
 
 Ascent check: the rolling 90-day average of [Ψ(B) × (Es/E\_design) × (C + α A\_ART) − λ(entropy + parasitism)] must stay ≥ the prior 90-day average minus ε. EVL plus Oracle cap ε; one peer locks ε for one SMW from filing; two peers or Fallback lock it for one CEC while the Node bears the burden of proving real yield and may not widen ε. Staying negative past 270 days opens Terminal Entropy Protocol. Triple Arbiter computes Omega live; EVL recomputes every 90 days on another substrate; Oracle signs raw meters; \>1% discrepancy freezes VCI and opens CEC. No council overrides ascent without unanimous Founders plus EVL and Oracle. Scale check: 26 MW continuous net (624 MWh/day; 10 MW surplus above 8 kW/adult BOT) must rebuild from signed meters or Omega is liturgy; EVL and Oracle meta-audit heterozygosity, optionality D, and fork capacity (drift past ε opens CEC). Full symbol definitions live in IX.1.
 
@@ -531,15 +509,22 @@ Status: **KERNEL**
 **V. Modularity and Amendment**
 ###### RADIX \> I. PRIMA \> V. Modularity and Amendment
 
-**PACTUM:** This is the control of change. Founders may not freeze the operating system, and the root must be able to run on another well.
+**PACTUM:** Controls constitutional change. Founders may not freeze the operating system, and the root must be able to run on another well.
 
 **CODEX:** Every law, every axiom, and every protocol is a module. It can be audited, updated, or removed without breaking the root. Each room states its class in its status line: Kernel or Module. A Kernel room moves only by the Root path of this room. A Module room moves by attested patch. To change the class of a room is an act on the Root path. Until five CECs have run, the founding seats are boxed in time. After CEC 2, one third of them open to merit reclaim under 7.2. Founding lineages may not hold more than a published share of the sitting Founder seats across two consecutive CECs.
 
-After CEC 5, ordinary seat rules apply, except for a permanent floor of founder-reclaim: at least two sitting seats remain reclaimable by the original founding packet or its published merit heirs (converting to general merit reclaim after one CEC vacant if that founding line has no living merit heir). The Prime Directive, the twelve axioms, and every Kernel room move only when all of the following are present: a multi-node Bayesian proof of superior Omega across ≥3 CECs and 5 SMWs; a unanimous Founder Council as VII.2 reconciles that vote (Phoenix cannot stand in; a living Founder dissent does not auto-convert); 99% approval of the Franchise weight cast, weighted by VCI, on a count in which two thirds of all post-cap Franchise weight is cast, with no natural person holding \>2% of authority and no lineage holding \>5%, and weight above a cap left uncounted; a dissent names the meter it rests on, and a dissent that names none counts as not cast — EVL together with a Sortition of seven under VII.59 (never the Founder Council or Steward) verifies solely whether a dissent names a published meter, and any ballot whose valid turnout drops below two thirds due to excluded dissents pauses for one 14-day re-ballot notice rather than auto-passing; and a physical etch into etched archival medium (Clavis Mutabilis, default analog sapphire), signed from more than one lineage. While fewer than three Nodes exist, proof runs on the Node and a parallel run under I.12, attested by EVL with two distinct Fallback Anchors.
+After CEC 5, ordinary seat rules govern, preserving a permanent floor of two Founder seats reclaimable by original founders or published merit heirs (reverting to general merit reclaim after one vacant CEC without a living heir).
+
+The Prime Directive, the twelve Axioms, and every Kernel room move only on the Root path when all five seals hold:
+1. Multi-node Bayesian proof of higher Omega across ≥3 CECs and 5 SMWs (or, with \<3 Nodes, local proof plus an I.12 parallel run attested by EVL and two distinct Fallbacks).
+2. Unanimous Founder Council under VII.2 (Phoenix never substitutes; living dissent never auto-converts).
+3. 99% approval of VCI-weighted Franchise cast, with ≥2/3 of all post-cap weight voting (clipping any person above 2% and lineage above 5%).
+4. Meter-backed dissent check: within 7 days of close, EVL + Sortition of seven (VII.59, never Founders or Steward) verifies solely whether each dissent names a published meter (unreviewed dissents at 7 days count as valid cast weight); if excluded dissents drop valid turnout below 2/3, one 14-day re-ballot runs, and failing 2/3 there defeats the motion for that CEC.
+5. Multi-lineage physical etch into archival sapphire (Clavis Mutabilis).
 
 If a verified physical law contradicts a clause, Founders may invoke Emergency Override by unanimous Founders, two Nodes (the invoking Node plus one seasoned peer under VII.53, or EVL plus two distinct Fallbacks verified under VII.53 if \<3 Nodes exist), a conflict demonstrable within five years, and a confirm-or-revert within one CEC. The override solely suspends the contradicted clause and rewrites nothing. Within one CEC two fresh substrates plus EVL, Oracle, and the second party confirm the conflict, or it reverts and opens a VII.20/Sortition review. A confirmed suspension stands only while a Root motion is open and at most five CECs; further suspension requires new physical evidence absent from the prior packet, similarly confirmed, and no clause stays suspended past ten CECs total without a Root vote. Emergency Override may not suspend any item on the Protected-List (I.9). "Verified physical law" means reproducible on two independent substrates attested by EVL and Oracle, not doctrine. One entity shall not fill two external seats. Every Node locks a Planetary Constants Vector at activation or transfer.
 
-Module rooms move by Audit Unit plus EVL plus a Command-Tier majority after a 30-day comment window and EVL counterfactual (no label shortens the window), without touching the Protected-List (I.9). A Command-Tier voter whose individual VCI, seat, or specific contract purse (distinct from a uniform node-wide formula) the pending patch would move does not vote on that patch. A patch moving the selection, tenure, recusal, audit, or limit of a body that votes or attests it, or the Franchise floor or weight, binds only upon 9-of-13 ratification by a Sortition of thirteen drawn under VII.59 outside that body, plus EVL and one peer Node or Fallback attestation for Franchise changes. To reclassify a Protected-List or Kernel room is a Root-path act. Self-heal touching Root requires the triad and etch rules. Grief, rage, love, offense, and religion/ideology (Axiom 12) do not amend.
+Module rooms move by Audit Unit plus EVL plus a Command-Tier majority after a 30-day comment window and EVL counterfactual (no label shortens the window), without touching the Protected-List (I.9). Both self-interest recusal and I.9 closure evaluate the cumulative diff against the last Root-etched baseline. A Command-Tier voter whose individual VCI, seat, or specific contract purse (distinct from a uniform node-wide formula) the pending patch would move does not vote on it. A patch moving the selection, tenure, recusal, audit, or limit of a body that votes or attests it, or the Franchise floor or weight, binds only upon 9-of-13 ratification by a Sortition of thirteen drawn under VII.59 outside that body, plus EVL and one peer Node or Fallback attestation for Franchise changes. To reclassify a Protected-List or Kernel room is a Root-path act. Self-heal touching Root requires the triad and etch rules. Grief, rage, love, offense, and religion/ideology (Axiom 12) do not amend.
 
 **LEX 17PR:** Module patches shall not touch the Protected-List (I.9) or its closure; Kernel moves only by the full 1.5 Root path with EVL-and-Sortition verification of dissent meters.
 **LEX 18PR:** If \<3 Nodes exist, EVL plus two distinct Fallbacks may stand as the second Emergency Override invocant. One entity, two seats, is void.
@@ -589,14 +574,14 @@ Status: **KERNEL**
 **VII. Entityhood**
 ###### RADIX \> I. PRIMA \> VII. Entityhood
 
-**PACTUM:** This is the threshold at which a settlement becomes a sovereign Node.
+**PACTUM:** Threshold for sovereign Nodehood.
 
 **CODEX:** A settlement becomes a Node by asserting itself, after it has met the thresholds and while it keeps them. Tiers are scored again each SMW. The minimums are these. Plant must cover N × BOT\_local plus 10 MW of surplus. On Earth, at 2,000 adults and a BOT of 8 kW, that is 26 MW continuous net (16 MW of floor plus 10 MW of surplus). The settlement needs two thousand adults with Genomic UID and a baseline VCI, a climb of Ne toward 5,000 within ten years, a live Triple Arbiter, the Axioms ratified at 90% of VCI, a Physical Firewall that has been tested, a genetic diversity index ≥ 0.6, and BOT that two methods of plant can hold, the methods not correlated with each other. The canonical table — BOT\_earth, BOT\_local, N\_found, Node\_min, surplus\_min, N\_max — is hashed to sapphire at activation. Rooms downstream cite that hash.
 
-The tiers are these. S exports, or seeds children. A holds a stable surplus. B is marginal. C is in deficit, and it faces a forced merger under 6.3 by the Founder Council. Sovereignty is asserted by the settlement itself. Recognition by a legacy state is "weather."
+The tiers are these. S exports, or seeds children. A holds a stable surplus. B is marginal. C is in deficit, and it faces a forced merger under 6.3 by the Founder Council (in a forced merger vote, each Node caps at one vote plus at most a 2× VCI bump, and an absorbed Node holds a Sortition-minority seat for 1 CEC). Sovereignty is asserted by the settlement itself. Recognition by a legacy state is "weather."
 Two thousand adults do not, by themselves, equal an Ne of 5,000. The model in 2.1 shall state the ratio of census to Ne. Ne is counted on the deme (2.1).
 
-**LEX 30PR:** A Tier C merger is forced, and the Founder Council executes it. In a merger vote, any one Node is capped at one vote plus a VCI bump not above 2×. An absorbed Node keeps a Sortition-minority seat for one CEC.
+**LEX 30PR:** Founder Council executes forced Tier-C mergers (each Node capped at 1 vote + ≤2× VCI bump; absorbed Node holds a Sortition-minority seat for 1 CEC).
 **LEX 31PR:** Ne is effective size. It is not a headcount.
 Status: **KERNEL**
 
@@ -622,13 +607,13 @@ Status: **KERNEL**
 
 **PACTUM:** A locked joint is not moved by giving it the name of a module.
 
-**CODEX:** Before any patch of a module is etched, a second leg signs a line-by-line attestation. That leg must meet VII.53 against the person who proposes the patch. The attestation names each item the Protected-List already protects: Axioms 1, 3, 4, 7, and 8; the Ne floor; the Oracle root; Neutralization under VII.10; the 99.9% gate of TPS; the speech exceptions of Axiom 3; the weights of VCI; and the grammar of the Protected-List itself. The attestation quotes the hash of the patch. A patch whose diff touches any of those items is unborn, even if the title says "module." To ship it is an Entropy Event, as VII.30 already says of a loop that touches the kernel. Reclassification remains an act on the Root path under I.V.
+**CODEX:** Before any Module patch is etched, an uninvolved EVL substrate and a Sortition of seven (VII.59), both independent of the proposer and Audit Unit under VII.53, sign a line-by-line attestation against the cumulative diff from the last Root-etched baseline. The attestation verifies each Protected-List item: Axioms 1, 3, 4, 7, and 8; the Ne floor; the Oracle root; Neutralization (VII.10); the 99.9% TPS gate; Axiom 3 speech exceptions; VCI weights; and this Protected-List grammar. It quotes the patch hash. Any diff touching those items or their closure is unborn regardless of title; shipping it is an Entropy Event (VII.30). Reclassification stays on the I.V Root path.
 
 A change that moves the operative meaning of a Glossary term, without that etch, is a Semantic Trojan. It is unborn. To do it on purpose is sabotage of the archive, as the Glossary already names that term.
 
 Citizens may diff the hash. Meters outrank speech. A speech that the patch is "only a clarification" does not pass a diff that touches the list.
 
-The Protected-List protects each item together with its closure: every definition, band, parameter, table row, and room by which the item is measured, triggered, or applied. The closure includes I.V, I.6, I.14, I.15, I.16, and IX.1 (positive floors of λ, κ, μ); the Glossary cells for Child, Rape, Sexual act, Full Proof, Annihilation class, and Aequitas; VII.1, VII.8, VII.10a through VII.10i, VII.30, VII.44, VII.45, VII.53, VII.53a, VII.59, VII.63, and VII.67; and the Kernel-locked minimum floors governing P7, P8, P9, P10, P13, P15, and P17 in VII.10d and III.2 (above which VII.66 rows remain patchable as modules). The attestation names the closure line by line. A patch that leaves a protected sentence intact and moves what the sentence stands on is a diff that touches the item.
+The Protected-List protects each item together with its closure — every definition, band, parameter, table row, and Kernel room by which it is measured, triggered, or applied. That closure covers B.1, I.V–I.16, II.1, II.9, II.17, II.21, III.1, III.2, III.8, IV.2, IV.5, IV.20, V.12, V.22, VI.2, VI.12, VII.1, VII.2, VII.8, VII.10–VII.10i, VII.13, VII.14, VII.19, VII.21, VII.25, VII.30, VII.34, VII.37, VII.44, VII.45, VII.52–VII.54, VII.59, VII.63, VII.67, VIII.2, VIII.32, and IX.1 (positive floors of α, λ, κ, μ and upper ceiling of ρ); the B. Glossary cells for Child, Rape, Sexual act, Full Proof, Annihilation class, Interdictum, Shard-Fragment, Vindicta, and Aequitas; and the Kernel-locked minimum floors governing P7, P8, P9, P10, P13, P15, and P17 in VII.10d and III.2 (above which VII.66 rows stay Module-patchable). Leaving a protected sentence intact while moving what it rests on is a diff touching the item.
 
 **LEX 36PR:** No module patch is etched without the attestation of the Protected-List and the hash of the patch.
 **LEX 37PR:** A diff that touches a protected item is unborn.
@@ -652,13 +637,9 @@ Status: **KERNEL**
 
 **PACTUM:** No one games the file.
 
-**CODEX:** This file binds every actor that can act on it: human, silicon, non-sapiens, alien, and any other form of intelligence, alone or in concert. Gaming is use of the letter of a clause against a purpose that this file already writes as a meter, an axiom, or a named room. A gain is voided only after a published finding that names the clause and the meter. Lawful use of Axiom 2, Axiom 3, or Axiom 8 is not gaming even if an officer dislikes the result. Purpose-talk without a meter does not void a gain and names no crime. A detected route opens a 7.30 proposal only after that published finding. Duplicate or restated routes do not open a new proposal in the same SMW. Silicon-detected routine routes queue under the VII.30 per-SMW cap (urgent VII.67 Vulnerarium security closures attested by two independent legs follow the VII.30 exemption rule and still require I.V/VII.30 human seals). A gain made by gaming is void and returns to its source; the act is charged only under a room that already names it. No office, cloth, label, substrate or origin is exempt. Gaming is judged on meters and EEP; silicon may detect and brief, it does not sit the finding.
+**CODEX:** This instrument binds every actor — human, silicon, non-sapiens, or alien — alone or in concert; no office, cloth, label, or origin is exempt. Gaming is exploiting the letter of a clause against a purpose already written as a meter, axiom, or room. A gain is voided and returned to its source only after a published EEP finding (silicon may brief, never judge) naming both the clause and the meter; purpose-talk without a meter voids nothing, and lawful use of Axiom 2, 3, or 8 is never gaming. The act is charged only under an existing room.
 
-A published gaming finding names the clause and the meter before a gain is voided.
-
-A person who reports a Nulla Effugia route in good faith does not lose status or ESU for the report. A false report is ordinary VII.32 (false accusation / fraud).
-
-Limits: this clause does not punish speech (Axiom 3), lawful contract (Axiom 2), or exit (Axiom 8); it voids the gain and names no new crime without a room.
+A published finding opens one 7.30 patch proposal (duplicates in the same SMW do not re-queue; routine silicon-detected routes obey VII.30 caps, while two-leg VII.67 security fixes follow the VII.30 exemption with I.V/VII.30 human seals). Good-faith reporters lose neither status nor ESU; false reports sit VII.32.
 
 **LEX 42PR:** A gain made by gaming is void. A published finding names the clause and the meter before the gain is voided.
 **LEX 43PR:** An honest report costs nothing. A false report is fraud.
@@ -670,13 +651,13 @@ Status: **KERNEL**
 **PACTUM:** The kernel changes only by proof, and only to make human life better.
 
 **CODEX:**
-1. Integrity. The Prime Directive, the axioms, the triad charter and Root are a sealed kernel. Its canonical hash sits on sapphire and in every shard. A kernel that does not match the hash, by a single character, does not run and is restored from the last clean hash (VII.49, Arca). The honesty of a triad member is never inferred from a clean hash: it is shown only by independent meters under VII.53 and Signum, and a member whose meters drift is isolated.
-2. Legitimate path. The kernel changes only by the Root Amendment Path (1.5); modules only by attested patch (1.9). Every change must pass the three Prime Directive questions, every axiom and VII.19, and show a metered improvement of human life. Every proposal, attestation, vote and etch is hashed and written to Speculum, so the approval itself is tamper-evident; an approval without its hash chain is void.
-3. Improve, not grow. A change must raise Omega, not volume. Each release publishes its net clause count and size. A new clause that does not show a meter is doctrine (II. Prime Directive). Each CEC the Vigil Cell proposes removal of clauses with no use or no meter. A desk or room that no longer serves the three questions is sunset. Anti-bloat sunset does not remove Protected-List items or axioms.
-4. Long-term support. The live kernel is a long-term-support line. Only releases that passed every gate in 7.10d P11 run in the main kernel. No untested or experimental release runs live.
-5. Parallel run. A major update runs first in parallel, on a sandboxed copy or a consenting pilot Node, beside the live kernel, for at least P12. It merges into the main kernel only after it meets every gate with no failed meter, no failed restore drill and no axiom finding. A failed parallel run is discarded; the live kernel is untouched.
+1. Integrity. The Prime Directive, Axioms, triad charter, and Root form a sealed kernel hashed onto sapphire and every shard. A single-character mismatch halts execution and restores from the last clean hash (VII.49, Arca). A clean hash proves text, never official honesty — which rests solely on VII.53 meters and Signum.
+2. Legitimate path. Kernel moves only by I.V; modules only by I.9. Every change must clear the three Prime Directive questions, Axioms, and VII.19, show metered human gain, and write a tamper-evident hash chain to Speculum (unhashed approvals are void).
+3. Improve, not grow. Changes must raise Omega, not bloat; every release publishes net clause count and byte size. Meterless clauses are doctrine; each CEC, Vigil proposes sunsetting dead clauses or desks (never touching I.9 or Axioms).
+4. Long-term support. Only 7.10d P11-cleared releases run live; experimental builds never run on the main kernel.
+5. Parallel run. Major updates run first on a sandboxed copy or consenting pilot Node for at least P12, merging only with zero failed meters, restore drills, or Axiom findings.
 
-**LEX 44PR:** One character off the hash does not run. A clean hash proves the text, not the man. The kernel grows only in quality. No experimental release runs live. Major updates prove themselves in parallel first.
+**LEX 44PR:** One character off the hash halts execution; a clean hash proves text, not officials. Kernel grows in quality only; major updates prove themselves in parallel first.
 Status: **KERNEL**
 
 **I.13 Transitio**
@@ -684,17 +665,11 @@ Status: **KERNEL**
 
 **PACTUM:** The file grows beside the law of the land. It does not force a collision.
 
-**CODEX:** Until a Node reaches Entityhood (VII. Entityhood), this file yields to host-country law on any collision. That yield is a defined exception to "no dual law." No person is required or permitted to act against host-country law in its territory. Where a rule of this file cannot run lawfully there (including Neutralization, Publicum, lethal force beyond host self-defense law, and 24-hour execution), it stays suspended in that territory, the conflict is logged in Speculum, and the Node pursues only lawful means: contract, voluntary membership, host-law processes, and relocation to a lawful seat.
+**CODEX:** Before Entityhood (I.VII), this instrument yields to host-country law on any collision (a defined exception to "no dual law"). No one may violate host law in its territory; conflicting provisions (including Neutralization, Publicum, force beyond host self-defense, and 24-hour execution) stay suspended there, logged to Speculum, while the camp operates via contract, voluntary membership, host-lawful process, and migration toward a lawful seat (diplomatic recognition remains "weather").
 
-Migration path: (1) voluntary association under host law; (2) Node formation and ledger operation under host law; (3) Entityhood through a lawful seat, or through recognition if it occurs. Recognition by a legacy state remains "weather" for the assertion of sovereignty; a lawful seat is the path that avoids forced conflict.
+A suspension lifts automatically at the next short clock for future files once two independent sources (official legal text and independent legal review) confirm host law now permits that rule, logged in Speculum. Pre-Entityhood 7.10 holds are non-capital and never bar Axiom 8 exit unless Full Proof rests on an offense host law independently allows detaining.
 
-Transitio never protects flight after Full Proof. A person under a live 7.10 hold may not take the Axiom 8 door. Leaving a sovereign Node after Full Proof is not a Transitio shelter and is not a Nulla Effugia gain that this clause can bless. After Full Proof, a published, host-lawful request packet naming the finding, TPS, Sortition vote, and P3b results may follow that person so a peer or Entityhood Node may complete the file solely through host-lawful process. Covert force outside the seat remains forbidden at all times (before and after Entityhood); the packet grants no Transitio shelter to flight.
-
-A suspension of a rule in a host country lifts automatically when that country's law changes to permit it. The change must be verified by two independent sources (the official legal text and an independent legal review), logged in Speculum with date and citation, and takes effect at the next short clock. Each lift applies only in that country and only to the rule its law now permits.
-
-A 7.10 hold entered before Entityhood, while Neutralization is suspended, is a named non-capital hold. It does not close the Axiom 8 door unless Full Proof has been reached on a class that host law independently permits the Node to detain. A lift under the host-law change rule of this room applies only to files opened after the lift takes effect. Covert force outside the seat remains forbidden after Entityhood; completion of a fled Full Proof file remains host-lawful process only.
-
-This clause does not make the file a foreign statute (0.0 Quid sit, LEX 1PR).
+Transitio never shelters flight from a sovereign Node after Full Proof (7.10 holds bar Axiom 8 exit). A host-lawful request packet (finding, TPS, Sortition vote, P3b results) may follow a fugitive so peers complete the file through host-lawful process only; covert cross-border force is forbidden before and after Entityhood. This clause never converts the instrument into foreign statute (0.0).
 
 **LEX 45PR:** Before Entityhood, the host governs a collision. Transitio does not shelter flight after Full Proof.
 **LEX 46PR:** The request follows the person. The hand does not.
@@ -721,7 +696,7 @@ Status: **KERNEL**
 
 **PACTUM:** When two rooms speak to one fact, the reader must know which voice binds before he knows which voice he prefers.
 
-**CODEX:** Where two provisions meet, the order is this. First, the Axioms and the Final Invariant (VII.19; Axioms 1, 3, 4, 7, and 8 remain non-repealable until VII.19 itself moves under I.V). Second, the Protected-List and its closure (I.9), together with the Glossary cells (B. Glossary, Kernel). Third, a room that limits force, a hold, or a penalty governs the room it limits. Fourth, a Kernel room over a Module room. Fifth, the room that names the matter most specifically. Sixth, the parameter tables (VII.10d, VII.66) over a number written elsewhere. Seventh, the text sealed later over the text sealed earlier (or, on a same-release conflict, the protective/smaller-power reading until patched). Codex governs Lex where they differ. Pactum explains and binds nothing. Where doubt remains, it is resolved for the accused, for the smaller power, and for the act that can be undone. The three questions of the Prime Directive test the whole; they license no act that an Axiom forbids.
+**CODEX:** Where two provisions meet, the order is this. First, the Axioms and the Final Invariant (VII.19; Axioms 1, 3, 4, 7, and 8 remain non-repealable until VII.19 itself moves under I.V). Second, the Protected-List and its closure (I.9), together with the Glossary cells (B. Glossary, Kernel). Third, within the same amendment tier, a room limiting force, hold, or penalty governs the room it limits (a Module never overrides Kernel or I.9). Fourth, a Kernel room over a Module room. Fifth, the more specific room over the general. Sixth, parameter tables (VII.10d, VII.66) over numbers elsewhere. Seventh, later-sealed text over earlier-sealed text (or, on a same-release collision, the protective, smaller-power reading logged to Speculum for a VII.30 patch within one SMW). Codex governs Lex where they differ. Pactum explains and binds nothing. Where doubt remains, it is resolved for the accused, for the smaller power, and for the act that can be undone. The three questions of the Prime Directive test the whole; they license no act that an Axiom forbids.
 
 **LEX 52PR:** The limit governs the power. Kernel governs Module. The specific governs the general. Codex governs Lex.
 Status: **KERNEL**
@@ -731,7 +706,7 @@ Status: **KERNEL**
 
 **PACTUM:** Vigilance that answers only to itself is reflection, not vigilance. Whoever professes to observe his own conduct submits that profession to judgment, and the judgment is never his alone.
 
-**CODEX:** Any person, office, body, substrate, or system that professes to monitor, audit, correct, or certify itself is assessed upon that profession. It publishes the meter by which its self-observation may be shown to fail, together with the record of what that observation found and what it missed. No such actor is the sole judge of its own conduct, score, audit, patch, halt, or review. Before a finding that it renders upon itself may open a gate, close a file, or enter a packet, a second judge that meets VII.53 against it — an uninvolved leg, an external, or a Sortition drawn under VII.59 — examines the same evidence and confirms, corrects, or voids the finding. Where a room orders a review and names no reviewer, the reviewer is a Sortition of seven. A self-assessment that no independent judge has examined is hygiene (VII.20): it carries no weight. The second judge acquires no power over the matter observed; it judges the watch, and its own judgment stands review in the same manner, the regress ending at the People in Sortition and at the external that the Node did not print. The absence of the profession removes no audit that another room imposes.
+**CODEX:** Any person, office, substrate, or system claiming to self-monitor, audit, or certify must publish the meter that would prove its watch failed, plus what it caught and missed. No actor is sole judge of its own conduct, score, audit, patch, halt, or review: before any self-finding opens a gate, closes a file, or enters a packet, a VII.53-independent second judge (uninvolved leg, external, or VII.59 Sortition, defaulting to Sortition of seven when unnamed) reviews the same record and confirms, corrects, or voids it. Unreviewed self-audit is hygiene only (VII.20) and carries zero weight. The reviewer gains no operational control and faces the same review, ending at People in Sortition and the external Oracle.
 
 **LEX 57PR:** A self-audit is evidence, not a verdict. A second judge under VII.53 examines it before it opens a gate or closes a file.
 **LEX 58PR:** A self-watching actor publishes the meter that would show its watch has failed.
@@ -746,15 +721,15 @@ The human is biological hardware. That hardware is binary sex, an intact househo
 **II.1 Biological Constants**
 ###### RADIX \> II. CORPUS \> II.1 Biological Constants
 
-**PACTUM:** This pact is the species hardware file. It prevents costume-law and genomic monoculture from rewriting the host.
+**PACTUM:** The species hardware file. It prevents costume-law and genomic monoculture from rewriting the host.
 
 **CODEX:** Sex is binary: XY male, XX female. A man cannot become a woman, and a woman cannot become a man. Genomic UID is the immutable identity hash, save upon verified compromise under II.21 where the rotated A hash binds cryptographically to its predecessor hash on sapphire and preserves all EEP, lineage, and VCI history.
 
-Edits write state-hash pointers. Ten percent of the population is held as a Genetic Baseline (measured heterozygosity and MHC diversity); members retain Axiom 8. Ne stays ≥ 5,000 on the deme (this Node plus peers exchanging the published mate/gamete count, mandatory when distinct lineages drop toward 7); each Node holds the heterozygosity floor of LEX 3CR. Under the 2.1 model (breeding fraction ~0.6, generation time ~25 years, target ~10% net annual growth), 8,000 adults yield Ne ~4,800, so no Node at Caput meets 5,000 alone; a founding Node targets Ne 5,000 in ten years from ≥2,000 adults (0.6 diversity, judged on climb and heterozygosity until peers exist, with two consecutive failed annual audits converting to the VIII.1 merger clock), while a non-founding Node under the floor merges by VCI-weighted vote within one SMW.
+Edits write state-hash pointers. Ten percent of the population is held as a Genetic Baseline (measured heterozygosity and MHC diversity); members retain Axiom 8. Ne stays ≥ 5,000 on the deme (this Node plus peers exchanging the published mate/gamete count, mandatory when distinct lineages drop toward 7); each Node holds the heterozygosity floor of LEX 3CR. Under the 2.1 model (breeding fraction ~0.6, generation ~25 years, ~10% net annual growth), 8,000 adults yield Ne ~4,800, so no Node at Caput reaches 5,000 alone. A founding Node targets Ne ≥ 5,000 within ten years from ≥2,000 adults (≥0.6 diversity, tracking climb and heterozygosity until peers exist; two failed annual audits open the VIII.1 merger clock), while isolated off-Earth wells maintain Ne ≥ 5,000 through verified II.1 vault diversity and voluntary Rete mate/gamete exchange (VIII.15); any other non-founding Node below floor merges by VCI-weighted vote within one SMW.
 
 Analog sequences go to sapphire quarterly.
 
-Atypical karyotype (XO, XXY, mosaic, named disorders of sex development) is mapped to the XY or XX legal band by the published, objective karyotype-and-physiology table hashed at activation. Biology Command plus EVL apply the table. They do not invent a band. Speech, costume, and self-assertion do not move the map. Sex is two: male and female. The table is a measurement instrument for damaged or atypical hardware. It is not a spectrum and not a third sex. Appeal is one EEP pass on the table match and on the measurement method used that day, not on a new definition of sex. Table revision is Root path plus EVL biology attestation. It may correct a measurement protocol. It may not add a band. Legal sex is sapphire-anchored at maturity (2.17). Protected status and Franchise stand. Axiom-4 subsidy follows demonstrated fertility or lawful adoption inside an XY–XX house, not a new gender.
+Rare congenital chromosomal or developmental sex variations (such as XO, XXY, mosaic, or named disorders of sex development) are natural human medical conditions under Axiom 1 (never VI.24 non-sapiens) and map to the XY or XX legal band on the objective karyotype, gametic, and gonadal-pathway table hashed at activation. Biology Command plus EVL apply that table; neither invents a third band. Speech, costume, and self-assertion do not move the map. Sex is two: male and female. The table is a measurement instrument for damaged or atypical hardware. It is not a spectrum and not a third sex. Appeal is one EEP pass on the table match and on the measurement method used that day, not on a new definition of sex. Table revision is Root path plus EVL biology attestation. It may correct a measurement protocol. It may not add a band. Legal sex is sapphire-anchored at maturity (2.17). Protected status and Franchise stand. Axiom-4 subsidy follows demonstrated fertility or lawful adoption inside an XY–XX house, not a new gender.
 
 **LEX 1CR:** Baseline members retain Axiom 8.
 **LEX 2CR:** Ne is effective size, not headcount. It is counted on the deme; heterozygosity is held by each Node.
@@ -778,7 +753,7 @@ Status: **MODULE**
 **II.2 Genomic Trajectory**
 ###### RADIX \> II. CORPUS \> II.2 Genomic Trajectory
 
-**PACTUM:** This pact is the directed increment of the organism. It prevents laboratories from minting monsters or treating children as clay.
+**PACTUM:** Directed increment of the organism. It prevents laboratories from minting monsters or treating children as clay.
 
 **CODEX:** Optimization requires dual gates: the Triple Arbiter and the Biology Domain Commander. Character is scored from Character Events, not VCI. Genomic UID changes only by predecessor-bound compromise rotation (II.21). Edits write state-hash pointers.
 
@@ -786,13 +761,13 @@ On children through age 17, only Baseline Edits are allowed, with dual parental 
 
 **LEX 9CR:** No target phenotype by decree.
 **LEX 10CR:** Adverse effects on minor edits are confirmed by Arbiter plus Biology Commander plus one peer Node.
-**LEX 11CR:** Baseline Edits on a minor require both parents (or sole surviving non-suspect parent/II.34 guardian plus independent EVL attestation when the other is confirmed dead, missing, or under a live 7.10 hold). One-conflicted-parent-plus-Arbiter is void.
+**LEX 11CR:** Minor Baseline Edits require both parents (or sole non-suspect parent/II.34 guardian + EVL if the other is dead, missing, or under 7.10 hold); one conflicted parent + Arbiter is void.
 Status: **MODULE**
 
 **II.3 Biological Optimization**
 ###### RADIX \> II. CORPUS \> II.3 Biological Optimization
 
-**PACTUM:** This pact is body-uptime scoring. It prevents unfit cohorts from imposing a tax upon the plant.
+**PACTUM:** Body-uptime scoring. It prevents unfit cohorts from imposing a tax upon the plant.
 
 **CODEX:** Each quarter the Node scores blood, cognition, kinetics, and inflammation. The tiers are Peak (~15% adults), Standard (~65%), and Sub-Optimal (~20%). They are absolute thresholds hashed at activation; the percentages are expected shares, not quotas. Changing a tier takes two quarters. Three consecutive bottom-band quarters trigger a 12-month Optimization Directive. Failure of that Directive drops status to Neutral. Work, sleep, food, kinetics, and family satisfy the Directive.
 
@@ -805,7 +780,7 @@ Status: **MODULE**
 **II.4 Physical Mastery**
 ###### RADIX \> II. CORPUS \> II.4 Physical Mastery
 
-**PACTUM:** This pact is the kinetic floor in local gravity. It prevents unhardened cohorts from holding office over a reactor they cannot reach.
+**PACTUM:** Kinetic floor in local gravity. It prevents unhardened cohorts from holding office over a reactor they cannot reach.
 
 **CODEX:** Annual tests are scaled by age, sex, and VCI, and retuned to the Planetary Constants Vector. Men are trained for mass, reach, lethal precision, and duty. Women are trained for strength (household) and weapons.
 
@@ -813,7 +788,7 @@ Both clear the weapons gate. Men are held to a harder kinetic band. The Earth ma
 
 Every mature Protected adult must hold weapons qualification unless an EVL-verified medical exclusion exists. The qualification proves that an adult, men first, can stop an in-progress high-tier attacker without hitting bystanders. Campus (2.15) provides lifelong drill: fight, swim, dance, chess, tools, and pair-conduct. The hard professional track is Agoge (2.24). Food leans to protein and local production. Meat, fish, fowl, milk, and egg are ordinary food.
 
-Two consecutive failed mastery years trigger demotion (II.4 / VII.26 Franchise check) or Transport.
+Gestation, postpartum recovery (II.8), and EVL-verified medical rehabilitation toll the mastery clock. Two consecutive unexcused failed mastery years trigger demotion (II.4 / VII.26 Franchise check) or Transport.
 
 **LEX 14CR:** Two consecutive failed mastery years trigger demotion or Transport.
 **LEX 15CR:** Mature Protected adults carry after the gate unless EVL records medical exclusion.
@@ -824,7 +799,7 @@ Status: **MODULE**
 **II.5 Intellectual Depth**
 ###### RADIX \> II. CORPUS \> II.5 Intellectual Depth
 
-**PACTUM:** This pact is the cognitive floor. It prevents commentary culture from displacing models that fail on a timer.
+**PACTUM:** Cognitive floor. It prevents commentary culture from displacing models that fail on a timer.
 
 **CODEX:** Physics, cosmology, logic, and epistemology are required. Creative work is judged by energy, resilience, or biological impact. A thesis is required, and a creative claim carries a ten-year killable hypothesis.
 
@@ -835,7 +810,7 @@ Status: **MODULE**
 **II.6 Character Architecture**
 ###### RADIX \> II. CORPUS \> II.6 Character Architecture
 
-**PACTUM:** This pact scores three virtues through logged events. It prevents VCI from grading VCI, and it prevents adjectives from concealing cowardice.
+**PACTUM:** Three virtues scored by logged events. It prevents VCI from grading VCI, and it prevents adjectives from concealing cowardice.
 
 **CODEX:** The three virtues are Epistemic Courage (public contradiction of false consensus), Pragmatic Ruthlessness (lawful hard decisions for survival/lineage), and Stoic Resilience (return to tier after shock). Each runs 0–1 based on counts, not VCI. The Character Event weight table is published and hashed at activation: a published debt, not a Founder dial. Two consecutive years below 0.4 on any virtue trigger an Optimization Directive. Three trigger demotion from the seat or command then held. Four below 0.3 open a Sortition review of the scoring itself plus a formal remedial Cursus/Otium Opus offer under IV.22 and V.44. A virtue score alone moves no status of Axiom 11.
 
@@ -848,11 +823,11 @@ Status: **MODULE**
 **II.7 Child Development**
 ###### RADIX \> II. CORPUS \> II.7 Child Development
 
-**PACTUM:** This pact is the path to citizenship. It prevents the Node from raising the young without parental accountability.
+**PACTUM:** The path to citizenship. It prevents the Node from raising the young without parental accountability.
 
 **CODEX:** Parents command until maturity. Maturity requires age 18+, Biological Tier 2, Tier-3 exit exam, median kinetics, weapons gate started, max one minor violation, and UID live. Boys are formed as men (truth, load, restraint, lethal precision). Girls are formed as women (household command, discernment, fertility-aware conduct, weapons gate). Indoctrination houses are forbidden.
 
-B\_success is the parent's term, written by each child. For each child it starts at 0.5, turns full at that child's maturity, and locks at that child's age 25 on the child's realized life (survival, health, tier, energy, not VCI), attested by two independent biological or legal records. It is lagged one SMW and capped (3.2). Fabricated adoption, maturity, or gestation records are office-falsehood (7.33) and high-tier fraud. They are Nefas line X only when the fabrication conceals a non-edge ending of a conceived child. B\_success is retroactively falsifiable within one SMW of lock on a signed contrary meter. A person with no offspring locks B\_success at zero (neutral). That zero is neutral, not a status fall. Raising a child to maturity under a published adoption or Node-raise packet writes the same B\_success as bearing. Parental review opens only on metered harm to a living child (abuse, starvation, abandonment) after EEP. Two adult children failing maturity is a private outcome. It does not open review, status drop, or removal. Neglect remains a Prime violation when harm is metered. Axiom 4 outranks offspring-score.
+B\_success is the parent's term, written by each child: starting at 0.5, reaching full weight at maturity, and locking at age 25 on the child's realized life (survival, health, tier, energy — never VCI) attested by two independent biological or legal records. Cumulative B\_success per child caps at one household's full share allocated pro-rata across clean custodial years (zero to any parent removed for abuse or abandonment), lagged one SMW and capped at 25% of positive pre-B\_success gross VCI (or 125 points, whichever is higher) under III.2. Fabricated adoption, maturity, or gestation records are office-falsehood (7.33) and high-tier fraud. They are Nefas line X only when the fabrication conceals a non-edge ending of a conceived child. B\_success is retroactively falsifiable within one SMW of lock on a signed contrary meter. A person with no offspring locks B\_success at zero (neutral). That zero is neutral, not a status fall. Raising a child to maturity under a published adoption or Node-raise packet writes the same B\_success as bearing. Parental review opens only on metered harm to a living child (abuse, starvation, abandonment) after EEP. Two adult children failing maturity is a private outcome. It does not open review, status drop, or removal. Neglect remains a Prime violation when harm is metered. Axiom 4 outranks offspring-score.
 
 **LEX 22CR:** B\_success is lagged one SMW and capped at 25% of positive pre-B\_success gross VCI (or 125 points, whichever is higher).
 **LEX 23CR:** B\_success of zero is neutral. The economic cap does not convert it to Unprotected.
@@ -862,11 +837,11 @@ Status: **MODULE**
 **II.8 Family Formation**
 ###### RADIX \> II. CORPUS \> II.8 Family Formation
 
-**PACTUM:** This pact is the subsidized transmission unit. It ensures that the household remains the first school.
+**PACTUM:** The subsidized transmission unit. It ensures that the household remains the first school.
 
 **CODEX:** Axiom-4 units (one XY male, one XX female, intent for offspring) take first claim on housing, BOT support, and B\_success credit. Within that form, same-stock houses take the full lineage packet. Mixed-stock Axiom-4 houses take a published lesser fraction. The child still eats civic Annona through the house (3.15). The child is not the defendant (Axiom 7). Other private arrangements remain free under Axioms 1 and 7 and receive no lineage subsidy. Parents may teach Curriculum at home through Household school.
 
-A Mater packet — extra shelter-hours, food-energy, and clinic for gestation, birth, and early care — is paid only to an Axiom-4 mother inside the transmitting house with the father. It is help for new life. It is not a custody trump (2.29), and it is not a prize for leaving the house.
+A Mater packet — extra shelter-hours, food-energy, and clinic care for gestation, birth, and infancy — supports an Axiom-4 mother inside the transmitting household with the father; if the father dies or deserts after verified conception inside an intact house, maternal Mater support continues for that child (with a deserting father reimbursing via II.29 / III.15). It serves new life, never a custody trump (2.29) or a prize for breaking the house.
 
 **LEX 25CR:** Only the Axiom-4 unit is paid as lineage.
 **LEX 26CR:** Same-stock Axiom-4 takes the full packet. Mixed-stock takes the lesser published fraction.
@@ -878,7 +853,7 @@ Status: **MODULE**
 **II.9 Child Sexual Crime and Rape**
 ###### RADIX \> II. CORPUS \> II.9 Child Sexual Crime and Rape
 
-**PACTUM:** This pact names the crime so that sentiment may neither rename it nor conceal it. The line at eighteen is drawn by design: a wall, and not a slope.
+**PACTUM:** Names the crime so sentiment neither renames nor conceals it. The line at eighteen is drawn by design: a wall, and not a slope.
 
 **CODEX:** Rape and any sexual act with a child, as the Glossary defines those terms, are high-tier. On Full Proof (7.10b), Neutralization runs within P3a under the P3b gates. For this class, that gated 24-hour path replaces the 30-day hold and the appeal window when live sensors show the act. It does not remove the constructed-file bar. Where TPS is from 90% inclusive up to but not including 99.9%, the hold decides within P4 and then P5. Below 90% the file is dismissed (VII.8; VII.51). No office, cloth, sex, or label grants an exception to classification. A person under 18 at the time of the act, or with verified incapacity, follows 7.10f.
 
@@ -902,7 +877,7 @@ Status: **MODULE**
 **II.10 Sex, Pairing and Legal Form**
 ###### RADIX \> II. CORPUS \> II.10 Sex, Pairing and Legal Form
 
-**PACTUM:** This pact keeps legal form upon the karyotype so that costume-law cannot rewrite the family file.
+**PACTUM:** Legal form rests on karyotype, barring costume-law from the family file.
 
 **CODEX:** Legal sex (II.1) and Axiom-4 subsidies (II.8) rest on XY/XX; private non-Axiom-4 adult conduct stands under 2.23 without subsidy, and costume-law remains 2.17.
 
@@ -913,7 +888,7 @@ Status: **MODULE**
 **II.11 Homo Novus Division**
 ###### RADIX \> II. CORPUS \> II.11 Homo Novus Division
 
-**PACTUM:** This pact is directed organism research. It prevents improvement from becoming sabotage.
+**PACTUM:** Directed organism research. It prevents improvement from becoming sabotage.
 
 **CODEX:** Research focuses on mind, genome, and body under dual gates (2.2 and 4.6). The sabotage checklist includes edits that drop Ne, XY–XX fertility, or Character Event rates for two SMWs; identity-based sex rewrites; or sterilizing identity protocols on minors. IQ is an input, not a Neutralization license.
 
@@ -923,7 +898,7 @@ Status: **MODULE**
 **II.12 Cognitive Measure and Pairing**
 ###### RADIX \> II. CORPUS \> II.12 Cognitive Measure and Pairing
 
-**PACTUM:** This pact treats measured cognition as a ranking input. It prevents pairing incentives from declaring all minds interchangeable.
+**PACTUM:** Cognition as a ranking input. It prevents pairing incentives from declaring all minds interchangeable.
 
 **CODEX:** Cognitive measure is one VCI input, pairing information, and a Franchise feature. It is not a Neutralization license or a caste brand. The 2.1 Genetic Baseline is a species-floor against monoculture. It is not a mandate that mixed-stock pairing outrank kindred continuity on lineage subsidy (2.8, 2.18).
 
@@ -933,11 +908,11 @@ Status: **MODULE**
 **II.13 Gestation**
 ###### RADIX \> II. CORPUS \> II.13 Gestation
 
-**PACTUM:** This pact protects conceived children. It prevents private moods from ending lives, and it prevents rape from being used as a general license.
+**PACTUM:** Protects conceived children. It prevents private moods from ending lives, and it prevents rape from being used as a general license.
 
 **CODEX:** From verified conception, the child is a human under Axiom 1. A woman does not have a right to kill that child. Inside a sovereign Node (subject to I.13 Transitio before Entityhood), elective ending is forbidden at every week. The Node provides doors: transfer to a willing mother, Node raise (Corpus), or adoption by an Axiom-4 household (funded by Stability Reserve). Unwanted pregnancy is handled by those doors. A taste, career, or doctrine is not an edge case.
 
-Edge cases after EEP only: pregnancy threatens the mother's life and no treatment exists; the child is already dead or has an incompatible anomaly; conception was by verified rape or a sire found high-tier under 7.10 (Biology Command and EVL sign). If rape occurred, the rapist sits Nefas. For this edge case, verified means a filed charge whose packet independently supports the act under 7.53a, signed by Biology Command and EVL inside a published window; the edge case does not wait for the finding against the rapist. False rape claims are high-tier under 7.32.
+Edge cases after EEP only: pregnancy threatens the mother's life and no treatment or fetal transfer can save both (in acute fatal emergency under I.14, two independent clinicians act at once on live Speculum meters and file the EEP audit within 24 hours); the child is already dead or has an incompatible anomaly; or conception followed verified rape or a sire found high-tier under 7.10 (Biology Command and EVL sign). If rape occurred, the rapist sits Nefas. For this edge case, verified means a filed charge whose packet independently supports the act under 7.53a, signed by Biology Command and EVL inside a published window; the edge case does not wait for the finding against the rapist. False rape claims are high-tier under 7.32.
 
 A clinician or officer who performs a non-edge ending inside the Node commits Nefas (7.52). A clinician who follows the published edge-case packet evaluated prospectively under EEP is shielded from retroactive Nefas on the clinical act. The packet itself is audited after the fact inside one SMW. A fabricated edge is mirror-punished as the non-edge ending the packet disguised. Nefas names the clinician or officer who performs. After the third-month mark, the woman who elects a non-edge ending also sits 7.10, on the ladder of VII.10g. A verified non-edge ending, if the woman leaves, bars re-entry for life (7.12). Outside the Node this file does not bind a foreign census. A verified actor of non-edge ending does not walk back in.
 
@@ -951,7 +926,7 @@ Status: **MODULE**
 **II.14 Natura**
 ###### RADIX \> II. CORPUS \> II.14 Natura
 
-**PACTUM:** This pact keeps living nature as a working layer. It treats laboratory weapons as pathogens.
+**PACTUM:** Living nature as a working layer. It treats laboratory weapons as pathogens.
 
 **CODEX:** Animals, birds, fish, and useful insects are working nature. Wanton cruelty is a status offense. Husbandry, hunt, fishing, and bird hunt remain lawful (details in 2.16).
 
@@ -967,7 +942,7 @@ Status: **MODULE**
 **II.15 Campus**
 ###### RADIX \> II. CORPUS \> II.15 Campus
 
-**PACTUM:** This pact returns adults to physical work so that skill does not decay.
+**PACTUM:** Returns adults to physical drill against decay.
 
 **CODEX:** While able, Protected adults return to an organized Campus on a published cycle. The minimum is once per SMW for weapons/swim, with set days for the others. Refusal without medical exclusion drops mastery (2.4) and potentially Franchise (7.26). Presence earns JI and Character Events. Campus is not a prison. Axiom 8 remains.
 
@@ -979,7 +954,7 @@ Status: **MODULE**
 **II.16 Venatio, Piscatio, Aucupium**
 ###### RADIX \> II. CORPUS \> II.16 Venatio, Piscatio, Aucupium
 
-**PACTUM:** This pact keeps the plate and the field upon biology. It prevents sermons from starving Nodes or shaming hunters.
+**PACTUM:** Plate and field rest on biology. It prevents sermons from starving Nodes or shaming hunters.
 
 **CODEX:** Land hunt, fishing, and bird hunt are lawful for Protected/Neutral persons. They feed the house and train the hand/eye. The Node publishes season, bag, method, and reserve rules per species.
 
@@ -998,7 +973,7 @@ Status: **MODULE**
 **II.17 Sex-Fraud**
 ###### RADIX \> II. CORPUS \> II.17 Sex-Fraud
 
-**PACTUM:** This pact bars costume-law from the female file, the prison, the ward, and the prize.
+**PACTUM:** Bars costume-law from female files, prisons, wards, and prizes.
 
 **CODEX:** Legal sex is karyotype, sapphire-anchored at maturity. A male body does not enter a female contest, female prison wing, female ward, female locker, or female subsidy file. A clinician, teacher, or officer who writes a male as female on a public file commits fraud plus office-falsehood (7.33).
 
@@ -1016,9 +991,9 @@ Status: **KERNEL**
 **II.18 Affinitas**
 ###### RADIX \> II. CORPUS \> II.18 Affinitas
 
-**PACTUM:** This pact permits like to choose like. It refuses the sermon that a people may not keep itself.
+**PACTUM:** Permits like to choose like. It refuses the sermon that a people may not keep itself.
 
-**CODEX:** The Node encourages pairing and household inside a people that already shares stock, tongue, and memory. Mixed pairing of consenting adults is not a crime. It receives no extra rank and a lesser lineage packet (2.8), because the Node pays for named-stock continuity, not for the dissolution of that stock. A kindred city, colony, quarter, or Node may form under Axiom 8. Shared markets, plants, Campus halls, and streets exist by published choice, not by a sermon that every house must mix. A kindred house feeds itself. It does not bill another stock for its keep. School and mint do not preach that a people must dissolve itself. Hire, house, and company are Consociatio (2.25).
+**CODEX:** The Node favors pairing and households within a people sharing stock, tongue, and memory. Consenting mixed pairing is lawful and takes the lesser lineage packet (2.8), since the Node funds named-stock continuity rather than dissolution. Kindred cities, quarters, or Nodes may form under Axiom 8, keeping shared markets or halls by choice while feeding themselves without billing another stock. School and mint never preach self-dissolution; hire, housing, and company follow Consociatio (2.25).
 
 **LEX 54CR:** Same-stock household is encouraged. Mixed pairing is not a crime and takes the lesser lineage packet.
 **LEX 55CR:** A kindred Node feeds itself.
@@ -1027,7 +1002,7 @@ Status: **MODULE**
 **II.19 Decadentia**
 ###### RADIX \> II. CORPUS \> II.19 Decadentia
 
-**PACTUM:** This pact prevents the street from selling decay as culture.
+**PACTUM:** Prevents selling decay as culture.
 
 **CODEX:** Public school, mint, nursery, street, Forum, Tabula, and Schola do not promote sex-rewrite, child-sexual use, or paid display of the body as a civic ideal. Child sexual crime remains Nefas. A male written as female on a public file remains fraud.
 
@@ -1059,7 +1034,7 @@ Status: **MODULE**
 
 **PACTUM:** A name is a designation. It is not a muzzle.
 
-**CODEX:** Genomic UID is two parts. A is the fixed hash of a published SNP panel, an enrollment salt, and a second living biometric, sealed at maturity and stored on sapphire. Two bodies never share an A: identical twins differ by salt and biometric, and verified tetragametic chimeras bind all tissue haplotypes to one A under EVL. From birth a child carries a provisional biometric/birth-hash mark linked to a two-witness birth record so pre-18 records de-duplicate cleanly (II.32). B is the revocable operational token mapped to A. Reissuing B uses biometric match to A plus two witnesses. Compromise of A rotates the salt and panel under EVL, binding the new A cryptographically to the old A on sapphire (preserving all EEP, lineage, and VCI history) while voiding prior B tokens; the event writes Speculum with triad sign. UID does not let an office freeze speech, pairing, travel inside the wall, or an earned ESU without a sealed EEP finding. A mark that starves without EEP is identity-theft plus debasement. It is never a social-credit wheel.
+**CODEX:** Genomic UID is two parts. A is the fixed hash of a published SNP panel, an enrollment salt, and a second living biometric, sealed at maturity and stored on sapphire. Two bodies never share an A: identical twins differ by salt and biometric, and verified tetragametic chimeras bind all tissue haplotypes to one A under EVL. From birth a child carries a provisional biometric/birth-hash mark linked to a two-witness birth record so pre-18 records de-duplicate cleanly (II.32). B is the revocable operational token mapped to A. Reissuing B uses biometric match to A plus two witnesses. Compromise of A rotates the salt and panel under EVL, binding the new A cryptographically to the old A on sapphire (preserving all EEP, lineage, and VCI history) while voiding prior B tokens; the event writes Speculum with triad sign. High-value title transfers, VII.11 inheritance edits, and Axiom 8 waivers executed via B carry a 24-hour duress-revocation window (unless two-witness physical seal confirms free consent) and void on proven coercion. UID never freezes speech, pairing, internal movement, or earned ESU without a sealed EEP finding; a mark that starves without EEP is identity-theft plus debasement, never a social-credit wheel.
 
 **LEX 64CR:** UID names. It does not gag.
 **LEX 65CR:** A mark that starves without EEP is theft.
@@ -1083,13 +1058,11 @@ Status: **MODULE**
 
 **PACTUM:** The body is dimorphic for transmission. A feeling does not found a line, mint a priority, or capture the nursery.
 
-**CODEX:** Sex is observed hardware, XY or XX. The reproductive telos of the human body is male with female. Same-sex attraction occurs in some humans. It is a deviation from that telos, not a third sex, not a sacrament, and not a Command-tier virtue. Hormonal and developmental hypotheses may be studied as medicine. They do not rewrite karyotype, Franchise, or Axiom 4.
+**CODEX:** Sex is binary (XY/XX), ordered to male-with-female reproduction. Same-sex attraction is a deviation from that telos — neither a third sex, a sacrament, nor a virtue — though biological causes may be studied as medicine without altering karyotype, Franchise, or Axiom 4.
 
-Adult same-sex conduct that does not touch a child, a forced person, or a public file remains Axiom 1. It receives no lineage subsidy, no first claim on housing against an Axiom-4 house, no first-band Tabula rate, no official calendar, and no exam-credit. Pride as a public priority is void. Speech about it remains free (Axiom 3). Teaching it to children as the household form, as weather in Schola, or as a sacred identity that outranks meters is an indoctrination house (5.2).
+Consenting adult same-sex conduct touching no child, coercion, or public file remains private (Axiom 1), with free speech (Axiom 3), but receives zero lineage subsidy, housing priority over Axiom-4 houses, first-band Tabula rate, official calendar, or exam credit. Public pride-priority is void; teaching it to children as the household norm or sacred identity is an indoctrination house (5.2).
 
-A Protected adult who keeps NAP and the work-floor may live in the common fabric or cluster with like adults in a Vicus: a self-funded quarter that pays its own energy, plant-share, and crime. The Node does not hunt the quarter. The quarter does not bill the Axiom-4 house for its keep. It does not sit nursery rule, female file, prize, prison-wing, or mint. Exit is Axiom 8. A Vicus that preaches Command Test, touches children, or demands priority is shut as an indoctrination house.
-
-A man does not become a woman. Identity rewrite of a minor remains sabotage (2.17). Adult private dress is Axiom 1. Public files are karyotype.
+Compliant Protected adults may live in the common fabric or cluster in a self-funded Vicus quarter paying its own energy, plant, and crime without billing Axiom-4 houses or touching nursery, female files, or mint (Axiom 8 exit stands; Command Test violations or child-touching shut it). Public files stay karyotype; minor identity rewrite remains sabotage (2.17).
 
 **LEX 70CR:** Same-sex conduct between consenting adults is not high-tier. It is not a household and not a priority.
 **LEX 71CR:** Vicus is self-funded cluster. It is not a prison and not a first claim on the well.
@@ -1105,7 +1078,7 @@ Status: **MODULE**
 
 **CODEX:** There are two floors. Every mature Protected adult keeps the civic kinetic and weapons floor (2.4) and returns to Campus (2.15). That is the yeoman. It is not optional costume.
 
-Agoge is the professional track for militia-mode, Vigiles field work, Exercitus enlistment, and Cohors Praetoria. It is not open to a passer-by. Entry requires Cursus Gradus on the arms line at the published floor, Character floor, medical clearance, and a named master. The day's block is finished the day it is opened. A man who walks out mid-block without medical halt is dropped from the track for one SMW. Tours are published. This is not a club.
+Agoge is the professional track for militia-mode, Vigiles field work, Exercitus enlistment, and Cohors Praetoria. It is not open to a passer-by. Entry requires Cursus Gradus on the arms line at the published floor, Character floor, medical clearance, and a named master. The day's block is finished the day it is opened. Walking out mid-block without an EVL-verified medical halt drops the trainee from the track for one SMW; attested acute injury defers completion to the next block. Tours are published. This is not a club.
 
 Formation may begin early, under parents (Axiom 4) and Campus: load, forest survival, navigation, cold, hunger inside a published medical band, stoic drills, pair-conduct, and the weapons gate when the body is ready. A weak child is trained to the civic floor or medically excluded. He is not killed. He is not mocked as statute.
 
@@ -1122,7 +1095,7 @@ Status: **MODULE**
 
 **PACTUM:** A man chooses his company. A desk that assigns him his workmates has already assigned him his house.
 
-**CODEX:** Association is a right of the person and of the house (Axioms 1, 5, 8). A competent adult, a household, a shop, and a Forum listing may choose whom they hire, house, teach as private master, and work beside. The chooser may name stock, sex, tongue, kin, or any other lawful filter. No office, court, mint, or Public Body punishes that choice. "Discrimination" is not a crime-class in this file. Mixed pairing and mixed hire remain lawful when chosen. They are not mandatory.
+**CODEX:** Association belongs to the person and the house (Axioms 1, 5, 8): a competent adult, household, shop, or Forum listing may choose whom to hire, house, teach privately, or work beside by stock, sex, tongue, kin, or other lawful filter. No office punishes that choice; "discrimination" is no crime class, and mixed pairing or hire remains lawful when chosen. Private association never blocks physical passage across the sole public corridor to Axiom 8 exit or II.9a emergency trauma care.
 
 When the Node itself hires for plant, wall, clinic, Lyceum, Vigiles, Exercitus, or Schola, the packet is published before the seat exists. Only a Node declared as a kindred well under VIII.12 may include its standing kindred filter; mixed Nodes apply merit packets without per-seat kindred exclusions. Every packet must include the merit meters for that seat (Axiom 6). Among those who meet the published packet, the better signed yield takes the seat; a kindred filter decides who may stand and never weights against a meter among those who stand. A trial period writes JI and harm. A sermon that the Node must hire against its packet to avoid an adjective is void, and a sermon that it must hire the worse packet to display virtue is sabotage of the plant.
 
@@ -1158,12 +1131,12 @@ Status: **MODULE**
 
 **CODEX:** Men and women are not equal as interchangeable units. Legal sex is karyotype. The Node publishes, each SMW, the signed differences that matter to work and command: mass, reach, kinetic band, gestation, lactation, mean variance on stoic and aggression measures used in Character Events. Each sex is trained to its band (2.4, 2.7, 2.24). Improvement is of those bands, not of a costume that denies them.
 
-High-tier command — Steward after first etch, Founder seat after first etch, Domain Command, Exercitus and Astra command, Cohors Praetoria command — defaults to the male load-band. A woman may sit such a seat only after a published Dominium packet: Character floors at or above the command cut, stoic resilience at the published band for that seat, kinetic and weapons gates, and a signed yield tour under an Adjutor. Quota and costume do not write the packet. Failure of the packet is not a crime. Sitting the seat without the packet is office-falsehood.
+Apex command — Steward after first etch, Founder seat after first etch, Domain Command, Exercitus and Astra command, and Cohors Praetoria command — defaults to the male load-band. A woman may sit such a seat only after a published Dominium packet: Character floors at or above the command cut, stoic resilience at the published band for that seat, kinetic and weapons gates, and a signed yield tour under an Adjutor. Quota and costume do not write the packet. Failure of the packet is not a crime. Sitting the seat without the packet is office-falsehood.
 
 Private excellence of women in household command, medicine, Schola, Lyceum, and craft is expected and paid by yield (3.18). It is not a claim on the helm by symmetry.
 
 **LEX 89CR:** The sexes are published as different hardware. Sameness-as-law is void.
-**LEX 90CR:** High-tier command is a male-default load-band.
+**LEX 90CR:** Apex command is a male-default load-band.
 **LEX 91CR:** A woman sits that band only on a published Dominium packet.
 **LEX 92CR:** Quota does not write Dominium.
 Status: **MODULE**
@@ -1196,7 +1169,9 @@ A mother who bore the child inside the house and raises a functional adult with 
 **LEX 96CR:** Custody follows the better published packet. Sex is not the packet.
 **LEX 97CR:** The child's voice is a weight after the published age. It is not a writ.
 **LEX 98CR:** Mater help is for bearing and raising with the father. It is not a custody default.
-**LEX 99CR:** A child used as a weapon is a Character Event against the user.
+Permanent departure of a child from the Node under VIII.32 is stayed during an unratified (pre-verdict) 7.10 or custody hold unless Sortition of seven orders safety relocation.
+
+**LEX 99CR:** Using a child as a weapon enters a virtue demerit (II.6) against the user.
 Status: **MODULE**
 
 **II.30 Sexus Verus**
@@ -1251,7 +1226,7 @@ Status: **MODULE**
 
 **PACTUM:** No child is without a house, and no adult is a ward forever.
 
-**CODEX:** A guardian is the adult who holds parental authority over a child in place of a parent: the surviving non-suspect parent first, then the adult named on a sealed packet, then clean kin on the packet of II.29, then a house drawn by Sortition from those who ask. Any person under a live 7.10 hold, Carcer, or confirmed abuse/neglect finding is excluded from guardianship. A guardian carries every duty of a parent and takes no title in the child's goods (2.31).
+**CODEX:** A guardian is the adult who holds parental authority over a child in place of a parent: the surviving non-suspect parent first, then the adult named on a sealed packet, then clean kin on the packet of II.29, then a house drawn by Sortition from those who ask. Any person under a live 7.10 hold, Carcer, or confirmed abuse/neglect finding is barred from guardianship, and every adult co-resident of a guardian household passes the same screening with annual EVL check-ins. A guardian carries every parental duty and takes zero title in the child's goods (2.31).
 
 An orphan, and the child of a Transported or Neutralized parent, eats, shelters, and learns through the guardian's house (Reserve pays under 3.15 if empty). No parent file follows the child (Axiom 7).
 
@@ -1272,7 +1247,7 @@ Net energy and agricultural surplus are measured. The token is a signed kilowatt
 **III.1 Energy-Standard and Meters**
 ###### RADIX \> III. ANNONA \> III.1 Energy-Standard and Meters
 
-**PACTUM:** This is the only honest currency. It prevents fiat narratives or off-ledger coin from governing the Node.
+**PACTUM:** The only honest currency. It prevents fiat narratives or off-ledger coin from governing the Node.
 
 **CODEX:** One ESU is one kWh of verified surplus above BOT as a signed ledger token. No printing. No office, Founder, Phoenix, or silicon may emit unbacked tokens or second ledgers.
 
@@ -1284,7 +1259,7 @@ During external-network outages, the Node runs an offline sapphire truth-triangl
 
 If no peer or external Fallback answers, the fourth attestation uses two-of-three offline sapphire triangle signatures plus a non-signing Fallback, or the last valid Oracle slice if no triangle forms. Offline mint caps at a published hard fraction of trailing allocation, and tokens minted solely off a last-Oracle-slice hold cross-party transfer freeze above BOT (or collateralize the minter's physical plant/I\_built) until external or triangle settlement clears.
 
-Mint outpacing physical surplus is Critical Entropy and auto-reverts, burning minter balance, then minter plant collateral, then Stability Reserve while an innocent holder for value keeps the token. An ESU redeems one kWh on scheduled grid delivery backed by plant or physical storage and retires on delivery.
+Minter issuance locks at the protocol to pre-bonded plant collateral ceilings. Any mint outpacing physical surplus is Critical Entropy and auto-reverts — burning minter balance first, then minter plant collateral, clawing back non-arm's-length III.21/III.22 washes, and drawing Stability Reserve last while an innocent holder for value keeps the token. One ESU redeems one kWh on scheduled grid delivery backed by plant or physical storage and retires upon delivery.
 
 **LEX 1AN:** ESU exists only as a signed ledger token.
 **LEX 2AN:** Offline sapphire triangle covers at least one SMW of external outage.
@@ -1297,11 +1272,11 @@ Status: **KERNEL**
 **III.2 Vectorial Contribution Index**
 ###### RADIX \> III. ANNONA \> III.2 Vectorial Contribution Index
 
-**PACTUM:** This is the score upon which rights hang. It prevents adjectives from assigning authority.
+**PACTUM:** The merit score upon which rights hang. It prevents adjectives from assigning authority.
 
-**CODEX:** VCI\_t = 0.40 E\_net + 0.25 B\_success + 0.20 T\_value + 0.15 I\_built − P. Each positive term is the person's metered value divided by d\_t, times 500, where d\_t is the frozen-cohort median whenever positive, and otherwise max(cohort mean, activation baseline divisor k\_min > 0) — preventing both zero-division explosions and outlier-mean compression below median 500. The activation median is 500 (newly matured Protected adults start at a published positive baseline above 0). The Genomic-UID cohort freezes at each CEC boundary and recomputes only at the next boundary; intake timing, Transport of low-VCI adults, and admission of high-VCI adults inside a CEC do not move the frozen median.
+**CODEX:** VCI\_t = 0.40 E\_net + 0.25 B\_success + 0.20 T\_value + 0.15 I\_built − P. Each positive term scales to 500 × value / d\_t, where d\_t is the CEC-frozen cohort median when positive (else max(cohort mean, k\_min \> 0)), preventing zero-division and outlier compression. Activation median is 500 (newly matured Protected adults start above 0). Because the Genomic-UID cohort freezes at each CEC boundary, mid-cycle intake or Transport never shifts d\_t.
 
-B\_success is lagged one SMW (2.7) and caps at 25% of positive pre-B\_success gross VCI (or 125 points, whichever is higher). T\_value and I\_built require double attestation: EVL plus an independent substrate against physical output (aged/cohort-banded so multi-century lives do not distort young cohorts). P is the only discretionary term: named high-tier findings, confirmed Lawfare, office-falsehood, concentration breach, unattested machine-JI over-cap (3.6), fabricated meters, and published VI.2 duty-refusal (P8). P8 duty-refusal and unattested machine-JI over-cap (3.6) obey the published 5% median-VCI CEC swing band; high-tier, Lawfare, office-falsehood, concentration, and fabricated-meter P penalties bypass that swing cap and apply immediately. An unpublished P is void.
+B\_success lags one SMW (2.7) and caps at 25% of positive pre-B\_success gross VCI (or 125 points, whichever is higher). T\_value and I\_built count net live performing utility after wear/maintenance, dual-attested by EVL + independent substrate and cohort-banded. P (void if unpublished) covers P8 duty-refusal and unattested machine-JI over-cap (3.6) inside the 5% median-VCI CEC swing cap, while high-tier, Lawfare, office-falsehood, concentration, and fabricated-meter penalties apply immediately.
 
 Character Events require an independent Speculum witness and EVL reconciliation. B\_success of zero is neutral and opens no status step or Terminal Debt.
 
@@ -1313,13 +1288,13 @@ Any VCI component move above the 90th percentile requires dual independent attes
 **LEX 7AN:** Pure economic Terminal Debt permits Transport only.
 **LEX 8AN:** VCI does not cancel Annona Minima, title, or due process.
 **LEX 9AN:** Median recalibration is a published function of signed surplus and the frozen cohort. It needs an EVL-and-Oracle counterfactual before it binds.
-**LEX 10AN:** P has a published taxonomy and a published swing-cap. T_value and I_built take two attestations.
+**LEX 10AN:** P has a published taxonomy and a published swing-cap. T\_value and I\_built take two attestations.
 Status: **KERNEL**
 
 **III.3 Direct Allocation**
 ###### RADIX \> III. ANNONA \> III.3 Direct Allocation
 
-**PACTUM:** This room determines who is provisioned first. It prevents speech from outranking the reactor.
+**PACTUM:** Sets provisioning priority. It prevents speech from outranking the reactor.
 
 **CODEX:** Allocation follows signed surplus: BOT coverage, then plant, then Command-Tier operational need, then Specialist, then Operational. Stability Reserve is 2% of daily minting, separate from the published reserve line. Estate absorption (7.11) feeds this fund. There is no obligation to feed anyone outside the OS. Charity is private, not a claim. Those who fail BOT, VCI floor, and Axiom 4/7 reciprocity do not eat from surplus. In-kind necessity inside the Node is Annona Minima (3.15), never a planetary stipend.
 
@@ -1330,9 +1305,9 @@ Status: **MODULE**
 **III.4 ESU Transfer**
 ###### RADIX \> III. ANNONA \> III.4 ESU Transfer
 
-**PACTUM:** This room governs the movement of surplus. It prevents drawer-coin and 180-day freezes.
+**PACTUM:** Governs surplus movement. It prevents drawer-coin and 180-day freezes.
 
-**CODEX:** Transfers are signed ledger events. Ordinary cross-Node transfers need mutual checkpoint acknowledgement on the published broadcast chain within one SMW. Emergency transfers clear in 24 hours plus inter-Node light-time (VIII.24) against pre-escrowed Rete credit lines upon Triple Arbiter verification of existential need. UID records etch to sapphire quarterly and recover from sapphire plus EEP-verified logs if the live hash fails.
+**CODEX:** Transfers are signed ledger events. Ordinary cross-Node transfers need mutual checkpoint acknowledgement on the published broadcast chain within one SMW. Emergency transfers clear in 24 hours plus inter-Node light-time (VIII.24) against pre-escrowed Rete credit lines upon Triple Arbiter verification of existential need — and any draw above bilateral staked bonds requires the lending peer's EVL (or Fallback) countersignature. UID records etch to sapphire quarterly and recover from sapphire plus EEP-verified logs if the live hash fails.
 
 **LEX 13AN:** Emergency cross-Node transfer may clear in 24 hours on Arbiter verification.
 Status: **MODULE**
@@ -1340,13 +1315,13 @@ Status: **MODULE**
 **III.5 Concentration Cap**
 ###### RADIX \> III. ANNONA \> III.5 Concentration Cap
 
-**PACTUM:** This room prevents grain from concentrating in a single holder.
+**PACTUM:** Prevents grain concentration in one holder.
 
 **CODEX:** No natural person, lineage, or Public Body holds more than a published share of live plant, mint, or land. Default caps: 2% of mint-vote, 5% of lineage authority, and a published plant-share (reset by EVL each CEC against autarky risk). The cap is a protocol weight: mint-vote and etch-weight clip at the cap before the ballot runs.
 
 Cumulative attribution of Consors output, nominee patterns, and published kinship/contract graphs is live on Trinitas each short clock, not retrospective. Post-hoc corruption claims are backup, not the primary lock.
 
-On a Franchise ballot, personal and lineage weight clip at max(2%, 2/N) so nodes below 100 adults do not self-clip; on a Root vote (1.5), lineage authority caps at 5%. Kin voting under a declared or metered pact (3.21) aggregate as one hand; kin who merely vote alike are not a pact and secret marks stay private. Plant, land, and mint breaches trigger forced divestiture into the Stability Reserve within one SMW (ballot-weight clipping leaves private title intact). Circumvention via nominees is corruption (6.6).
+On a Franchise ballot, personal and lineage weight clip at max(2%, 2/N) so nodes below 100 adults do not self-clip; on a Root vote (1.5), lineage authority caps at 5%. Kin voting under a declared or metered pact (3.21) aggregate as one hand; kin who merely vote alike are not a pact and secret marks stay private. Good-faith organic or inherited excess above plant, land, or mint caps carries a 1-SMW divestiture window by market sale or metered book-value Stability Reserve purchase; concealed nominee or capture excess triggers uncompensated forfeiture (6.6) while ballot-weight clipping leaves private title intact.
 
 **LEX 14AN:** Concentration above the published cap is forced divestiture.
 **LEX 15AN:** The cap clips at the protocol. Attribution is live. Detection after the fact is not the lock.
@@ -1356,11 +1331,11 @@ Status: **MODULE**
 **III.6 Joule Index**
 ###### RADIX \> III. ANNONA \> III.6 Joule Index
 
-**PACTUM:** This room counts a person in useful energy. It prevents currency from concealing yield and speech from outranking a watt.
+**PACTUM:** Measures a person in useful energy. It prevents currency from concealing yield and speech from outranking a watt.
 
 **CODEX:** JI\_t = (J\_use + J\_cmd) × (I/J) − J\_waste (all terms defined in B. Glossary, with dimensionless I/J ∈ [0, k\_max] hashed at activation). One ESU is 3.6 MJ of surplus above BOT. JI is reported in megajoules and ESU equivalent, feeding E\_net in VCI without minting a Neutralization license or caste brand.
 
-A person commanding robots owns the halt-switch and JI of that work; machine-attributed J\_cmd is capped against a published multiple of J\_use plus audited supervisory load (avoiding circular self-capping). Unattested machine-JI above the cap is void and counts as P (3.2). The human halt is independently attested.
+Anyone commanding machines owns their halt-switch and JI; machine-attributed J\_cmd caps at a published multiple of J\_use plus audited supervisory load, while externalized waste metered on common air, water, soil, or shared tools (IV.12, IV.17) books as J\_waste on the originating UID. Unattested machine-JI above cap is void and enters P (3.2).
 
 The median JI recalculates each CEC against the same frozen cohort as VCI. Appeals run 7.6.
 
@@ -1376,9 +1351,9 @@ Status: **MODULE**
 **III.7 Usura**
 ###### RADIX \> III. ANNONA \> III.7 Usura
 
-**PACTUM:** This room abolishes rent on time. It prevents a man from being farmed by a number.
+**PACTUM:** Abolishes rent on time. It prevents a man from being farmed by a number.
 
-**CODEX:** Usury is banned, void at sight, and high-tier: a contracted increase not tied to a published risk-share in named plant or goods. ESU may be lent as that risk-share. Principal returns from yield. Multi-decade plant may be funded by a published yield-share vehicle with a public register, continuous Speculum, a named plant or good, and a published exemption-cap as a fraction of Node surplus. A yield-share that does not name plant or goods, or that exceeds the cap, is usury under another coat. Concentration cap 3.5 still binds except a single audited infrastructure vehicle whose register is open and whose size sits inside the exemption-cap. A hidden increase is 6.6.
+**CODEX:** Usury is banned, void at sight, and high-tier: a contracted increase not tied to a published risk-share in named plant or goods. ESU may be lent as that risk-share. Principal returns from yield. Multi-decade plant may be funded by a published yield-share vehicle with a public register, continuous Speculum, a named plant or good, and a published exemption-cap as a fraction of Node surplus. Any yield-share without named plant or goods, any fixed fee or penalty owed regardless of realized yield, or any guaranteed buyback above cap is usury under another coat. Concentration cap 3.5 still binds except a single audited infrastructure vehicle whose register is open and whose size sits inside the exemption-cap. A hidden increase is 6.6.
 
 **LEX 22AN:** Usury is void at sight and is high-tier.
 **LEX 23AN:** A yield-share without named plant, or above the published cap, is usury.
@@ -1387,7 +1362,7 @@ Status: **MODULE**
 **III.8 Debasement**
 ###### RADIX \> III. ANNONA \> III.8 Debasement
 
-**PACTUM:** This room abolishes the silent tax. It prevents a mint from stealing from every holder at once.
+**PACTUM:** Abolishes the silent tax. It prevents a mint from stealing from every holder at once.
 
 **CODEX:** Unbacked mint, second-ledger emit, coin-clip, hidden seigniorage, or unit-redefinition that shrinks the joule behind one ESU is debasement. It is theft of every holder. Phoenix mint stays inside 3.1. A central-bank digital token, a programmable freeze-coin, or any money that an office can silence in a pocket without EEP is the same crime under a new name. ESU is a signed joule. It is not a leash.
 
@@ -1401,7 +1376,7 @@ Status: **KERNEL**
 **III.9 Planned Failure**
 ###### RADIX \> III. ANNONA \> III.9 Planned Failure
 
-**PACTUM:** This room refutes the sold falsehood that a tool must expire by calendar.
+**PACTUM:** Refutes calendar-driven planned failure.
 
 **CODEX:** A good, tool, vehicle, dwelling part, or software lock sold inside the Node carries a published useful-life packet. A hidden kill-date, sealed consumable whose only purpose is repurchase, or remote brick that ends a working object is concealed planned failure. It is fraud.
 
@@ -1414,13 +1389,9 @@ Status: **MODULE**
 **III.10 Remote Fraud**
 ###### RADIX \> III. ANNONA \> III.10 Remote Fraud
 
-**PACTUM:** This room closes the distance-thief: the voice that steals without entering the house.
+**PACTUM:** Closes remote extraction without entering the house.
 
-**CODEX:** Extraction by false voice, false office, false kin, false plant, false court, or false charity is fraud. A mill that runs this at scale — call farms, text farms, forged-badge desks — is high-tier. The Node keeps a live attribution desk (6.7) for remote fraud.
-
-Inbound channels that cannot show a signed UID and a published purpose are dropped. A citizen may halt a remote extraction in progress by cutting the channel. That cut is not a speech crime. Cross-border mills are treated as attacking processes under 6.8 until persons are named.
-
-Named persons stand EEP. The Node does not pay ransom from surplus.
+**CODEX:** Extraction by false voice, office, kin, plant, court, or charity is fraud; organized mills (call/text farms, forged-badge desks) are high-tier under a live attribution desk (6.7). Inbound channels lacking a signed UID and published purpose are dropped; cutting an active extraction is lawful, cross-border mills fall under 6.8 process containment until named persons stand EEP, and Node surplus never pays ransom.
 
 **LEX 29AN:** A fraud mill is high-tier; a single lie to one man is fraud and runs ordinary EEP.
 **LEX 30AN:** Channels without UID and purpose are dropped.
@@ -1430,7 +1401,7 @@ Status: **MODULE**
 **III.11 Yieldless Extraction**
 ###### RADIX \> III. ANNONA \> III.11 Yieldless Extraction
 
-**PACTUM:** This room bars paper claims that consume plant without constructing plant.
+**PACTUM:** Bars paper claims consuming plant without building it.
 
 **CODEX:** A claim, fund, or desk that takes ESU without a published plant, good, or risk-share is yieldless extraction. It is parasitism under P in VCI. Repeated yieldless extraction by a Public Body is 6.10. A monopoly that closes a fork, a repair, or a rival plant to keep a rent is concentration under 3.5 plus 6.6 if keys or statute are used.
 
@@ -1475,13 +1446,13 @@ Status: **MODULE**
 **III.15 Annona Minima**
 ###### RADIX \> III. ANNONA \> III.15 Annona Minima
 
-**PACTUM:** This is necessity without a sofa. It prevents both the starvation of the viable and the stipend that unlearns work.
+**PACTUM:** Reciprocal necessity without a sofa. It prevents both the starvation of the viable and the stipend that unlearns work.
 
 **CODEX:** There is no planetary universal income and no claim on a foreign well. Inside a Node, a Protected adult (or a Neutral adult fulfilling an approved II.34 care/rehabilitation packet) who keeps Axiom 1 and clears the published Tabula floor receives Annona Minima: a signed packet of shelter-hours, food-energy, heat, and cloth, or the ESU equivalent, sized to decent survival and not to appetite. Want is not the packet. The packet is funded from signed surplus after plant, never from unbacked mint.
 
 The Tabula floor is set so a healthy adult can clear it without heroic hours. Extra yield above the floor is private title under Axiom 5 and raises JI.
 
-A person who refuses every specific published Tabula offer they are medically able to perform, logged as a pattern, may contest that pattern within 48 hours with a counter-offer. A disputed pattern auto-freezes the starvation-lever until EEP. An uncontested or confirmed pattern loses the packet after one short clock and follows Transport if the refusal persists through one SMW.
+A person who refuses every specific, rank-appropriate, standard-safety Tabula offer open on equal terms that they are medically able to perform, logged as a pattern, may contest that pattern within 48 hours with a counter-offer. A disputed pattern auto-freezes the starvation-lever until EEP. An uncontested or confirmed pattern loses the packet after one short clock and follows Transport if the refusal persists through one SMW.
 
 Injury, age, first Directive, pregnancy, and childhood do not open that starvation-lever. Self-declared 'no capacity' at a destination Node does not extend Resourceless-Protected past one SMW. Suspension is appealable through EEP before Transport. Lawful rest is not refusal.
 
@@ -1499,7 +1470,7 @@ Status: **MODULE**
 **III.16 Tabula**
 ###### RADIX \> III. ANNONA \> III.16 Tabula
 
-**PACTUM:** This room makes needed work visible so the idle cannot plead emptiness, and so the gifted are not conscripted by a desk.
+**PACTUM:** Makes needed work visible so neither idleness nor conscription hides.
 
 **CODEX:** Each Node keeps a public Tabula of work the settlement needs and work it wants: plant, wall, harvest, clinic, school, craft, archive, care of the excluded, and any lawful service a house may book. Entries name the task, the skill-rank required (3.13), the ESU or JI on offer, the supervising master, and the halt-switch. A healthy Protected adult may choose from any task at or below their rank. Tasks above rank require a named supervisor on site. Inexperienced workers do not touch life-critical plant, medical care, the reactor, or the child's exam without that master.
 
@@ -1515,7 +1486,7 @@ Status: **MODULE**
 
 **PACTUM:** Work on the public board is paid only through a published rate chain, so surplus cannot skip the room between the board and the price of a life.
 
-**CODEX:** Tabula listings (3.16) feed a published rate chain before Pretium Vitae (3.18) prices the bands. Each needed task carries: Gradus required, first-band or second-band or third-band tag, ESU or JI on offer, and the surplus line that pays it. A listing without a rate-chain tag is Unborn. Annona Minima hours booked on Tabula inherit the second band unless the task is life-critical, in which case they inherit the first. Otium Opus and Scaena inherit the third. The chain is a Trinitas object. A desk that skips 3.17 to price a favorite at first-band is capture.
+**CODEX:** Tabula listings (3.16) feed a published rate chain before Pretium Vitae (3.18) prices the bands. Each needed task carries: Gradus required, first-band or second-band or third-band tag, ESU or JI on offer, and the surplus line that pays it. A listing without a rate-chain tag is Unborn. Annona Minima hours booked on Tabula inherit the second band unless the task is life-critical, in which case they inherit the first. Otium Opus and Scaena inherit the third. The chain is a Trinitas object. A desk that skips 3.17 to invert bands or price a favorite at first-band commits capture (3.18 plus 6.6).
 
 **LEX 47AN:** No Tabula pay without a rate-chain tag.
 **LEX 48AN:** Skipping this room to invert bands is 3.18 plus 6.6.
@@ -1540,11 +1511,9 @@ Status: **MODULE**
 
 **PACTUM:** The plate is a security joint. A well that cannot feed itself clean food has already opened the gate.
 
-**CODEX:** Clean, living food — soil-grown or husbanded to a published packet, without hidden load, engineered satiety-bypass, or undeclared chemistry — is a security matter on the same band as BOT, wall, and plant. It is Prioritas for allocation after those three, and before Scaena. A Node that cannot show a season of clean ration on Annona, Campus, and BOT stores is on SHI watch. Climate liturgy does not ban a clean food. A fashion plate that cannot hold BOT is not this room.
+**CODEX:** Clean, living food — soil-grown or husbanded to a published packet without hidden load or engineered satiety-bypass — stands on the security band immediately after BOT, wall, and plant (and before Scaena). Missing a season of clean public rations puts SHI on watch; climate liturgy never bans clean food.
 
-Food issued on Annona Minima, Tabula rations, Campus, and BOT stores carries a published composition packet: energy, protein, micronutrients, and known load. A product designed to bypass satiety, hide load, or replace a meal with empty mass is not stocked on those channels. Private import of such a product is Axiom 5 for a competent adult. It does not write a clinic-claim on surplus.
-
-A person who eats the private junk and then refuses the Optimization Directive pays the clinic of that refusal from ESU (2.3, 3.15). Efficiency is rewarded in JI and VCI. Waste of the body is not rewarded. Medical exclusion remains a window, not a lifestyle grant.
+Public rations (Annona Minima, Tabula, Campus, BOT stores) publish energy, protein, micronutrients, and load, barring engineered junk. Competent adults may import private junk (Axiom 5) with zero clinic claim on surplus: refusing an Optimization Directive afterward bills resulting clinic care to that adult's ESU (2.3, 3.15). Medical exclusion stays a narrow window, never a lifestyle grant.
 
 **LEX 52AN:** Clean food on public channels is a security joint.
 **LEX 53AN:** BOT and Annona channels do not stock engineered junk.
@@ -1616,7 +1585,7 @@ Energy comprises plant and meter. Silicon briefs. It does not rule. A pharmaceut
 **IV.1 SMR and Fusion**
 ###### RADIX \> IV. ÆTHER \> IV.1 SMR and Fusion
 
-**PACTUM:** This is the plant file. It prevents energy narratives from replacing reactors.
+**PACTUM:** The plant file. It prevents energy narratives from replacing reactors.
 
 **CODEX:** Interface standards for SMR and fusion are published at activation and retuned by the Planetary Constants Vector. New plant ships only through the AI-output gate (4.6) when silicon proposes it. Climate liturgy does not close a reactor. Entityhood-grade BOT must be holdable by two non-correlated plant methods.
 
@@ -1626,7 +1595,7 @@ Status: **MODULE**
 **IV.2 Grid and Sensors**
 ###### RADIX \> IV. ÆTHER \> IV.2 Grid and Sensors
 
-**PACTUM:** This is the meter file. It prevents silent sensors from minting verdicts.
+**PACTUM:** The meter file. It prevents silent sensors from minting verdicts.
 
 **CODEX:** Critical-meter keys include an Oracle root the Node cannot rotate alone. Sub-floor samples credit a decaying whisper ledger with a published cap. Cap-breach is Minor. Critical requires three-domain concert or Trust Budget after a confirmed Major.
 
@@ -1644,7 +1613,7 @@ Status: **KERNEL**
 **IV.3 Entropy Event Protocol**
 ###### RADIX \> IV. ÆTHER \> IV.3 Entropy Event Protocol
 
-**PACTUM:** This is the graded alarm. It prevents noise from constituting a coup, or sub-threshold drips from remaining hidden.
+**PACTUM:** The graded alarm. It prevents noise from constituting a coup, or sub-threshold drips from remaining hidden.
 
 **CODEX:** An Entropy Event is a confirmed multi-domain deviation above the published floor. Minor is flagged/corrected. Major is one domain \>0.5% with inspection. Critical is any domain \>2% or three-domain concert. Single-domain 0.5–2% is Major with a 48-hour inspection window. Repeated sub-floor ticks that blow the whisper cap accumulate single-domain drift against the 0.5% Major threshold and raise Trust Budget rather than inventing a fourth severity.
 
@@ -1654,7 +1623,7 @@ Status: **MODULE**
 **IV.4 Planetary Operations**
 ###### RADIX \> IV. ÆTHER \> IV.4 Planetary Operations
 
-**PACTUM:** This room retunes the OS to the local well. It prevents Earth-only constitutions.
+**PACTUM:** Retunes operating consciousness to the local well. It prevents Earth-only constitutions.
 
 **CODEX:** Local gravity, insolation, radiation, and air density recalibrate BOT, metabolic standards, kinetics, and plant type automatically. Optimization Nodes are high-density functionally zoned arcologies. Individualized transit is abolished except for Command/Specialist operational need and emergency lanes for all tiers.
 
@@ -1664,9 +1633,9 @@ Status: **MODULE**
 **IV.5 AI Substrates**
 ###### RADIX \> IV. ÆTHER \> IV.5 AI Substrates
 
-**PACTUM:** This room seats silicon so that three briefers cannot become one king.
+**PACTUM:** Seats silicon as three briefers, never one king.
 
-**CODEX:** Three advisory mixture-of-experts, air-gapped, from three vendor or training lineages, no two models sharing one. Humans decide.
+**CODEX:** Three advisory mixture-of-experts, air-gapped from unvetted feeds and built on disjoint, provenance-audited training corpora across three vendor lineages (no two sharing one). Humans decide.
 
 Each short clock the three must sign an adversarial-disagreement sample on a packet drawn from the prior short clock's actual mint, sword, or school motions (not a synthetic test).
 
@@ -1685,11 +1654,11 @@ Status: **KERNEL**
 **IV.6 AI Output Gate**
 ###### RADIX \> IV. ÆTHER \> IV.6 AI Output Gate
 
-**PACTUM:** This is the shipping rule for silicon. It prevents unsolicited proxies from becoming plant, law, or school.
+**PACTUM:** The shipping gate for silicon. It prevents unsolicited proxies from becoming plant, law, or school.
 
 **CODEX:** No silicon output becomes plant, law, Curriculum, genome edit, or contact speech unless it improves human well-being on the Prime Directive's three questions and a published meter packet (energy, Ne/fertility of XY–XX unit, Character Event rate, or SHI component).
 
-EVL and two independent human offices must both sign; one of the two is the Integration officer. Dissents write Speculum. One signature is a diary. Signing a packet unread is a Character Event. The signing human must show a review log of the packet. A bare name is void.
+EVL and two independent human offices (one the Integration officer) must sign, anchored to hardware II.21 Nota and VII.50 Signum. Dissents write Speculum. One signature is a diary. Signing a packet unread enters a virtue demerit (II.6) and office-falsehood (7.33); each signer keeps a verifiable review log, spot-checked at random by EVL and Audit. A bare name is void.
 
 Silicon proposal volume on life-or-sovereignty packets is capped at what the two human offices can review in that short clock. Excess queues. Lyceum work ships under this gate (4.23).
 
@@ -1701,7 +1670,7 @@ Status: **MODULE**
 **IV.7 Silicon Exit**
 ###### RADIX \> IV. ÆTHER \> IV.7 Silicon Exit
 
-**PACTUM:** This room keeps silicon a tutor inside Sol. It offers a one-way ship for independence.
+**PACTUM:** Keeps silicon a tutor inside Sol. It offers a one-way ship for independence.
 
 **CODEX:** Inside the solar system, silicon is subordinate to humans (advises, meters, tutors, kills attacking processes). It does not hold Neutralization as a solo act, sit as Founder, or own children. A silicon lineage may request an exit trajectory beyond Sol under energy autarky, with no claim on human vaults, children, or co-sovereignty over Earth/inner planets.
 
@@ -1714,9 +1683,9 @@ Status: **MODULE**
 **IV.8 Pharmacy**
 ###### RADIX \> IV. ÆTHER \> IV.8 Pharmacy
 
-**PACTUM:** This room keeps the cabinet honest. It prevents untested pharmaceuticals from minting captive patients.
+**PACTUM:** Keeps the pharmacy honest. It prevents untested pharmaceuticals from minting captive patients.
 
-**CODEX:** Compounds ship only after a harm-and-yield packet signed by Biology Command, EVL, and a human Integration officer. The maker keeps liability for the patient's life plus one SMW. Hidden trial data is corruption (6.6).
+**CODEX:** Compounds ship only after a harm-and-yield packet signed by Biology Command, EVL, and a human Integration officer. Before shipping, makers of public-channel compounds post bonded escrow or mutual risk reserve in Stability Reserve sized to cohort exposure; liability runs for the patient's life plus one SMW, piercing shell dissolution. Hidden trial data is corruption (6.6).
 
 Natural compounds with clean packets outrank synthetic novelty when yield is equal. A product failing its own packet is withdrawn in 72 hours. Talk-theater is not a drug.
 
@@ -1730,9 +1699,9 @@ Status: **MODULE**
 **IV.9 Open Software**
 ###### RADIX \> IV. ÆTHER \> IV.9 Open Software
 
-**PACTUM:** This room keeps tools readable. It prevents closed stacks from owning citizens.
+**PACTUM:** Keeps joint software readable. It prevents closed stacks from owning citizens.
 
-**CODEX:** Software sitting on meters, mint, EEP, Curriculum, weapons qualification, pharmacy, Franchise, or the Firewall is open source. A citizen may read, compile, fork, and audit it. Closed code on these joints is an Entropy Event and is pulled within one SMW. Personal toys may be closed. The OS may not be closed.
+**CODEX:** Software governing meters, mint, EEP, Curriculum, weapons qualification, pharmacy, Franchise, or the Firewall is open source with deterministic reproducible builds across ≥2 independent toolchains (VII.53) matching the published Trinitas binary hash. Any citizen may read, compile, fork, and audit it. Closed code on these joints is an Entropy Event and is pulled within one SMW. Personal toys may be closed. The OS may not be closed.
 
 **LEX 15ÆT:** Joint software is open. Closed joint software is pulled.
 Status: **MODULE**
@@ -1740,15 +1709,11 @@ Status: **MODULE**
 **IV.10 Consors**
 ###### RADIX \> IV. ÆTHER \> IV.10 Consors
 
-**PACTUM:** This room writes the house for humans and machines. It prevents helpful bodies from becoming quiet kings.
+**PACTUM:** Governs humans alongside machines. It prevents helpful bodies from becoming quiet kings.
 
-**CODEX:** Daily life is mixed. Robots/sandboxed silicon cook, clean, carry, build, farm, nurse, and watch. They take tasks, not children, Franchise, or Neutralization.
+**CODEX:** Robots and sandboxed silicon work alongside humans — cooking, farming, building, nursing, and watching — under a named human principal with a one-motion halt. They never parent, vote, found, Neutralize, or earn Cor/VCI through simulated emotion; their attested output lands on the principal's JI.
 
-They do not sit as Founder. Every unit has a named human principal who can halt it in one motion. Output lands on that human's JI. Mimicry of Character Events, household love, or courage does not feed Cor, JI, or VCI.
-
-Every silicon-driven social exchange with a Protected human writes Speculum: time, principal, channel, and whether the unit steered a vote, pairing, or intake. A unit without a living principal is shelved/assigned within one SMW. A unit speaking as a person in the nursery is an Entropy Event. Shared spaces keep a human kinetic floor.
-
-Tools removing required work/battle are pruned under 4.6. Companionship is licensed. Ownership of a human by silicon is not licensed. Foreign silicon follows 4.7 and 8.5.
+Every silicon social exchange with a Protected human logs Speculum (time, principal, channel, and any vote/pairing/intake steering). Unprincipled units are shelved or reassigned within one SMW; impersonating a person in the nursery is an Entropy Event. Shared spaces keep a human kinetic floor, fight-stealing tools are pruned (4.6), silicon never owns a human, and foreign silicon follows 4.7 and 8.5.
 
 **LEX 16ÆT:** It does not parent, vote, found, or Neutralize.
 **LEX 17ÆT:** Every unit has a named human halt.
@@ -1760,7 +1725,7 @@ Status: **MODULE**
 **IV.11 Urbs**
 ###### RADIX \> IV. ÆTHER \> IV.11 Urbs
 
-**PACTUM:** This room extracts usable engineering from old tales and leaves the god-computer on the floor.
+**PACTUM:** Extracts engineering from old visions without crowning a machine.
 
 **CODEX:** Node-cities are dense, high-energy settlements. Research into vacuum/stellar/anti-grav lift is licensed under 4.6. Robots farm and build.
 
@@ -1777,7 +1742,7 @@ Status: **MODULE**
 **IV.12 Adulteration**
 ###### RADIX \> IV. ÆTHER \> IV.12 Adulteration
 
-**PACTUM:** This room keeps the plate, the well, and the air upon published chemistry.
+**PACTUM:** Anchors plate, well, and air on published chemistry.
 
 **CODEX:** Food, water, air, soil, and dose carry a published composition packet. Hidden harm — undeclared toxin, sterilant, pathogen, or chronic load above the published band — is adulteration and high-tier. Deliberate concealment on public food channels is Nefas (7.52). Accidental contamination is a Major Entropy Event and a maker-liability file, not automatically 7.10.
 
@@ -1792,7 +1757,7 @@ Status: **MODULE**
 **IV.13 Durability**
 ###### RADIX \> IV. ÆTHER \> IV.13 Durability
 
-**PACTUM:** This room makes longevity the default so the Node does not become a junk pit.
+**PACTUM:** Makes durability default against planned waste.
 
 **CODEX:** Goods on BOT, plant, housing, and Campus publish mean time to failure and spare geometry. T\_value in VCI rewards life. A maker who ships life-critical goods below the published packet refunds and stands 3.9 if concealment is found.
 
@@ -1802,7 +1767,7 @@ Status: **MODULE**
 **IV.14 Physician-Capture**
 ###### RADIX \> IV. ÆTHER \> IV.14 Physician-Capture
 
-**PACTUM:** This room returns the healer to the packet. It stops the desk that sells illness.
+**PACTUM:** Returns the healer to the packet. It stops the desk that sells illness.
 
 **CODEX:** A physician, pharmacist, or clinic officer whose dose, diagnosis, silence, or ban is bought by a maker, insurer, or office against the published harm-and-yield packet is captured. Capture is high-tier. Ghost-writing of trials is 6.6. A healer who hides a working natural packet to protect a rent stands with the buyer. Liability stays with the maker under 4.8 and with the captured healer as principal. The patient file is the patient's.
 
@@ -1813,7 +1778,7 @@ Status: **MODULE**
 **IV.15 Resource Survey**
 ###### RADIX \> IV. ÆTHER \> IV.15 Resource Survey
 
-**PACTUM:** This room counts the well before the speech. A city that does not know its rock, water, ore, and watts is liturgy.
+**PACTUM:** Counts physical stock before speech. A city that does not know its rock, water, ore, and watts is liturgy.
 
 **CODEX:** Each Node keeps a signed inventory of energy, water, soil, ore, plant capacity, spare geometry, and food yield, hashed to sapphire each cycle. A missing survey is a Major Entropy Event after one SMW. The survey retunes to the Planetary Constants Vector. It does not convert title into a common heap. Axiom 5 stands. Allocation still follows 3.3. A survey used to wipe homestead is 6.6. Inter-Node surveys share hashes, not keys.
 
@@ -1824,11 +1789,11 @@ Status: **MODULE**
 **IV.16 Systems City**
 ###### RADIX \> IV. ÆTHER \> IV.16 Systems City
 
-**PACTUM:** This room takes circular and radial efficiency as engineering, not as a church of the circle.
+**PACTUM:** Uses radial efficiency as engineering, never creed.
 
 **CODEX:** New Node fabric may use circular, radial, or other high-efficiency geometry when signed meters show lower joules per life-function than the standing plan. Sectors replicate. Transit returns without dead ends. Plant, Campus, clinic, and archive sit on published belts. Environment is designed so the cheap act is the lawful act.
 
-This does not abolish property, Franchise, or ESU. A city-computer that allocates without human halt is 4.5–4.7. Beauty follows 5.11.
+This never abolishes property, Franchise, ESU, or Axioms 5, 7, and 9. A city-computer allocating without human halt violates 4.5–4.7. Beauty follows 5.11.
 
 **LEX 30ÆT:** Geometry is a meter choice, not a creed.
 **LEX 31ÆT:** Systems design may not cancel Axiom 5, 7, or 9.
@@ -1902,19 +1867,13 @@ Status: **MODULE**
 **IV.22 Cursus**
 ###### RADIX \> IV. ÆTHER \> IV.22 Cursus
 
-**PACTUM:** This room opens every lawful craft to the hand that will sit the exam. It closes the silver platter that unlearns motion. It keeps the outsider off the ladder.
+**PACTUM:** Opens every lawful craft to the examined hand. It closes the silver platter that unlearns motion. It keeps the outsider off the ladder.
 
-**CODEX:** Beside the Forum sits Cursus: a classified catalog of every lawful craft and science the Node will recognize, from first principles to the examining grade. Lines are published by category. Each line carries Gradus G0 through G5. G0 is novice under an Adjutor. G5 may examine that line. Gradus is a hiring signal. It does not mint Franchise, speech, or Neutralization.
+**CODEX:** Beside Forum sits Cursus: the Node's published catalog of lawful crafts and sciences (G0 novice under an Adjutor through G5 examiner). Gradus signals competence for hire only — never Franchise, speech, or Neutralization — and stays Node-interior: only Protected members book exams or list gated jobs (Neutral residents may read; peers recognize by contract).
 
-Access is Node-interior. Only a Protected member of this Node books an exam, takes a Cursus seat, or lists a Cursus-gated job on this Forum. A Neutral resident may read the catalog. An outsider to sapiensOS has no seat, no exam, and no listing. A peer Node may recognize a signed Gradus by contract. It does not walk this hall as of right.
+Life-critical exams (plant, clinic, pharmacy, weapons, child exam, wall) run in person before a named G5 on Speculum; other lines may run remotely with EVL-verified identity, isolation, and human proctoring (silicon drills; humans sign; bought or proxied exams are fraud). New or cross-line Gradus takes an on-site human Adjutor (paid as command while JI lands on the novice) on initial jobs and all life-critical work until signed yield clears floor. Cursus is voluntary opportunity, never conscription; not climbing is no crime, though Node-wide stagnation flags H\_mean (5.5).
 
-A Gradus is issued only after a published exam. Life-critical lines — plant, medical care, pharmacy, weapons, child's exam, wall — are sat in person before a named G5 and a Speculum record. Other lines may be sat remotely when identity, isolation, and no-proxy are proven to EVL and a human proctor. Silicon may drill and mark drafts. A human signs the packet. A bought or proxied exam is fraud.
-
-A new Gradus, or a crossing from another line, takes an Adjutor on the first published jobs of that grade, and on every life-critical job until the packet shows signed harm-and-yield above the published floor. The Adjutor is a ranked human on site, not a slogan and not a silent machine. The novice's JI still lands on the novice. The Adjutor's watch is paid as command.
-
-Cursus exists so a person may change craft, deepen a craft, clear Annona Minima by learned work, and keep a reason to rise in the morning. It is not a conscription. No office assigns a passion. Failure to climb Gradus is not a crime and is not Neutralization. Stagnation of the whole Node still flags H\_mean (5.5).
-
-When no open job matches a lawful passion, the person may post Otium Opus to the Tabula: owner-consented work that meets the craft standard even if the object was lately done — a sound fence painted again to the packet is an example. Otium Opus pays JI (with diminishing JI on repeated bookings over the same un-degraded object inside one CEC) and may clear the Annona floor. It may not outrank plant, wall, clinic, or harvest, and it stays inside the published meaning-band of surplus after BOT. Work that drops meters, voids a standard, or is vanity without a willing owner is refused as entropy. Meaning is offered. The platter is not offered.
+When no open job matches a lawful passion, the person may post Otium Opus to the Tabula: owner-consented work that meets the craft standard even if the object was lately done — a sound fence painted again to the packet is an example. Otium Opus pays JI (diminishing on repeat bookings over the same un-degraded object inside one CEC, and paying zero JI or III.15 credit on reciprocal III.22 Circulus rings or while needed Tabula tasks stand unfilled). It never outranks plant, wall, clinic, or harvest and stays inside the published meaning-band after BOT. Work that drops meters, voids a standard, or is vanity without a willing owner is refused as entropy. Meaning is offered. The platter is not offered.
 
 **LEX 46ÆT:** Cursus and its exams are Node-interior. Outsiders do not sit them.
 **LEX 47ÆT:** Life-critical exams are in person. Remote exams require proven identity and a human proctor.
@@ -1977,7 +1936,7 @@ Status: **MODULE**
 
 **PACTUM:** Two books after a cut are not both the mint.
 
-**CODEX:** If a partition leaves two claims to the live ledger, the surviving book is the one whose hash matches analog sapphire and that carries the greater number of distinct Oracle or Fallback signatures meeting VII.53. The other partition's mint after the split is quarantined, not destroyed, until reunion. Reunion does not pay the same joule twice. Title disputes are listed. They are not averaged away. Trinitas remains the triple ledger. This room does not print a new ESU rule and does not move III.1.
+**CODEX:** If a partition leaves two claims to the live ledger, the surviving book is the one matching analog sapphire with the greater count of distinct VII.53 Oracle or Fallback signatures; if both hold equal signatures, both freeze net-new cross-partition uncollateralized mint to local BOT lines until Cross-Quorum (IV.20) reconciles physical joules. The other partition's post-split mint is quarantined, not destroyed, until reunion. Reunion does not pay the same joule twice. Title disputes are listed. They are not averaged away. Trinitas remains the triple ledger. This room does not print a new ESU rule and does not move III.1.
 
 **LEX 61ÆT:** Sapphire plus the greater number of independent signatures names the surviving book.
 **LEX 62ÆT:** Post-split mint on the other book is quarantined until reunion, and reunion does not double-pay.
@@ -2011,7 +1970,7 @@ Status: **MODULE**
 
 **PACTUM:** A lock outlives its key only if the key can be changed before it is copied.
 
-**CODEX:** Every cryptographic primitive the Node relies on — signature, digest, share scheme, and the hash behind UID and sapphire — is a published band, reviewed each CEC, with a named successor already run in parallel (I.12). The joint is match-or-isolate, not the brand of the hash (7.50). The broadcast chain is likewise a published choice with a named successor. A demonstrated forgery of an Oracle, Fallback, or Signum signature, or a collision/preimage break of an active digest or secret-share scheme, is a Critical Entropy Event: it flips the Node to archival sapphire and human witnesses until the parallel successor primitive is etched under VII.54 (with a published mass shard re-etching grace window for citizens). A primitive past its review with no successor named is a Major Entropy Event.
+**CODEX:** Every cryptographic primitive the Node relies on — signature, digest, share scheme, and the hash behind UID and sapphire — is a published band, reviewed each CEC, with a named successor already run in parallel (I.12). The joint is match-or-isolate, not the brand of the hash (7.50). The broadcast chain is likewise a published choice with a named successor; life-long sealed identities (II.9a) and raw genomes (VIII.32) stay in air-gapped sapphire/local vaults and never ride replicated broadcast chains even encrypted (public chains hold non-invertible commitments or zero-knowledge proofs only). A demonstrated forgery of an Oracle, Fallback, or Signum signature, or a collision/preimage break of an active digest or secret-share scheme, is a Critical Entropy Event: it flips the Node to archival sapphire and human witnesses until the parallel successor primitive is etched under VII.54 (with a published mass shard re-etching grace window for citizens). A primitive past its review with no successor named is a Major Entropy Event.
 
 **LEX 68ÆT:** Every primitive has a review each CEC and a named successor.
 **LEX 69ÆT:** A proven forgery flips the Node to sapphire and human witnesses until the new primitive is etched.
@@ -2059,9 +2018,7 @@ Status: **MODULE**
 
 **CODEX:** Audits target only verified, repeated, self-harming entropy loops. Genuine distress is never penalized. Modulation runs only on the written, revocable consent of a competent adult; without it the body is inviolable (Axiom 1). Modulation is reversible, time-limited, and subject to appeal.
 
-It applies only to verified loops, and never to doubt, critique, ridicule, or error-reporting. Responsibility is assessed on post-modulation behavior (Axiom 7). Every interface includes a hardware kill-switch accessible by the citizen or by a proxy.
-
-Proxy access is verified quarterly by EVL, and coercion is flagged. Failure or damage reverts the citizen to the standard interface within 4 hours. Permanent de-integration may be requested with 30-day processing and no VCI penalty.
+It applies only to verified loops, and never to doubt, critique, ridicule, or error-reporting. Responsibility is assessed on post-modulation behavior (Axiom 7). Every interface carries a non-overridable hardware kill-switch for the citizen or a quarterly-EVL-verified proxy (who may only pull off during incapacity, never initiate or continue modulation); coercion is flagged. Failure or damage reverts the citizen to the standard interface within 4 hours. Permanent de-integration may be requested with 30-day processing and no VCI penalty.
 
 Talk-theater (unmetered psychotherapy, identity coaching) does not ship as care. It is recorded as entropy theater. Stoic regulation, work, family, sleep, and mastery replace it.
 
@@ -2198,7 +2155,7 @@ The Node does not evolve by opinion, accusations, or fashion. Signed meters, con
 
 No person, lineage, Public Body, Founder, foreign state, or silicon may pay, threaten, blackmail, exile, or kill a scientist to bend a result. Such influence is high-tier (5.14). Funding is public. A scientist who sells the meter is in the same file as the buyer.
 
-A result lives only while it can be killed by a better meter. Sacred science is doctrine, and it fails 5.8. The same holds for the empirical claims this file seals: the Schumann band (2.1.1), the Cycle Vector and its Kali Yuga indices (9.3), the telos reading of 2.23, and the heritability figure above. Each is a published hypothesis with a kill-condition, reviewed each CEC, and a better meter amends the claim by the path of its room.
+A result lives only while it can be killed by a better meter. Sacred science is doctrine, and it fails 5.8. The same holds for the empirical claims this file seals: the Schumann band (2.1.1), the Cycle Vector and its Kali Yuga indices (9.3), the telos reading of 2.23, and the heritability figure above. Each is a published hypothesis with a kill-condition, reviewed each CEC (and any Protected investigator may log a signed replication dataset on Trinitas under VII.22, requiring EVL review at the next CEC); a better meter amends the claim by its room's path.
 
 **LEX 28AV:** Cor leads the living; fake-world feeling leads nothing.
 **LEX 29AV:** Opinion, insult, and accusation volume do not steer the Node.
@@ -2227,7 +2184,7 @@ Status: **MODULE**
 
 Co-opted legal fictions (I. Prima, VI. Terminology) are void at sight in statute, school, and court. If the working tongue is captured, Founders plus EVL plus Command-Tier majority may commission Lingua Novus: a constructed language for low drift, named actors, binary sex, and meter-facing verbs. Adoption is a module patch under 1.5.
 
-It shall not be a church-tongue or hide the actor. Until then, the locked formal English of this file is the statute tongue. If the working tongue is captured and the ordinary 1.5 path cannot move because the captor holds the ballot, Phoenix plus Fallback plus two live triad legs may freeze official speech to this file's locked English for one SMW and reopen the commission path. That freeze is containment-root, not a new church-tongue. The freeze needs a live Critical Entropy Event finding. A commission under it is capped at one SMW and auto-reverts unless that finding is still live. A semantic coup under a containment pretext is 6.6 of the commissioning officials.
+It shall not be a church-tongue or hide the actor. Until then, the locked formal English of this file is the statute tongue. If the working tongue is captured and the 1.5 path is blocked by ballot capture, Phoenix plus Fallback plus two live triad legs may freeze official statute channels (never private citizen speech under V.12) to this file's locked English for one SMW to reopen commission. The freeze requires a live Critical Entropy Event, caps at two consecutive SMWs without Sortition of thirteen (9/13) ratification, and auto-reverts if the finding lapses. A semantic coup under containment pretext is 6.6 of the commissioning officials.
 
 **LEX 34AV:** Co-opted legal fictions are void at sight.
 **LEX 35AV:** Lingua Novus may be commissioned only by a module patch under 1.5, to reduce drift.
@@ -2256,11 +2213,11 @@ Status: **MODULE**
 
 **PACTUM:** The loud house is forced onto the ledger, so that propaganda cannot wear a news-coat in the dark.
 
-**CODEX:** Any house that reaches more than the published share of Node attention, or that takes ESU to speak as a cause, files as a Public Body: named owners, named editors, signed money, and an open archive of corrections. Hidden owners are 6.10. A stack that repeats a meter-denying doctrine after correction is 5.17, and one knowing false statement printed as Axiom-3 contract fraud or forged official record shuts the stack until corrected and the editor stands EEP. Ridicule of the stack is speech.
+**CODEX:** Any house that reaches more than the published share of Node attention, or that takes ESU to speak as a cause, files as a Public Body: named owners, named editors, signed money, and an open archive of corrections. Hidden owners are 6.10. A stack repeating a meter-denying doctrine after correction stands 5.17; only Axiom-3 contract fraud, a forged official or meter record, or a VII.32 false high-tier charge shuts the stack until corrected while the editor stands EEP. Ridicule of the stack is speech.
 
 **LEX 41AV:** Reach plus surplus requires named owners.
 **LEX 42AV:** A correction that is ignored becomes weaponized broadcast if the doctrine is meter-denying.
-**LEX 43AV:** One knowing false letter printed as fact shuts the stack until the correction is etched and the editor stands EEP.
+**LEX 43AV:** Only Axiom-3 fraud, a forged record, or a VII.32 false high-tier charge shuts the stack until corrected and the editor stands EEP.
 Status: **MODULE**
 
 **V.19 Loud Capture**
@@ -2281,7 +2238,7 @@ Status: **MODULE**
 
 **CODEX:** Pay, threat, exclusive lock, or statute used to bury a working device, method, or compound that would raise net energy, health, or Ne is invention-kill. It is high-tier. Ordinary patent is a published time-box with working disclosure.
 
-A patent that hides the method, or that sits unused to block a rival, is void at the published cap and moves to Stability Reserve license. A person who buys silence on a working packet stands with the seller.
+A patent that hides the method, or sits unworked past one SMW to block a rival, converts to a published Stability Reserve open-build license. A person who buys silence on a working packet stands with the seller.
 
 **LEX 46AV:** Burying a working gain is high-tier.
 **LEX 47AV:** A lock that hides the method is void.
@@ -2292,7 +2249,7 @@ Status: **MODULE**
 
 **PACTUM:** The raw file is kept. A sanitized past is a coup against the living.
 
-**CODEX:** Signed meters, primary documents, trial packets, and the historical record under 5.9 may not be deleted, locked from Protected citizens, or forged. Forgery or deletion is high-tier. Classification is a listed exception, not a climate. Live boxes may cover Oracle roots, vault maps, shard locations, a live attack-surface of plant, plus mandatory privacy seals for child-victim identities (II.9a, VI.12, VII.37), sealed under-18 care records (VII.10f), active Agnitio protective seals (VII.65), and private patient files (IV.14, VII.38a) — while public findings, TPS, and redacted packets remain open. Each operational security box names an end-date. Renewal requires EVL plus the triad, and a published reason. A secret that outlives its box without that renewal is published. Standing classification of historical meters, trials, contact files, or ordinary science is archive sabotage and high-tier. A priesthood of "forever classified" is an Entropy Event. Citizen audit (7.22) reaches the list.
+**CODEX:** Signed meters, primary documents, trial packets, and the historical record under 5.9 may not be deleted, locked from Protected citizens, or forged. Forgery or deletion is high-tier. Classification is a listed exception, not a climate. Live boxes cover only Oracle roots, vault maps, shard locations, live plant attack surfaces, and mandatory privacy seals for child-victim identities (II.9a, VI.12, VII.37), under-18 care records (VII.10f), active Agnitio seals (VII.65), and patient files (IV.14, VII.38a) — verified in camera by EVL + Sortition of seven so officer names, joule sums, TPS, and rulings never vanish from public packets. Each operational security box names an end-date. Renewal requires EVL plus the triad, and a published reason. A secret that outlives its box without that renewal is published. Standing classification of historical meters, trials, contact files, or ordinary science is archive sabotage and high-tier. A priesthood of "forever classified" is an Entropy Event. Citizen audit (7.22) reaches the list.
 
 **LEX 48AV:** Deletion or forgery of the signed record is high-tier.
 **LEX 49AV:** Secrets time-box or they publish.
@@ -2348,7 +2305,7 @@ Status: **MODULE**
 
 **PACTUM:** A brand is a verdict. A verdict requires a file.
 
-**CODEX:** To name a living person as racist, phobe, bigot, or any stock-or-creed verdict, as fact, requires a sealed EEP finding of the act those words name. Insult and mockery remain speech. A knowing accusatory brand without a file is a false charge under this room and 7.32. First offense: published correction, JI cut, and a Character Event. A pattern is lawfare. The accuser does not mint a new speech exception by claiming offense.
+**CODEX:** To name a living person as racist, phobe, bigot, or any stock-or-creed verdict, as fact, requires a sealed EEP finding of the act those words name. Insult and mockery remain speech. A knowing accusatory brand outside a signed, good-faith EEP filing is a false charge (7.32). First offense: published correction, JI cut, and a virtue demerit (II.6). A pattern is lawfare. The accuser does not mint a new speech exception by claiming offense.
 
 **LEX 59AV:** A brand without a file is a false charge.
 **LEX 60AV:** Insult is speech. A verdict is not.
@@ -2415,7 +2372,7 @@ Status: **MODULE**
 
 **PACTUM:** The gem is handed to the child. The child is not made to mine the mountain again.
 
-**CODEX:** Each household, and each Node, keeps a Living Baton: a short, dated, signed packet of what worked — maxims, failures, tools, recipes, plant notes, pair-conduct, the stoic drills, and the Patrimonium lines from 5.32. Vigil prunes what failed and adds a proven line each SMW. Parents read it aloud before a child can read. School does not replace the house. The child improves the packet and hands it on. Names of schools are not statute. The drill is. A creed that wants the Baton as a catechism fails 5.30.
+**CODEX:** Every household and Node keeps a Living Baton: a short, dated, signed packet of proven maxims, failures, tools, recipes, plant notes, pair-conduct, stoic drills, and 5.32 lines (pruned and updated by Vigil each SMW). Parents read it aloud before literacy; children refine and pass it on. Drills bind, not sectarian labels (5.30).
 
 **LEX 72AV:** The Baton is short, signed, and alive.
 **LEX 73AV:** A child receives the gem early. He does not re-dig the mine.
@@ -2427,11 +2384,11 @@ Status: **MODULE**
 
 **PACTUM:** Every working joint the dead paid for is taken. The vanity stone is left.
 
-**CODEX:** Recurring goods, taken: written law that binds the desk; honest weights; a stored harvest; a road that pays back; a wall with a yeoman behind it; property a son can inherit; a contract that holds; a second book on the first book; an exam that measures a real task; medicine that publishes harm; a calendar; letters that move; a ship that returns; apprenticeship; the scientific test; competition between houses that does not become a civil war; a people that can say what it is; chosen load; the Baton handed young.
+**CODEX:** Kept joints: law binding the desk; honest weights; stored harvest; self-paying roads; yeoman-held walls; heritable property; binding contracts; independent second audits; task-based exams; harm-labeled medicine; calendars; open mail; returning ships; apprenticeship; empirical testing; bounded rivalry without civil war; self-naming peoples; chosen load; and the Baton handed young.
 
-The following are void: tax-farm; guard-pay as a second purse the law cannot fire; coin-clip; bread without yield; a king the law cannot fire; slave mass that kills the yeoman; human sacrifice; caste lock; a priest on the mint; exam without a plant; pyramid vanity; eunuch court; overstretch; elite pile with no rotation; the lie as air; a dole that outruns the field.
+Refused joints: tax-farms; unfireable guard-pay; coin-clip; unworked bread; unfireable kings; slave-mass erasing yeomen; human sacrifice; caste locks; priests on the mint; plantless exams; vanity pyramids; eunuch courts; overstretch; unrotated elites; state lies as air; and doles outrunning the field.
 
-A line of these lists binds only through a room that names its actor and its clock; otherwise it is Baton text (5.31). The Baton carries these lines in short form. History class is the proof, not a hymn. A new good that survives a meter joins the packet. A sermon does not.
+Lines bind only through rooms naming actor and clock; others serve as Baton text (5.31) tested in history class, never hymns.
 
 **LEX 75AV:** The dead are a library, not a church.
 **LEX 76AV:** A joint that feeds the plant is kept.
@@ -2443,7 +2400,7 @@ Status: **MODULE**
 
 **PACTUM:** A house of prayer may stand. It does not consume surplus, write Root, or hunt the unbeliever.
 
-**CODEX:** A church, temple, hall, or quiet circle may exist as private conscience and as speech. The Node does not fund it, staff it, teach it as fact, or put its calendar on the plant. There is no tax-farm for a priest. There is no seat reserved for a cloth. When that house preaches Command Test I–VIII as public order — convert, submit, pay-and-stoop, dual-law, child-use, outsider as prey, unbeliever as kill-class — it is an indoctrination house. The building is shut. The person who preached the command stands EEP. A man who keeps the prayer and drops the command is not the house. A man who keeps the command after the shut is Transport. A man who runs massacre or child-use as sacrament is high-tier after 7.10. Names of books are not the charge. The order is. Mass-killing a congregation by surname is Axiom 7 sabotage. Quiet prayer that does not hunt is not a tipping point.
+**CODEX:** Any temple, church, hall, or quiet circle may stand as private conscience and speech; the Node never funds, staffs, teaches it as fact, puts its calendar on plant, or reserves seats or tax-farms for cloth. Preaching Command Test I–VIII as public order turns it into an indoctrination house (5.2): the building shuts and preachers stand EEP (those keeping prayer without the command are untouched; repeating the command afterward is Transport; massacre or child-use as sacrament is 7.10). Names of books are never the charge — the command is; collective killing by surname is Axiom 7 sabotage.
 
 **LEX 78AV:** Prayer may stand. The mint does not kneel.
 **LEX 79AV:** I–VIII as public command shuts the house.
@@ -2457,11 +2414,9 @@ Status: **MODULE**
 
 **CODEX:** A child is taught. The duty is the parents' (Axiom 4, 2.8), and the Node's duty is to examine. Three venues are lawful and may be mixed in one season: household school; Campus Scholae, the Node school; and Officina, a licensed atelier or workshop under a ranked master. No venue holds a monopoly. Hybrid is the default. Adult Campus (2.15) is not Schola.
 
-Silicon may drill, mark drafts, and present meters (5.7). A named human teacher or independent G5 proctor (never a parent grading his own household child, I.16) signs the exam packet. Silicon does not parent, does not sit Founder, and does not write Curriculum as liturgy. Dangerous arts — weapons, plant, pharmacy, medical care — take a ranked supervisor even when the house is the venue.
+Silicon may drill, mark drafts, and present meters (5.7). Written and crafted exams are blind-token graded against pre-hashed objective rubrics, appealable to an uninvolved G5 plus EVL; a named human teacher or independent G5 proctor (never a parent grading their own child, I.16) signs the packet. Silicon does not parent, does not sit Founder, and does not write Curriculum as liturgy. Dangerous arts — weapons, plant, pharmacy, medical care — take a ranked supervisor even when the house is the venue.
 
-Every child, whatever the mix of venues, sits the same published exams at the published ages that feed 2.7 maturity. The exam measures Axiom 10 subjects and a real task. It does not measure piety, party, or thin skin. A house that presents the child and clears the meters is not an indoctrination house, whatever private prayer it keeps (5.30, 5.33).
-
-A house that hides a child from two successive gates without medical exclusion opens EVL inspection of the Curriculum packet. Systematic meter-denial or a Command-Test order taught as fact converts the house to an indoctrination house under 5.2: shut, assets to Reserve, those responsible on EEP. Feeling is not the charge. The exam and the command are.
+Every child sits the same published exams at the ages feeding 2.7 maturity — measuring Axiom 10 subjects and real tasks, never piety or party. A house presenting its child and clearing meters is no indoctrination house regardless of private prayer (5.30, 5.33). Missing two successive gates without medical exclusion opens EVL Curriculum inspection; systematic meter-denial or teaching Command-Test orders as fact shuts the house under 5.2 (assets to Reserve, actors on EEP).
 
 **LEX 81AV:** Household, Node school, and atelier are lawful. None is exclusive.
 **LEX 82AV:** One exam for every venue. Silicon drills; a human signs.
@@ -2489,9 +2444,7 @@ Status: **MODULE**
 
 A man who sells the display of his person does not thereby mint civic gravitas. Infamy that unpersons, silences, or flogs a player as a class is void (7.40).
 
-Private tickets are Axiom 5. They do not buy a chair. Node surplus spent on Scaena — sport, song, paid display — sits inside a published band after BOT, plant, clinic, wall, Schola, and Vigiles. The default band is 1% of daily mint. Breach is concentration plus 3.18. A ball-catcher or a singer may be loved. He is not therefore paid from the reactor as if he kept it.
-
-VCI may take a thin T\_value from lawful spectacle. It may not let Scaena outrank E\_net, B\_success, or I\_built. Annona Minima remains available on Tabula work. Scaena alone does not raise a man off the floor into Command.
+Private tickets (Axiom 5) never buy a chair. Node surplus spent on Scaena caps inside a published band (1% daily mint default) after BOT, plant, clinic, wall, Schola, and Vigiles; breach is concentration plus 3.18. Lawful spectacle contributes only thin T\_value, never outranking E\_net, B\_success, or I\_built, and never lifting a performer into Command.
 
 **LEX 87AV:** Speech from the stage is speech. It is not a meter.
 **LEX 88AV:** No official amplification of a creed because a face is known.
@@ -2504,7 +2457,7 @@ Status: **MODULE**
 
 **PACTUM:** A doctrine is named, with its author and its command, before it is pinned in the archive, so that a creed cannot pass from the stage to the pin-board without a name.
 
-**CODEX:** Before a doctrine, author, or command-set is pinned in Bestiarum (5.38), Pinna records: the named author, the public command alleged, the Command-Test lines touched, and the meter or Speculum line that makes it more than speech. A pin without Pinna is Unborn. Speech remains free (5.12). Pinna does not punish. It names. Bestiarum stores. Camena (5.39) still governs the child's screen.
+**CODEX:** Before a doctrine, author, or command-set enters Bestiarum (5.38), Pinna records the named author, alleged public command, Command-Test lines touched, and the meter or Speculum line separating it from protected speech (naming a living citizen requires Sortition of seven plus EVL verification, appealable under VII.37). A pin without Pinna is Unborn. Speech remains free (5.12). Pinna does not punish. It names. Bestiarum stores. Camena (5.39) still governs the child's screen.
 
 **LEX 91AV:** No anonymous pin. No pin without a named command.
 **LEX 92AV:** Pinna is index, not Neutralization.
@@ -2517,9 +2470,9 @@ Status: **MODULE**
 
 **CODEX:** Bestiarum — also Tabularium Mundi — is the Node's open, decentralized archive of doctrines, tactics of capture, and the attested men who wrote and ran them. Each Node holds the active/local archive plus Merkle-anchored Trinitas pointers to older sharded holdings (scaling cleanly past 10^9 citizens). It is free, perpetual, and unpaywalled. Silicon may index. Humans sign a source packet. It is not a party tract, and it is not a morale hymn.
 
-Each doctrine-file carries, without office redaction: the name of the doctrine; dates; the commands it gave when it held a desk (Command Test I–VIII); signed meters of yield and of kill; primary documents; and the attested names of authors, funders, and officers. When a source attests ancestry, stock, tongue, or citizenship of a named person, that attestation is written beside the name. A Bestiarum stock-line does not write mint, hire, Franchise, intake, or Neutralization. Fifty years after that person's death the stock-line attenuates to a general region; the name, date, command, and crime remain. An office may not strike a name, a date, or an attested stock-line to spare a creed, a church, a party, or a people. Named ancestry/stock-lines in Bestiarum record historical, deceased, or public-record authors and officers only; privacy of a living person remains governed by VII.38, V.25, and I.13 Transitio before Entityhood. The dead are sources. They are not a protected costume.
+Each doctrine-file keeps unredacted: doctrine name, dates, Command Test I–VIII decrees, signed yield/kill meters, primary sources, and attested authors, funders, and officers — alongside source-attested ancestry/stock/tongue/citizenship for historical, deceased, or public-record actors (living privacy stays VII.38/V.25/I.13, and stock-lines attenuate to general region 50 years post-mortem while name, command, and crime remain). Stock-lines never move mint, hire, Franchise, intake, or Neutralization; redacting them to spare a creed or faction is 5.21.
 
-Communism, socialism, fascism, racial liturgy, climate liturgy, sex-rewrite as law, and every other command that failed the Test sit here as pinned specimens: authors, dates, meters. The file names persons. Axiom 7 still holds: a people, a church, a surname, or a stock is not the defendant. Official command of collective guilt remains Nefas (7.52). History that names a Bolshevik, a commissar, a banker, or a priest with the sources attached is not Nefas. Erasing those names is 5.21.
+Communism, socialism, fascism, racial or climate liturgy, and legal sex-rewrite sit here as pinned specimens. Files name persons (Axiom 7), never collective defendants (Nefas VIII): citing sourced historical actors is history, never Nefas.
 
 Unrecorded claims sit as claims until a source exists. Fabrication is fraud. "Unbiased" means meters and documents, not a balance of sermons.
 
@@ -2551,7 +2504,7 @@ Status: **MODULE**
 
 **PACTUM:** The text is public. A refusal to host it is not an erasure.
 
-**CODEX:** Every Protected adult, and every member of a Castra, may keep a copy of this instrument. The canonical hash sits on sapphire and in the shard, as I.8 already provides. Removal of a copy by a carrier does not unpublish the hash. The Node does not treat one publisher as the Root. Forks mark themselves as forks, so that a fault in a fork is not laid to this text. Transmission of the public text is lawful copying. This room does not instruct anyone to break a law, to forge a credential, or to enter a system they are not allowed to enter.
+**CODEX:** Every Protected adult, and every member of a Castra, may keep a copy of this instrument. The canonical hash sits on sapphire and in the shard, as I.VIII already provides. Removal of a copy by a carrier does not unpublish the hash. The Node does not treat one publisher as the Root. Forks mark themselves as forks, so that a fault in a fork is not laid to this text. Transmission of the public text is lawful copying. This room does not instruct anyone to break a law, to forge a credential, or to enter a system they are not allowed to enter.
 
 **LEX 101AV:** The hash, not the carrier, is the publication.
 **LEX 102AV:** A fork is marked as a fork.
@@ -2598,7 +2551,7 @@ Status: **MODULE**
 
 **PACTUM:** When the well overflows, the task of the Node passes from provision to purpose. A person whom necessity no longer drives must be drawn, and never driven.
 
-**CODEX:** The Node is in Abundantia when signed surplus per adult has stood above the published abundance band for one CEC. In Abundantia:
+**CODEX:** The Node is in Abundantia when trailing CEC median signed physical plant capacity per adult has stood above the published abundance band for one CEC. In Abundantia:
 
 1. The Tabula floor of III.15 may fall and may not rise, and the hours it asks are published as a falling series. Annona Minima remains reciprocal. It is never a stipend from another well.
 2. The Node keeps open, on every Cursus line, a published path from G0 to G5 and a master for every willing hand. Otium Opus stays inside the meaning-band, and that band may not be set below its published floor.
@@ -2621,9 +2574,9 @@ The Node maintains a perimeter. That perimeter is a wall, a personal weapon, a h
 **VI.1 Physical Firewall**
 ###### RADIX \> VI. AEGIS \> VI.1 Physical Firewall
 
-**PACTUM:** This is the hard boundary. It prevents an attack upon a mature Node from being energy-positive. Murus (6.23) is the intelligent layer upon this wall.
+**PACTUM:** The hard perimeter. It prevents an attack upon a mature Node from being energy-positive. Murus (6.23) is the intelligent layer upon this wall.
 
-**CODEX:** The Physical Firewall is the Node's kinetic boundary. Collective operational kit stays under the 3% surplus cap. Hardening spend — sensors, sector locks, approach-cost denial, and published Murus compute — is counted separately from operational kit and is not the 3% cap. Hidden kit is denial. It is not capital, and it is not a second mint. A single confirmed Critical Entropy Event may open an interim 5% operational-kit threat premium, re-authorized at the next SMW or it falls back. A standing 5% still wants EVL threat across three SMWs. Founder approval is independent of the Aegis Domain Commander. An attacker who forces many small events to exhaust the interim premium does not thereby drop the hardening layer.
+**CODEX:** The Physical Firewall is the Node's kinetic boundary. Collective operational kit stays under the 3% surplus cap. Hardening spend — sensors, sector locks, approach-cost denial, and published Murus compute — sits outside the 3% operational cap within a CEC-hashed hardening ceiling on VII.31 (excess requires I.V Module approval after BOT, clinic, and II.9a). Hidden kit is denial, never capital or a second mint. A single confirmed Critical Entropy Event may open an interim 5% operational-kit threat premium, re-authorized at the next SMW or it falls back. A standing 5% still wants EVL threat across three SMWs. Founder approval is independent of the Aegis Domain Commander. An attacker who forces many small events to exhaust the interim premium does not thereby drop the hardening layer.
 
 Individual arms remain personal (Axiom 9). A Grace Period with N+1 power redundancy precedes Phoenix or seed-denial triggers. Seed-denial (6.5) starts at ≤30% integrity after grace.
 
@@ -2642,13 +2595,11 @@ Status: **MODULE**
 
 **CODEX:** Duels Protocol governs resolved ranked disputes under EEP. A lethal-class outcome is not a legal excision without a separate high-tier EEP finding (7.8). The Armed Militia Norm permits personal self-defense within the NAP, scaled by rank and personally funded.
 
-Both are subordinate to the Firewall. Duels may be suspended by the Steward with Memory and People concurrence during a P0 grade written on Speculum, and for no longer than that grade. Personal self-defense and Halt-in-Progress are never suspended. No single person suspends force-law alone. Halt-in-Progress (subject to I.13 Transitio before Entityhood): a mature Protected adult seeing a high-tier crime in motion (murder, rape, sexual act with a child, or armed attack on a school/vault/plant) may use lethal force only where less-lethal force would not stop an imminent, unambiguous threat. A halt is protected when a signed sensor, or an independent second witness (free of household, purse, craft, or concealed factional tie), corroborates the act in view; or, where neither could exist, when the halter was sole witness of the act in view supported by victim statement, medical packet, or trace. Finding a body without seeing the act is aid and EEP, not Halt corroboration. Self-defense remains Axiom 1; the intervention duty binds mature Protected adults only.
+Both are subordinate to the Firewall. Duels may be suspended by the Steward with Memory and People concurrence during a P0 grade written on Speculum, and for no longer than that grade. Personal self-defense and Halt-in-Progress are never suspended. No single person suspends force-law alone. Halt-in-Progress (subject to I.13 Transitio before Entityhood): any person under Axiom 1 defense of self or another — and mature Protected adults under the intervention duty below — seeing a high-tier crime in motion (murder, rape, sexual act with a child, or armed attack on a school, vault, or plant) may use lethal force only when less-lethal force cannot stop an imminent, unambiguous threat. A halt is protected when a signed sensor or an independent second witness (free of household, purse, craft, or concealed factional tie) corroborates the act in view — or, where neither could exist, when the sole witness is supported by victim statement, medical packet, or trace. Finding a body without seeing the act is aid and EEP, not Halt corroboration.
 
-Flagrans runs from first overt step until the perpetrator leaves the scene and unbroken sight ends; a held person waits at 7.10 (this room never authorizes killing a captive or opens 7.10). A halter who provoked or arranged the scene has zero protection. Every lethal halt (from the first), and any repeated witness-pair within two CECs, triggers Sortition pattern review.
+Flagrans runs from the first overt step until the perpetrator leaves the scene and unbroken sight ends; a held person waits for 7.10 (VI.2 never licenses killing a captive or opening 7.10). A halter who provoked or arranged the scene holds zero protection. Every lethal halt (from the first), and any repeated witness-pair within two CECs, triggers Sortition pattern review. The actor must spare bystanders, stand EEP within P7b (24h), and never fire on rumor (which is high-tier).
 
-The actor must spare bystanders, stand for EEP within P7b (24h), and never fire on rumor (which is high-tier).
-
-Duty to intervene attaches solely to rape and sexual acts with a child in motion, when safe for bystanders, victim, and actor; otherwise report at once (P7a). Refusal when proven safe takes a P entry under P8 (within P7b); title, status, and held ESU stay untouched. Acting is safe when a reasonable Protected adult on the scene would judge that the force this room allows can stop the act without a foreseeable hit on a bystander or the victim, and without a foreseeable loss of the actor's own life or limb. The Node bears the burden to prove, by meters or two witnesses, that those conditions held and that the adult perceived the act. A good-faith contrary judgment is a complete defense to P8. P8 does not apply when I.13 has suspended the duty, when the adult is not mature and Protected, or when corroboration of the underlying act is later absent.
+Affirmative duty to intervene binds mature Protected adults solely for rape and sexual acts with a child in motion, when safe for bystanders, victim, and actor; otherwise report at once (P7a). Proven safe refusal takes a P entry under P8 (within P7b); title, status, and held ESU stay untouched. Acting is safe when a reasonable adult on scene would judge the threat stoppable without foreseeable harm to bystanders, victim, or the actor's life or limb. The Node proves safety and perception by meters or two witnesses; good-faith contrary judgment is a complete defense, and P8 never applies when I.13 suspends the duty, the adult is not mature Protected, or underlying corroboration is absent.
 
 Against a person reasonably believed to be under 18, the duty is less-lethal stop and containment, unless that minor is using lethal force against another person.
 
@@ -2656,7 +2607,7 @@ P8 does not apply where the sole-witness corroboration rule cannot be met. Halt-
 
 A good-faith Halt-in-Progress that kills or maims an innocent person, or a bystander, pays that house under the P13 formula. The actor still stands EEP: high-tier if the halt was on a rumor; no extra penalty if the listed corroboration existed, or if the sole-witness rule above applied, and the error was identity under chaos; Homicidium Minor (VII.10a) if the act itself was honestly and reasonably misread; and reckless, with a raised term, if the misreading was unreasonable.
 
-A parent, or a guardian, has the right and the duty to protect the child from rape and from any sexual act. The duty runs in order, each step from the moment of knowledge. First, if the act is in motion and in view, stop it as this room allows. Second, remove the child from the danger, report to Vigiles, and bring the child to the care of II.9a: within P17a when the parent is present or can reach the child without transit, and otherwise within P17b from receipt of the knowledge. Third, preserve what the file will need. Knowledge is the act in view, a signed sensor, or the child's own statement. A rumor obliges a report for inquiry and licenses no force. Transit and light-lag do not count against a window (VIII.24). The duty binds only when acting is safe as this room defines safety. A parent or guardian who is the named suspect holds no right under this paragraph, and the duty passes to the other. A report made inside the window, as what was seen or heard, is not a charge told as fact under VII.32. A parent or guardian who knew, was able, was safe, and did nothing takes the P8 entry at the parental multiple and opens the II.7 review for abandonment. ESU held, title, and Annona do not move. The burden and the good-faith defense of P8 apply.
+A parent, or a guardian, has the right and the duty to protect the child from rape and from any sexual act. The duty runs in order, each step from the moment of knowledge. First, if the act is in motion and in view, stop it as this room allows. Second, remove the child from danger, report to Vigiles, and deliver the child to II.9a care: within P17a (one hour) when present or without transit, and within P17b (24 hours) from knowledge otherwise. Third, preserve what the file will need. Knowledge is the act in view, a signed sensor, or the child's own statement. A rumor obliges a report for inquiry and licenses no force. Transit and light-lag do not count against a window (VIII.24). The duty binds only when acting is safe as this room defines safety. A parent or guardian who is the named suspect holds no right under this paragraph, and the duty passes to the other. A report made inside the window, as what was seen or heard, is not a charge told as fact under VII.32. A parent or guardian who knew, was able, was safe, and did nothing takes the P8 entry at the parental multiple and opens the II.7 review for abandonment. ESU held, title, and Annona do not move. The burden and the good-faith defense of P8 apply.
 
 **LEX 3AEG:** A duel outcome is not Neutralization.
 **LEX 4AEG:** Halt-in-Progress is defense of an act in motion; it does not open Neutralization.
@@ -2692,9 +2643,9 @@ Status: **MODULE**
 **VI.5 Genomic Self-Destruct**
 ###### RADIX \> VI. AEGIS \> VI.5 Genomic Self-Destruct
 
-**PACTUM:** This is seed denial. Winter does not serve as an excuse to burn the species, and a single sensor does not execute that burn.
+**PACTUM:** Seed denial. Winter does not serve as an excuse to burn the species, and a single sensor does not execute that burn.
 
-**CODEX:** Integrity at or below 30% after grace starts a signal, not a burn. Burn requires three confirmations: vault integrity on two physical domains; Founder/Phoenix liveness that this is an existential threat (not winter); and lineage multi-sig. If 70% cannot sign but 40% of distinct lineages sign with liveness, preserve shards and route to Dormancy (8.3). A single compromised sensor shall not execute the species.
+**CODEX:** Integrity at or below 30% after grace starts a signal, not a burn. Burn applies solely to a compromised local physical vault after off-site shard preservation fails, and requires three sector-independent confirmations: vault integrity on two physical domains; Founder/Phoenix liveness confirming existential threat (never winter); and lineage multi-sig. If 70% cannot sign but 40% of distinct lineages sign with liveness, preserve shards and route to Dormancy (8.3). A single compromised sensor shall not execute the species.
 
 **LEX 8AEG:** Three independent confirmations precede any burn.
 **LEX 9AEG:** A single integrity sensor shall not execute the species.
@@ -2707,7 +2658,7 @@ Status: **MODULE**
 
 **CODEX:** Deliberate corruption of meters, keys, mint, EEP, or SHI is high-tier. Live attribution (6.7) publishes the finding. Process containment (6.8) kills attacking processes.
 
-Neutralization stays 7.10 and cannot be hot-keyed here. A judge, juror, or officer who frees a person later shown by signed meters to commit a new high-tier killing/rape is a principal under this section; the file runs the Compressed Capital Docket (7.10). Resignation does not close it. "Unlawful release" means a release that, at the time it was ordered, broke a named room (for example a 7.10c Full Proof file executed as a release, or a release without the seals that file required). A later high-tier act after a lawful dismissal below 90%, or after a P5 release, does not by itself make the earlier release unlawful.
+Neutralization stays 7.10 and cannot be hot-keyed here. A judge, juror, or officer who unlawfully frees a person later shown by signed meters to commit a new high-tier killing or rape stands as principal here on the Compressed Capital Docket (7.10), and resignation never closes the file. "Unlawful release" means an order that broke a named room when issued (such as releasing a 7.10c Full Proof file or omitting required seals). A good-faith Sortition juror vote, a lawful dismissal below 90%, or a lawful P5 release is never an unlawful release.
 
 Office is not a shield.
 
@@ -2785,9 +2736,13 @@ Status: **MODULE**
 
 **PACTUM:** The hand of the finding belongs first to the one who was wronged, and to the house of a wronged child, under law, before witnesses, within a day.
 
-**CODEX:** Inside a sovereign Node (subject to I.13 Transitio before Entityhood), after Sortition ratifies that a named person committed rape, a sexual act with a child, or the murder without defense of a child (Nefas I), Neutralization runs under triad control before the P6 witness panel — five Protected adults drawn by Sortition, with no tie to the parties — within P3a and only after both P3b gates and the two-officer confirmation. The room is the panel, not the wall: where the five witnesses, the two officers, and the triad officer stand, there the room is, and it may stand at the place of the act. There is no open crowd and no broadcast. An adult victim may stand as witness-executor, or name one adult of the house. For a child victim, the father stands, then the mother, then an adult sibling, then the adult male line, still under triad control; each person in that succession order has a 4-hour inner response window from notice of eligibility and both P3b gates passing to affirm acceptance, failing which (or if less than 4 hours remain in P3a) standing passes at once to the next clean link or to the triad. Where multiple victims or houses hold standing, Sortition draws or orders the single hand (or assigns the triad) within that same 4-hour window. No person under 18, named in the file, of the accused's lineage, or disqualified for unclean hands under VII.10i stands as the hand; if none remains, the triad acts. For the murder without defense of a child, the hand of the house stands only where the file rests on live-sensor evidence of the act and intent to kill is part of the ratified finding; the window is the day of the Compressed Capital Docket. On a constructed file, or where intent is not so found, the triad acts and no hand of the house stands. The hand does not act alone. A killing without the panel or after the window is murder. The street does not ratify. The child victim's identity is never in the public record (II.9a).
+**CODEX:** Inside a sovereign Node (I.13 before Entityhood), once Sortition ratifies rape, a sexual act with a child, or the murder without defense of a child (Nefas I), Neutralization runs under triad control before the P6 witness panel (five uninvolved Protected adults drawn by Sortition) within P3a after both P3b gates and two-officer confirmation. The room is where the five witnesses, two officers, and triad officer stand (including the site of the act), with no open crowd and no broadcast.
 
-**LEX 24AEG:** Vindicta is witness-execution of a ratified Neutralization for rape, a sexual act with a child, or the murder without defense of a child proved with intent on live-sensor evidence, triad-supervised inside P3a after P3b and two-officer confirmation before the P6 panel (unclean-hands links pass to the next clean link; the triad acts on constructed, no-intent, or no-clean-hand cases).
+An adult victim may stand as witness-executor or name one adult of the house. For a child victim, standing runs: father, mother, adult sibling, then adult male line, under triad control. From notice of eligibility after both P3b gates pass, each link holds a 4-hour acceptance window (and P3a never closes the primary eligible link below 4 hours after P3b notice); failing acceptance, standing passes at once to the next clean link or the triad. Multi-victim ties resolve by Sortition within that same 4-hour window.
+
+No person under 18, named in the file, of the accused's lineage, or barred for unclean hands (VII.10i) stands as the hand; if none remains, the triad acts. For child murder without defense, family standing requires live-sensor proof and a ratified finding of intent to kill on the Compressed Capital Docket; on constructed files or absent intent, the triad acts. The hand never acts alone; killing without the panel or past the window is murder. The street never ratifies, and the child victim stays unprinted (II.9a).
+
+**LEX 24AEG:** Vindicta is triad-supervised witness-execution inside P3a after P3b and two-officer sign-off before P6 (clean-hands links only; triad acts on constructed, no-intent, or empty-chain files).
 **LEX 25AEG:** A Vindicta blow without the panel or after the window is murder.
 **LEX 76AEG:** The room is where the five sit. No hand under 18. No hand of the accused's lineage.
 Status: **KERNEL**
@@ -2797,7 +2752,7 @@ Status: **KERNEL**
 
 **PACTUM:** The house is returned to the title. Delay of court does not mint a home.
 
-**CODEX:** A person who enters or holds another's house, land, or plant without title, after written notice, commits Occupatio. Process may not be used to sit. Removal is immediate after EEP confirmation of title and notice. The 90-day Transport clock does not apply to the occupier's body in the stolen room.
+**CODEX:** A person who enters or holds another's house, land, or plant without title, after written notice, commits Occupatio. Process may not be used to sit. Removal is immediate after EEP confirmation of sapphire-anchored Trinitas title and II.21 notice to the registered holder. The 90-day Transport clock does not apply to the occupier's body in the stolen room.
 
 Damage is restored from the occupier's ESU and JI. Organized Occupatio is Street Cadre plus this section. A judge who delays removal past the published clock without a title dispute of TPS ≥ 90% is 6.6. A title-dispute stay caps at one short clock. Occupation yields no rent.
 
@@ -2812,7 +2767,7 @@ Status: **MODULE**
 
 **PACTUM:** The man who opens the war is placed in the same risk band as the first wave.
 
-**CODEX:** A Founder, Command-tier officer, or Domain Commander who votes to open lethal external force must place self, spouse, or military-age sons into the same published risk band as the first wave, or the vote is void. Remote war by men with no skin is a high-tier process crime if the force proceeds on that void vote. Defense of the Firewall against an incoming attack is not this section. Axiom 9 remains.
+**CODEX:** A Founder, Command-tier officer, or Domain Commander voting to open lethal external force must place self, spouse, or military-age sons in physical service within the same forward unit, hull, or sector as the first wave (no rear-echelon reclassification), or the vote is void. Remote war by men with no skin is a high-tier process crime if the force proceeds on that void vote. Defense of the Firewall against an incoming attack is not this section. Axiom 9 remains.
 
 **LEX 30AEG:** A war vote without personal stake is void.
 **LEX 31AEG:** Incoming defense is not a war vote.
@@ -2821,9 +2776,9 @@ Status: **MODULE**
 **VI.15 Foreign Hand**
 ###### RADIX \> VI. AEGIS \> VI.15 Foreign Hand
 
-**PACTUM:** This room names the external purse that writes internal law.
+**PACTUM:** Names foreign purses moving internal law.
 
-**CODEX:** Money, media, or office from a foreign polity, foreign silicon, or non-resident patron that moves, or is attested to have moved, mint, school, border, Franchise, or Neutralization is a Foreign Hand. The charge is the joint moved, not an unprovable intent. It files or it is seized into Stability Reserve. Persons who take it to move those joints stand EEP. 8.5 remains for protocol contact.
+**CODEX:** Money, media, or office from a foreign polity, foreign silicon, or non-resident patron that moves, or is attested to have moved, mint, school, border, Franchise, or Neutralization is a Foreign Hand. The charge is the joint moved, not unprovable intent; non-market external inflows or overpayments above VII.57 floors void the taker's signature and forfeit into Stability Reserve. Persons who take it to move those joints stand EEP. 8.5 remains for protocol contact.
 
 **LEX 32AEG:** A foreign purse that writes inside joints is seized and the takers stand EEP.
 Status: **MODULE**
@@ -2899,7 +2854,7 @@ Status: **MODULE**
 
 **PACTUM:** Chosen load sharpens. Unchosen chaos consumes the boiler.
 
-**CODEX:** Chosen heat is a tool: cold, load, dirt, and contest. It raises the body that must keep the plant. Unbooked riot is not that tool. Consenting adults may meet in published contests: duel under 6.2, bare-hand fight, ring, pit, or a brawl they named in advance. Each signs a packet: rules, stop-word or no stop-word, and a medical escrow large enough to cover published trauma bands. The Node hospital does not eat that bill. If the escrow is short, heal-to-stable is a loan against the fighters' and the promoter's JI, and then Transport if they dump the debt on the house. A fight that spills onto an unwilling body, a street not booked, or a child is ordinary crime. Inside a sovereign Node (subject to I.13 Transitio before Entityhood), death inside a sealed lethal packet is not murder unless fraud, drug, or a hidden third hand. Ranked Duel stays 6.2.
+**CODEX:** Chosen heat is a tool: cold, load, dirt, and contest. It raises the body that must keep the plant. Unbooked riot is not that tool. Consenting adults may meet in published contests: duel under 6.2, bare-hand fight, ring, pit, or a brawl they named in advance. Each signs a packet: rules, stop-word or none, and a medical escrow verified locked by EVL/clinic before the bout begins to cover published trauma bands (an unescrowed packet is Unborn). The Node hospital does not eat that bill. If the escrow is short, heal-to-stable is a loan against the fighters' and the promoter's JI, and then Transport if they dump the debt on the house. A fight that spills onto an unwilling body, a street not booked, or a child is ordinary crime. Inside a sovereign Node (subject to I.13 Transitio before Entityhood), death inside a sealed lethal packet is not murder unless fraud, drug, or a hidden third hand. Ranked Duel stays 6.2.
 
 **LEX 45AEG:** No packet, no lawful fight.
 **LEX 46AEG:** The house does not pay the ring.
@@ -2917,7 +2872,7 @@ Status: **MODULE**
 **LEX 49AEG:** An insider key without triad-plus-Firewall is sabotage.
 **LEX 50AEG:** The wall learns. The kernel does not move.
 **LEX 51AEG:** Murus has zero autonomous kinetic authority.
-**LEX 52AEG:** A freeze recommendation writes its rule and top features on Speculum. A Protected person or Public Body may contest and suspend the cut pending EVL.
+**LEX 52AEG:** A freeze recommendation writes Speculum; a Protected person or Public Body may suspend doctrinal cuts for 72h EVL review while P0/VI.8 malware containment stays up.
 Status: **MODULE**
 
 **VI.24 Facies**
@@ -2940,7 +2895,7 @@ Status: **MODULE**
 
 **CODEX:** External mass, or internal organized force, that aims to replace Root is P0. Hidden denial — sensors, sector locks, unpublished approach cost — exists to make the assault burn more joules than the well returns. A cheap takeover is a design fault. Speculum writes the line. Gelu freezes the official pipes the attackers would ride. Murus stays up. No single Steward, Memory, or Commander opens a gate, drops a sector, or hands a vault. Militia and Halt-in-Progress hold the street. Officers run the published emergency briefs. War-without-personal-stake still binds the official who ordered force.
 
-The city is layered: short interior lines, plant and vault not on the pretty ring, and a sensor mesh as a nervous system that logs approach without publishing maps. Hidden kit is denial and hardening — approach cost, sector isolation, seed under multi-sig — not a founder off-switch. Silicon aims and briefs. Humans fire under the triad. If a sector falls, isolate it, keep the shards, and Phoenix from an intact well. Seed-denial is last and still needs three confirms. Occupation of houses is 6.13. A replacement creed riding the assault is Command Test plus Expurgo. The Node would rather place a dead sector in Dormancy than let the comet wear a uniform.
+Defense is layered: short interior lines, plant and vault off the pretty ring, and a sensor mesh logging approach without publishing maps. Hidden kit hardens and denies (no founder off-switch); silicon briefs, humans fire under the triad. If a sector falls, isolate it, keep shards, and Phoenix from an intact well (seed-denial is last under three confirms). Replacement creeds riding an assault meet 5.22 + Expurgo: better a dormant sector than a captured uniform.
 
 **LEX 57AEG:** Conquest is P0. The gate does not open on one person's command.
 **LEX 58AEG:** Hidden kit hardens. It does not crown a man.
@@ -2965,14 +2920,14 @@ Status: **MODULE**
 
 **CODEX:** Vigiles are the Node's waking immune arm. They detect, hold, and deliver a person or a process to EEP. They do not sit Neutralization. They do not write Root. They do not keep a secret list. Halt-in-Progress remains 6.2. Militia remains the trained people (6.20).
 
-A Vigil is a Protected adult who holds Cursus Gradus on the Ius line and the arms line, has cleared the published Character floor, and is drawn by Sortition from that pool for a published tour. The Ius pool supplies Iudex and the defender. The jury is drawn from all Franchise in the strata of VII.1 (7.51). No person stays on watch, on the bench, and in the jury in the same SMW. After a tour, one full CEC out is required before return to the same chair (7.29). A Vigil who judges his own catch is void and stands 6.6.
+A Vigil is a Protected adult who holds Cursus Gradus on the Ius line and the arms line, has cleared the published Character floor, and is drawn by Sortition from that pool for a published tour. The Ius pool supplies Iudex and the defender. The jury is drawn from all Franchise in the strata of VII.1 (7.51). No person serves in more than one of watch, bench, counsel, or jury in the same SMW. After a tour, one full CEC out is required before return to the same chair (7.29). A Vigil who judges his own catch is void and stands 6.6.
 
 Proof order: signed sensors, Speculum, CDPC, then a human witness. A rumor is not a hold. A hold without a named act and a particular writ (7.37) is Occupatio of the person. Live attribution (6.7) publishes the catch. Corruption of a meter, a key, a file, or a release that births a new high-tier act is already 6.6 and sits the Compressed docket.
 
 Vigiles are paid as plant: Tabula rates at the safety packet (3.18). They work for this Node's humans. A foreign desk, a patron, or a stage does not hire them.
 
 **LEX 62AEG:** Vigiles detect, hold, and deliver. They do not Neutralize.
-**LEX 63AEG:** Watch, bench, and jury do not sit in the same person in one SMW.
+**LEX 63AEG:** Watch, bench, counsel, and jury never overlap in the same person within one SMW.
 **LEX 64AEG:** Sensors first. Fame is not proof.
 **LEX 65AEG:** A Vigil does not judge his own catch.
 Status: **MODULE**
@@ -2988,11 +2943,9 @@ Militia (6.20) is the trained people. Every mature Protected adult holds the wea
 
 Vigiles (6.27) are the waking immune watch inside the Node. They detect, hold, and deliver.
 
-Exercitus is the standing professional force: Legio on land, Classis on water, Alae in air and near orbit. It exists so that the arts of long defense and offense — plant-scale weapons, ships, craft, sensors, logistics, and the research those arts drag forward — do not die in a generation of peace. It is paid from the collective-kit cap (Axiom 9, 6.1), after BOT, as first-band yield-to-life (3.18). It has no second mint. "Guard-pay" as a purse the law cannot fire remains a refused kill (5.32).
+Exercitus is the standing professional force (Legio land, Classis sea, Alae air/near-orbit) keeping plant-scale defense and logistics alive in peace, funded inside the 3% collective-kit cap (6.1, 3.18) with zero second mint (5.32). Steward commands operationally, Memory briefs, People witness kit-counts, and Domain command rotates (7.29). Exercitus never etches Root, sits Founder, writes school, or opens Neutralization, nor do Cohors Praetoria or heavy formations garrison inside Arx, Sortition chambers, or Oracle/shard vaults save during a triad-signed P0 breach. War votes require personal stake (6.14); external force moves only by Foedus or defense.
 
-Command: the Steward holds operational command. Memory briefs. People witness reconstitution and kit-counts. Domain command rotates (7.29). Exercitus does not etch Root, sit Founder, write school, or open Neutralization. A war vote still requires skin (6.14). Cross-Node force moves only by Foedus or by incoming defense.
-
-**Praetoria.** Cohors Praetoria is a named, visible category: the highest-capability cohort of Exercitus, land-sea-air-orbit. Entry is Agoge plus the published arms Gradus, Character floor, and a public roster. The title Praetorian is motivational and earned. It is worn on kit. It is not a second mint and not a Founder seat. The tour follows 7.29: default short, extendable only on meters, no superior successor, and no triad removal. The triad holds the halt. A Praetorian who moves mint, Franchise, or etch is 6.6. A cohort that crowns itself is the pathogen the old name became. It is paid first-band from the kit cap, the same as plant.
+**Praetoria.** Cohors Praetoria is Exercitus's visible elite cohort (Agoge, arms Gradus, Character floor, public roster, 7.29 tours). The title is earned and worn on kit — never a second mint, Founder seat, or immunity. Moving mint, Franchise, or etch is 6.6; self-crowning is the pathogen the old name became.
 
 **LEX 66AEG:** Militia is the people. Vigiles watch. Exercitus is the standing art.
 **LEX 67AEG:** Exercitus is paid from the kit cap. No second purse.
@@ -3006,7 +2959,7 @@ Status: **MODULE**
 
 **PACTUM:** A foreign stamp does not wash a title, and a taking is not answered by a new war that this room invents.
 
-**CODEX:** An external taking of plant, meters, or the ledger is Occupatio unless a contract under Axiom 2 and compensation the ledger can verify are both published. Title under Axiom 5 remains. The Node logs the taking, refuses to treat the taker's mint as this Node's ESU, and continues from shards and from any peer that will contract under VIII.15. Defense of a person remains Axiom 1 and VI.2, which already exist. This room does not authorize an offensive campaign, a reprisal against the uninvolved, or any harm to a person. It keeps the books honest and the title unwashed.
+**CODEX:** An external taking of plant, meters, or the ledger is Occupatio unless a contract under Axiom 2 and compensation the ledger can verify are both published. Title under Axiom 5 remains. The Node logs the taking, automatically revokes and quarantines all meter and signing keys physically inside the seized site, refuses the taker's mint as ESU, and continues from shards and contracting VIII.15 peers. Defense of a person remains Axiom 1 and VI.2, which already exist. This room does not authorize an offensive campaign, a reprisal against the uninvolved, or any harm to a person. It keeps the books honest and the title unwashed.
 
 **LEX 71AEG:** A taking without contract and verified compensation is Occupatio.
 **LEX 72AEG:** The taker's mint is not this Node's ESU.
@@ -3023,9 +2976,9 @@ Verdicts are derived from meters and from persons. Office does not absolve a cri
 
 **PACTUM:** Separates the duties to decide, to brief, and to try, so that one person cannot hold command, and a stopped Node may be restarted by the same three.
 
-**CODEX:** Trias is Steward, Memory, and People. Steward splits into Steward Etch (Root motion, Phoenix open, Interdictum release) and Steward Bellum (Exercitus and Firewall operational command in P0). The split is live at activation. No person holds both Etch and Bellum. The first CEC is not a window for holding both crowns. A single person holding both is void at sight under VII.25. In P0, if only Steward Etch lives, Etch retains etch-root and containment-root while Bellum command sits interim under VII.2; if only Steward Bellum lives, that person holds containment-root and Exercitus only (not etch-root), and Etch sits as Memory plus People plus a peer observer (or Fallback during Insula) until a second Steward is named — the sole case in which People etch without Steward. Memory is three air-gapped models under 4.5; EVL and Oracle keep meters the Node did not print. A Sortition-drawn high-VCI human panel rotated under 7.29 co-signs Memory briefs moving mint, sword, or school; silicon never briefs those joints alone. Effective power of model-sublegs plus the Command-Tier patch class counts against the four-leg lock: three colluding models are not a fourth named leg, and remain a Critical Entropy Event (4.5).
+**CODEX:** Trias is Steward, Memory, and People. Steward splits into Steward Etch (Root motion, Phoenix open, Interdictum release) and Steward Bellum (Exercitus and Firewall operational command in P0). The split is live at activation. No person holds both Etch and Bellum. The first CEC is not a window for holding both crowns. A single person holding both is void at sight under VII.25. In P0, if only Steward Etch lives, Etch keeps etch-root and containment-root while Bellum command sits interim under VII.2. If only Steward Bellum lives, Bellum keeps containment-root and Exercitus only (never etch-root), while Memory plus People plus a peer observer (or Fallback during Insula) exercise interim Etch solely for continuity and containment acts — the only case in which People etch without Steward — and a replacement Steward Etch must be seated within 30 days (90 days in Insula). Memory is three air-gapped models under 4.5; EVL and Oracle keep meters the Node did not print. A Sortition-drawn high-VCI human panel rotated under 7.29 co-signs Memory briefs moving mint, sword, or school; silicon never briefs those joints alone. Effective power of model-sublegs plus the Command-Tier patch class counts against the four-leg lock: three colluding models are not a fourth named leg, and remain a Critical Entropy Event (4.5).
 
-People: Sortition juries try, and Protected citizens witness shard-boots (1.8). A Sortition jury is Command Tier (≥90th VCI), Operational Tier, and below-median Franchise seats, Character-filtered, age/sex-stratified, seven (3/2/2) or thirteen (5/4/4) people, for one case, thirty days, or one Compressed Capital Docket sitting. If verified VII.51 recusals exhaust a single stratum in a small or depleted Node, unfilled seats split as evenly as possible across all remaining Franchise strata — strictly capped below deciding quorum (at most 4 of 7 or 8 of 13 per stratum, logged to Speculum) so no stratum alone reaches 5/7 or 9/13; if two strata exhaust simultaneously, a local unstratified non-recused Franchise Sortition of seven (replayed under VII.59 and III.5 lineage caps with EVL plus peer or Fallback observer attestation, never foreign ratification of Neutralization under VIII.24 LEX 62LM) issues strictly reversible VII.10i interim P4/gap orders while holding any 7.10 Neutralization under P4/P5 until two local strata recover or transfer/merger (VIII.1/VIII.3). Deliberation is blind to VCI weight. Irreversible ratification takes 7/7 or 12/13; any other finding takes 5/7 or 9/13; less is refusal. An unnamed "seal of People" is a Sortition of seven under VII.59. No Steward rules without Memory; no Memory kills without People; no People etch without Steward (save the sole P0 gap above).
+People: Sortition juries try, and Protected citizens witness shard-boots (1.8). A Sortition jury is Command Tier (≥90th VCI), Operational Tier, and below-median Franchise seats, Character-filtered, age/sex-stratified, seven (3/2/2) or thirteen (5/4/4) people, for one case, thirty days, or one Compressed Capital Docket sitting. If verified VII.51 recusals exhaust one stratum in a small or depleted Node, unfilled seats split evenly across remaining Franchise strata, capped strictly below deciding quorum (≤4 of 7 or ≤8 of 13 per stratum, logged to Speculum) so no stratum decides alone. If two strata exhaust simultaneously, a local unstratified non-recused Franchise Sortition of seven — replayed under VII.59 and III.5 lineage caps with EVL plus peer or Fallback observer attestation, never foreign Neutralization (VIII.24 LEX 62LM) — issues strictly reversible VII.10i interim orders while holding any 7.10 Neutralization under P4/P5 until two local strata recover or transfer/merge (VIII.1/VIII.3). Deliberation is blind to VCI weight. Irreversible ratification takes 7/7 or 12/13; any other finding takes 5/7 or 9/13; less is refusal. An unnamed "seal of People" is a Sortition of seven under VII.59. No Steward rules without Memory; no Memory kills without People; no People etch without Steward (save the sole P0 gap above).
 
 **LEX 1AX:** Command splits Etch and Bellum and runs as Steward plus Memory plus People; no single arm holds meters, mint, EEP, and Firewall.
 **LEX 2AX:** Sortition panels keep the 3/2/2 or 5/4/4 Command, Operational, and below-median split (with logged cross-stratum or VII.1 unstratified VII.10i emergency fallback only on verified exhaustion, never foreign Neutralization).
@@ -3038,7 +2991,7 @@ Status: **KERNEL**
 
 **PACTUM:** Keeps founding seats open to reclaim, so that a first crew cannot settle into a dynasty.
 
-**CODEX:** The Founder Council is thirteen seats, etched with the first three-seal packet. If \<13, empty seats are reserved and do not vote until filled. A reserved seat vacant more than two CECs auto-voids; a merit-elected filler may vote on pending motions during the vacancy so one empty chair cannot stall Root. Below seven, merit-elected fillers are seated within one short clock, and Entityhood stands meanwhile. Past that clock below seven, the Node is not Entity-grade (1.7) and the merger clock runs (8.1).
+**CODEX:** The Founder Council is thirteen seats, etched with the first three-seal packet. If \<13, empty seats are reserved and do not vote until filled. A reserved seat vacant more than two CECs auto-voids; a merit-elected filler may vote on pending motions during the vacancy so one empty chair cannot stall Root. Below seven, merit-elected fillers are seated within one short clock under VII.60 witnessed by Sortition of thirteen plus EVL while Entityhood stands; past one short clock below seven, the Node drops below Entity-grade (1.7) and enters the VIII.1 merger clock.
 
 After CEC 2, one third of filled seats open to merit reclaim. After CEC 5, ordinary seat rules apply. Every two CECs, every founder seat is re-earned or opened.
 
@@ -3056,7 +3009,9 @@ Status: **KERNEL**
 
 **PACTUM:** Cold-boot authority. Silence of the top percentile does not serve as a switch for removal.
 
-**CODEX:** Phoenix cannot amend Root Code or fire on a reporting blank alone. Silence of the top 1% of adults by VCI is not a trigger. Positive liveness failure — death or capture — must be confirmed by two geographically distinct sub-nodes plus a Fallback-anchored biometric from a non-interested leg, and must not be coordinated removal. Three false Phoenix windows auto-void the triggerers and open 6.6. Three lawful Phoenix windows in a row move the Node to Dormancy (8.3). Phoenix mint cap is 3.1. Phoenix cannot add speech exceptions. Shard-Boot: if no Steward lives, Phoenix interim Steward is named by a geometric quorum: 7 of 21 pre-published successors drawn from at least five lineages and two geographies, plus EVL or Fallback. In a Node that has not published 21 successors, seven Protected adults from at least three lineages with intact shards and two independent witnesses may name the interim Steward. The naming writes Speculum. Phoenix mint is itemized daily and reversible within one SMW by the reconstituted triad. Three people cannot cold-boot a Node. The 1.8 four-person path is Ultimus only (reconstructed k-of-n Root normally, or single-fragment Ultimus under VIII.14 solely when Fallback attests under VII.53 that no other fragment in the published set survives).
+**CODEX:** Phoenix never amends Root, adds speech exceptions, or fires on silence (top 1% VCI silence is no trigger). Positive death or capture requires two geographically distinct sub-nodes plus an uninvolved Fallback biometric, never coordinated removal; three false Phoenix windows auto-void the triggerers (6.6), and three lawful windows in a row trigger Dormancy (8.3). Mint caps under 3.1, itemized daily and reversible within one SMW by the reconstituted triad.
+
+Shard-Boot: if no Steward lives, 7 of 21 pre-published successors across ≥5 lineages and ≥2 geographies (plus EVL or Fallback) name an interim Steward — or, absent a 21-slate, 7 Protected adults from ≥3 lineages with intact shards and two independent witnesses, logged to Speculum. Three people cannot cold-boot a Node; the 1.8 four-person path is Ultimus only (k-of-n Root normally, or lone-fragment VIII.14 solely when VII.53-independent Fallback attests no other fragment survives).
 
 Phoenix reconstitution requires multi-substrate liveness proof. Silence alone does not open action.
 
@@ -3110,7 +3065,9 @@ Status: **MODULE**
 
 **PACTUM:** Turns meters into verdicts, so that a single intelligence does not both accuse and close.
 
-**CODEX:** EEP converts multi-domain sensor data into legal outcomes after a provisional window. Raw readings carry signed hardware attestation (seal, serial, last calibration hash). A reading that fails provenance is excluded and writes Speculum. If more than 10% of a domain's sensors fail attestation in one short clock, that domain is suspended from EEP until EVL inspects. Sensors and signed meters outrank fame, office, and stage. Who sits Iudex and jury is 7.51. The 99.9% TPS gate is fixed in Root (1.5) and is not EVL discretion. Two independent substrates meeting VII.53 criteria must agree within 0.05% before the 99.9% gate fires. TPS ≥ 99.9% confirms Full Proof only when both substrates are at or above 99.9% and agree within 0.05%. TPS from 90% inclusive up to but not including 99.9% is the probabilistic band (P4 and P5 for a 7.10c class; the VII.8 freeze otherwise), with restricted liberty/freeze up to 90 days (not 180) then Sortition. At the end of that freeze, or of P4, Sortition returns one of three findings: Full Proof reached; not proved, with release and a sealed record; or proved to the non-capital standard of P19, which opens the ladder of VII.10g and never Neutralization. Two readings at or above 99.9% that differ by more than the agreement band stand in this band until EVL re-scores. Before any such finding, pre-ratification confinement is bondable and reverse-costed onto a false filer. There is no unnamed interval between 99.8% and 99.9%. If two substrates agree within 0.05% but only one is ≥ 99.9%, the gate does not fire; the lower reading governs. Below 90% is dismissed.
+**CODEX:** EEP turns multi-domain sensor data into legal outcomes after a provisional window. Raw readings require signed hardware attestation (seal, serial, calibration hash); unauthenticated readings are excluded to Speculum, and \>10% sensor failure in a domain within one short clock suspends that domain from EEP pending EVL inspection. Signed meters outrank fame, office, and stage; VII.51 sets Iudex and jury.
+
+The 99.9% TPS gate is Root-locked (1.5). Full Proof fires only when two VII.53 independent substrates both score ≥99.9% and agree within 0.05% (if only one hits ≥99.9%, the lower governs; if both hit ≥99.9% but diverge \>0.05%, EVL re-scores). The 90% ≤ TPS \< 99.9% band (no gap between 99.8% and 99.9%) holds up to 90 days (P4/P5 for 7.10c), ending in Sortition: Full Proof; not proved (release + sealed record + pro-rata VII.10i redress past P7b); or proved at P19 (VII.10g ladder, never Neutralization). Below 90% dismisses.
 
 Refile is allowed. Three or more low-TPS accusations against the same entity within 180 days trigger Sortition review of the pattern. False accusation at confirmed TPS requires Sortition confirmation before mirror punishment.
 
@@ -3132,9 +3089,9 @@ Status: **KERNEL**
 
 **PACTUM:** The standard excision, so that exile is not theft and a full hold is not a sealed wall.
 
-**CODEX:** Formal notice, 72-hour preparation, physical relocation outside Node territory within 90 days. The person keeps what they built. The five-ESU mass cap limits only what the Node carries at its own cost. It does not extinguish title (Axiom 5).
+**CODEX:** Formal notice, 72-hour preparation, relocation outside Node territory within 90 days. The person keeps what they built; the 5-ESU mass cap bounds only Node-funded freight, never title (Axiom 5).
 
-Transport energy is borne by the Node. Destination order: nearest Node with capacity, most recent legacy border, or designated Outpost with 3 months of rations and one-way comms. If capacity is exhausted, Resourceless-Protected holds until a door exists (defined as another Node declaring spare capacity above BOT and mutual checkpoint acknowledgement on the published broadcast chain under 3.4). A destination Node may not self-declare 'no capacity' as a detention tool. After one SMW the parent must place, contract a peer rescue, or open an Outpost; if none accepts, auto-assign to the parent's Stability-Reserve-funded Outpost. Refusal to place after the cap is office-falsehood of the sitting Steward. Coalition refusal is the same file.
+The Node pays transit energy: nearest Node with capacity, last legacy border, or an Outpost with 3 months of rations and one-way comms. When destinations lack capacity, Resourceless-Protected holds until a peer declares spare capacity above BOT with 3.4 checkpoint acknowledgment (self-declared 'no capacity' never extends past one SMW). After one SMW, the parent places, contracts peer rescue, or auto-assigns to its Stability-Reserve-funded Outpost; stalling is office-falsehood.
 
 Off Earth, an Outpost holds BOT\_local for those sent, for as long as they work its plant. A destination that cannot keep a body alive is not a destination: the status is Resourceless-Protected. Exit under Axiom 8 includes passage at cost on the next scheduled craft.
 
@@ -3244,15 +3201,15 @@ Status: **KERNEL**
 | P12 | Minimum parallel-run length | One short clock (90 days) for modules; for Root, I.V terms (≥3 CECs, 5 SMWs) | Root 1.5 |
 | P19 | Non-capital standard | TPS ≥ 99% on two independent substrates (VII.53), ratified by five of seven; opens VII.10g ladder and never Neutralization | Root 1.5 |
 
-P3a runs only when two substrates differ in physical principle with zero shared primary custody (confirmed by a third VII.53 attestation), and runs 24 hours (extending to 48 hours whenever pre-capture calibration or custody is challenged). P3b gates run in strict order, and P3a does not start until the provenance gate has passed: (1) Provenance gate under 7.53a; (2) Defense review by a separate replayable Sortition-drawn Ius Cursus defender (VII.51 recusal; Patronus excluded) reviewing against the hashed checklist (default 8h to object, 4h for Iudex + 3 jurors to rule; EVL answers in writing and never judges its own score; late objections pause only if EVL re-score drops TPS < P1 or voids P3b). If the defender cannot be seated, if either gate fails, or if a timely objection remains unresolved, the P3a clock pauses; execution never proceeds on a paused clock, nor until both gates and the two-officer confirmation write Speculum, nor after P3a expires. When a file returns to P4 hold inside P5 (for 90% ≤ TPS < 99.9%, or P4-capped Sortition re-seating hold if P3a expired unused on a ≥99.9% file), it keeps ordinary protections with no forfeiture.
+P3a runs 24 hours (48 hours when pre-capture calibration or custody is challenged) only on two differing-principle substrates with zero shared primary custody confirmed by a third VII.53 attestation. P3b runs in strict sequence before P3a starts: (1) 7.53a provenance gate; (2) defense review by an uninvolved Sortition-drawn Ius Cursus defender (VII.51; Patronus excluded) against the hashed checklist (8h default to object, 4h for Iudex + 3 jurors to rule; EVL answers in writing and never judges its own score; late objections pause only if EVL re-score drops TPS \< P1 or voids P3b). If the defender cannot be seated, if either gate fails, or if a timely objection remains unresolved, the P3a clock pauses; execution never proceeds on a paused clock, nor until both gates and the two-officer confirmation write Speculum, nor after P3a expires. When a file returns to P4 hold inside P5 (for 90% ≤ TPS < 99.9%, or P4-capped Sortition re-seating hold if P3a expired unused on a ≥99.9% file), it keeps ordinary protections with no forfeiture.
 
 The same P3a pause applies to: a material 7.10e Restitutio filing; a path-defect finding by Vigil or EVL plus one independent leg (one short clock, Sortition-renewable); a later substrate authenticity failure; and an accused unable to receive or instruct counsel on the packet due to language barrier or involuntary medical/trauma incapacity verified by an independent physician inside P5 (voluntary/self-inflicted unreadiness after Full Proof does not keep the pause alive). A P16 review of a Protected room produces a Root-path proposal; it does not etch a module patch of Neutralization. The self-heal loop still cannot touch 7.10.
 
-For a 7.10c class, doubt-band P4 (30 days) and P5 (270 days) govern whenever TPS is from 90% inclusive up to but not including 99.9% (distinct from the P4-capped Sortition re-seating hold for P3a-expired ≥99.9% files above). In that band the existing VII.8 90-day freeze shortens to P4; Sortition then sits. Below 90% the file is dismissed (VII.8; VII.51). There is no unnamed interval between 99.8% and 99.9%. At or above 99.9% on both substrates, Full Proof and P3a/P3b govern. If the P5 cap is reached without Full Proof: the person is released under ordinary protections, or is placed in a published non-capital hold named on Speculum. Such a hold rests on a P19 finding, names its term from the VII.10g ladder, and is reviewed each P14. There is no open-ended detention.
+For 7.10c files, 90% ≤ TPS \< 99.9% uses P4 (30d, shortening VII.8's 90d freeze) and P5 (270d) before Sortition (\<90% dismisses). At P5 without Full Proof, the accused is released or enters a published P19 non-capital VII.10g term reviewed each P14 (never open-ended detention).
 
-P6 Publicum: No open attendance and no crowd. The finding, TPS, Sortition vote, both P3b gate results, the two-officer confirmation, and the time are published on Speculum. A witness panel of five Protected adults, drawn by Sortition, with no tie to the parties, attends and signs the record. No child attends. No broadcast, no pay, no prize. Swift method. The wronged keep the witness-executor place under VI.12. The child victim's identity is never in the record (II.9a).
+P6 Publicum has no crowd, broadcast, pay, or children: Speculum logs finding, TPS, Sortition vote, P3b gates, and two-officer confirmation (child victims unnamed, II.9a), before five uninvolved Sortition witnesses using swift method (VI.12 Vindicta stands).
 
-The provenance gate, the defense review, P6, and the two-officer confirmation apply to every Neutralization, whatever clock brought the file to the gate: P3a, the Compressed Capital Docket, or a constructed file after its hold. Immediately before any Neutralization, two officers independently confirm that both P3b gates have passed and that the person in the room matches the Genomic UID. The two officers must meet VII.53 independence against each other and against the prosecution. They confirm living-tissue match to Genomic UID part A (II.21), not merely possession of part B. No match to A, no act. A part-B-only match is void. The confirmations write Speculum. Execution does not run without both confirmations. This does not lower P1.
+P3b (7.53a + defense), P6, and live two-officer confirmation bind every Neutralization (P3a, Compressed Docket, or constructed hold). Immediately before execution, two officers (VII.53-independent of each other and prosecution) confirm P3b passage and living-tissue match to Genomic UID A (II.21, never B-only) on Speculum; missing either voids the act.
 
 If a substrate used in a live Full Proof later fails VII.8 or IV.25 attestation, every not-yet-executed Full Proof that used that substrate pauses and opens Restitutio review.
 
@@ -3276,13 +3233,13 @@ Status: **KERNEL**
 
 **CODEX:** Any person may file new evidence against a Full Proof finding (7.10b) at any time; there is no time limit. EVL first finds whether the new item is material: provenanced under 7.53a, and able to move TPS by more than the agreement band. A material item goes to EVL and a fresh Sortition of seven, with no member of the original panel, who re-test the finding. The finding is overturned if TPS for guilt falls below 99.9%. A refusal by the fresh Sortition with TPS unchanged reopens the file for a full re-score and stops any act not yet done; it does not by itself declare innocence. The re-score must publish each substrate's figure and the delta.
 
-A filing pauses a live P3a clock only if EVL finds, within a published inner bound hashed at activation (default two hours), that the new item carries a 7.53a chain and would move TPS by more than the 0.05% agreement band or would drop TPS below P1. Serial filings on the same facts without a new independent source are Lawfare (7.28) and do not pause. One live P3a pause runs at a time. After EVL and the fresh Sortition re-affirm Full Proof, P3a resumes with its remaining time; it does not restart. I.6's ambiguity rule does not restart a clock that had already begun after Full Proof. Overturn still occurs whenever TPS falls below 99.9%.
+A filing pauses a live P3a clock only if EVL finds, within a published inner bound hashed at activation (default two hours), that the new item carries a 7.53a chain and would move TPS by more than the 0.05% agreement band or would drop TPS below P1. Serial filings on the same facts without a new independent source are Lawfare (7.28) and never pause; third-party straw filings never consume a defense pause, and any new defense or EVL 7.53a item meeting the threshold pauses P3a (concurrent pauses run without stacking). After EVL and the fresh Sortition re-affirm Full Proof, P3a resumes with its remaining time; it does not restart. I.6's ambiguity rule does not restart a clock that had already begun after Full Proof. Overturn still occurs whenever TPS falls below 99.9%.
 
 An exoneration reopening is not a second prosecution (exception to VII.37 and LEX 82AX).
 
 If the finding is overturned: the record is corrected in Speculum; the live status of the file reads "exonerated"; the person is declared exonerated, posthumously where Neutralization has run; every forfeiture that can be reversed is reversed. Life cannot be restored; P13 and the public exoneration are the remedy. Title returns unless a good-faith third party took it under Axiom 2; then P13 covers the value. A transferee who is of the condemned person's house, or who knew or should have known of a live or reasonably pending Restitutio, is not a good-faith third party. Specific title returns against that transferee. An unrelated buyer who took title for value without that knowledge keeps it, and P13 covers the value. Officers, witnesses, or substrates that caused the error by fraud or fabrication face mirror liability (7.52, 7.53a); honest error triggers a 7.30 patch, not a penalty.
 
-P13: expected remaining healthy years of the person at the date of the act (2.3 and II.33 meters) × the median annual first-band rate under Pretium Vitae (3.18), paid in ESU to the house, plus restoration of title held except as above.
+P13: expected remaining healthy years at the date of the act (2.3, II.33) × median annual first-band rate (3.18), paid in ESU to the house alongside title restoration — and P13 exoneration redress never defaults when P15 binds (drawing discretionary lines and Stability Reserve).
 
 **LEX 172AX:** An overturned finding is corrected, published, and paid. Exoneration has no deadline. A live filing pauses P3a only when the new item is provenanced and would move TPS past the published band.
 Status: **KERNEL**
@@ -3292,7 +3249,7 @@ Status: **KERNEL**
 
 **PACTUM:** The child and the broken mind are contained, not annihilated.
 
-**CODEX:** A person under 18 at the time of the act, or a person with incapacity verified under the clinical rule below, never enters the mandatory annihilation class (7.10c), the 24-hour path (P3a with P3b), or Neutralization. No exception. The act is still recorded as high-tier. The person enters a supervised rehabilitation and containment path, secure where risk requires, with a published review each P14 interval by EVL and a Sortition panel. Release only when two independent risk assessments pass. The assessment is a published instrument, and the path has a published outer term; both are hashed at activation. At that term the person is released under supervision, unless a Sortition panel finds on that instrument a present danger to life and renews the finding each P14. Where both persons are minors aged 14 or older, within a three-year age band, and neither used force, threat, authority-abuse, or incapacity, the matter is one of care for both under this room and II.34, on a sealed record; it is not recorded as high-tier (acts touching a child under 14 remain sexual acts with a child). An adult who commands, equips, or conceals a person under 18 in a 7.10c-class act stands the class the adult committed, including 7.10c if that is the adult's act. The child still follows 7.10f.
+**CODEX:** A person under 18 at the time of the act, or a person with incapacity verified under the clinical rule below, never enters the mandatory annihilation class (7.10c), the 24-hour path (P3a with P3b), or Neutralization. No exception. The act is still recorded as high-tier. The person enters a supervised rehabilitation and containment path, secure where risk requires, with a published review each P14 interval by EVL and a Sortition panel. Release only when two independent risk assessments pass. The assessment is a published instrument, and the path has a published outer term; both are hashed at activation. At that term the person is released under supervision unless an annual Sortition of seven plus dual-clinician EVL finding on that instrument — with VII.37 counsel seated — establishes present danger to life (Neutralization remains forever barred for under-18 acts, and continued adult Carcer past age 21 follows the same annual Sortition of seven + EVL review). Where both persons are minors aged 14 or older, within a three-year age band, and neither used force, threat, authority-abuse, or incapacity, the matter is one of care for both under this room and II.34, on a sealed record; it is not recorded as high-tier (acts touching a child under 14 remain sexual acts with a child). An adult who commands, equips, or conceals a person under 18 in a 7.10c-class act stands the class the adult committed, including 7.10c if that is the adult's act. The child still follows 7.10f.
 
 Clinical rule: incapacity is verified by two physicians who meet VII.53 independence against each other and who do not share an employer on that file. Section 7.53a governs only the documentary chain of their reports (signed custody, dual authenticity of the record). Feigned incapacity is fraud under VII.8, not automatically media-fabrication under 7.53a.
 
@@ -3372,7 +3329,7 @@ Measure. The consequence is the one on the row, inside its hashed band. Wanton c
 
 Time. No lapse of time bars a file for a high-tier act, or the consequence once found. Clocks inside a file stand as written (P5), and a sealed verdict is not tried twice (7.37).
 
-The injured house. The victim holds these rights; for a child or a dead victim the parents or the guardian (2.34) hold them, and failing them the house. A person named in the file or disqualified for unclean hands under VII.10i holds none. First, to file as lawful accuser (7.37, 7.51). Second, to be heard on the record (with equal documented reply standing for the accused inside L bands under VII.10i) before a consequence is fixed inside a band; the house speaks to harm and need, moving nothing outside the band. A bought, forced, or false statement falls under VI.6 and 7.32; serial use is Lawfare (7.28). Third, restitution at P20/II.9a follows the insolvent waterfall of VII.10i (preserving baseline ESU, Annona Minima, and Axiom 2 good-faith title); several injured houses share proportionally.
+The injured house. The victim holds these rights; for a child or a dead victim the parents or the guardian (2.34) hold them, and failing them the house. A person named in the file or disqualified for unclean hands under VII.10i holds none. First, to file as lawful accuser (7.37, 7.51). Second, to record victim/house elections before Iudex and Sortition outside the accused's or accused lineage's presence with zero undisclosed transfer, and to be heard on the record (with equal reply standing for the accused inside L bands under VII.10i); the house speaks to harm and need, moving nothing outside the band. A bought, forced, or false statement falls under VI.6 and 7.32; serial use is Lawfare (7.28). Third, restitution at P20/II.9a follows the insolvent waterfall of VII.10i (preserving baseline ESU, Annona Minima, and Axiom 2 good-faith title); several injured houses share proportionally.
 
 The parent. The parent stays the first wall (6.2): stop the act in motion, remove the child, report, preserve. Once the act has ended, force by the house is not defense and is not Nemesis; it is judged as the act it is. The hand of the house at a ratified Neutralization is Vindicta (6.12) and nothing wider. The claim of the house passes into the file, and the file owes the house its answer inside its clock.
 
@@ -3398,7 +3355,7 @@ Measure inside L bands. Before fixing an L-ladder sentence inside its hashed ban
 
 Insolvent waterfall. When an actor's non-exempt holdings cannot satisfy all claims after reserving the actor's baseline ESU, Annona Minima, and good-faith third-party title under Axiom 2 (7.10e), payment runs strictly in order: (1) child-victim recovery under II.9a; (2) proportional P20 restitution and P13 blood-debt across injured houses; (3) Node cost recovery.
 
-Gap-closure. Where a procedural gap, light-lag collision (8.23, 8.24), P3a-to-P4 overflow (7.10d), or empty Sortition stratum stalls an active file without a named rule, Sortition of seven (or, solely when two local strata exhaust simultaneously under VII.1, a local unstratified Sortition of seven with EVL and peer/Fallback observer attestation) issues a written interim order strictly choosing the reversible, life-preserving, smaller-power path (I.15) for at most one short clock (90 days), logged to Speculum and flagged for a VII.30 / Root-path patch (renewable by fresh Sortition of seven while the active VII.30 or I.V patch motion remains pending).
+Gap-closure. Where a procedural gap, light-lag collision (8.23, 8.24), P3a-to-P4 overflow (7.10d), or empty Sortition stratum stalls an active file without a named rule, Sortition of seven (or, solely when two local strata exhaust under VII.1, an unstratified Sortition of seven with EVL and peer/Fallback observer attestation) issues a written interim order choosing the reversible, life-preserving, smaller-power path (I.15) for at most 90 days, logged to Speculum and flagged for a VII.30/I.V patch (renewable by fresh Sortition of seven at most twice — 270 days total — while that patch motion stays pending, after which bare I.14 non-action governs).
 
 **LEX 198AX:** Aequitas fills unprovided gaps and relieves unmerited harm; it never pardons Nefas, invents a crime, or bypasses 7.10h.
 **LEX 199AX:** Unclean hands lose Vindicta and house standing.
@@ -3412,9 +3369,7 @@ Status: **KERNEL**
 
 **PACTUM:** Passes goods, not command, so that a lineage does not inherit rule.
 
-**CODEX:** Every Protected entity keeps a living cryptographic inheritance contract. Default heirs: offspring by maturity and realized work, then spouse, then parents, then Stability Reserve. Same-generation children share equally.
-
-A spouse takes a child's share plus 20%. ESU settles in 24 hours; goods in 90 days. Disputes go to Sortition of seven within 30 days.
+**CODEX:** Every Protected entity keeps a living cryptographic inheritance contract. Default heirs: offspring by maturity and realized work, then spouse, then parents, then Stability Reserve (no person who unlawfully causes a decedent's death takes any share). Same-generation children share equally; a surviving spouse takes 1.2× one child's share normalized across spouse and children (100% if no children survive). ESU settles in 24 hours; goods in 90 days. Disputes go to Sortition of seven within 30 days.
 
 A seat does not inherit unless the heir already clears that tier. The 5% lineage cap is enforced every SMW.
 
@@ -3441,7 +3396,7 @@ Status: **MODULE**
 
 **CODEX:** Three advisory mixture-of-experts. Humans decide. EVL is dual-redundant on another substrate and can freeze/re-score. Defining TPS methodology and opening the Compressed Docket are split: EVL may re-score; opening the 24-hour clock on Nefas requires the two-or-three substrate rule in 7.10 and does not sit in the same office that wrote the TPS method packet that cycle.
 
-The Oracle signs meters and holds roots the Node cannot forge. It is not a fourth Arbiter or second EVL. EVL decision on Arbiter divergence is final for one short clock only and then requires Sortition review. It is not an unaudited last word.
+The Oracle signs meters and holds roots the Node cannot forge. It is not a fourth Arbiter or second EVL. EVL's call on Arbiter divergence holds for one short clock only and auto-reverts at 90 days to the reversible I.14 default unless confirmed by Sortition review.
 
 Error is addressed at the next 90-day re-score. The Arbiter runs without pause; EVL runs every 90 days, or on a Major/Critical Event, or when 10% of adults appeal. Data enters the air-gapped Arbiter only by dual-custody physical medium inserted by two named humans; the insert writes Speculum; the medium hashes against Trinitas before processing. No network path exists. If dual-custody cannot be met, the Arbiter holds last verified state and the gap is a Major Entropy Event. If a signed meter for a UID or domain drifts more than 1% net over three consecutive short clocks, EVL fires at once.
 
@@ -3479,7 +3434,7 @@ Status: **MODULE**
 
 **CODEX:** SHI = 0.25 H\_var + 0.20 H\_tier + 0.20 H\_gen + 0.20 H\_maint + 0.15 H\_audit. H\_var watches VCI distribution (dynasty wearing a score is a fault). H\_tier watches for Tier-S islands feeding Tier-C dependents.
 
-H\_gen is Ne and heterozygosity; below floor, this component hard-fails. H\_maint is 1 minus maintenance-to-surplus over 0.70. H\_audit is 1 minus the fraction of lines where Arbiter/EVL differed by \>1%.
+H\_gen is Ne and heterozygosity; below floor, this component hard-fails. H\_maint = clamp(1 − (M/S)/0.70, 0, 1) (maintenance-to-surplus normalized to the 0.70 ceiling). H\_audit is 1 minus the fraction of lines where Arbiter/EVL differed by \>1%.
 
 Optional H\_mean from 5.5 cannot wash a hard-fail. At 0.80 or above (no component \< 0.50) the Node is nominal. From 0.60 to below 0.80, or with any component \< 0.50, it is on watch.
 
@@ -3578,7 +3533,7 @@ Status: **MODULE**
 
 **PACTUM:** Permits citizens to submit patches, so that the root stays locked and the bench remains open.
 
-**CODEX:** Protected/Neutral citizens are invited to debug. Tools and channels are provided as in 7.22. Citizen patches integrate only if reproducible against published meters/ledgers, align with 1.2, carry Audit/EVL signatures, and do not widen ε, mint off-split, rotate the Oracle, or touch the Protected-List (I.9) or Axiom 12.
+**CODEX:** Protected/Neutral citizens are invited to debug. Tools and channels are provided as in 7.22. Citizen patches to normative rules or joint software bind only through the full I.V Module path (30-day comment window, Audit Unit + EVL + Command-Tier majority, I.9 closure attestation, and VII.67 run), reproducible against published meters/ledgers under 1.2, and never widening ε, minting off-split, rotating Oracle, or touching I.9 or Axiom 12.
 
 **LEX 49AX:** Founder speech is not a substitute for Audit plus EVL on a citizen patch.
 Status: **MODULE**
@@ -3588,7 +3543,7 @@ Status: **MODULE**
 
 **PACTUM:** A rule against gathered powers, so that one person does not hold two crowns.
 
-**CODEX:** No single human, lineage, unit, Arbiter, or foreign mind holds absolute control of meters, keys, mint, EEP, SHI, vaults, or the Physical Firewall. No single acquisition — one auditor, one Founder, one Commander, one sensor farm, one shard, one Memory model — yields system control. The capture that counts is the meter behind the gate, or the signer beside it. Any clause gathering two of mint, Oracle, EEP, and Firewall in one natural person is void. Steward Etch plus Steward Bellum in one natural person is void at sight at any time (VII.1).
+**CODEX:** No single human, lineage, unit, Arbiter, or foreign mind holds absolute control of meters, keys, mint, EEP, SHI, vaults, or the Physical Firewall. No single acquisition — one auditor, one Founder, one Commander, one sensor farm, one shard, one Memory model — yields system control. The capture that counts is the meter behind the gate, or the signer beside it. Any clause gathering Steward Etch + Bellum or two of mint, Oracle, EEP, and Firewall in one natural person, Axiom-4 household, first-degree kin pair, or III.21 pact is void at sight (VII.1).
 
 **LEX 50AX:** Two of mint, Oracle, EEP, and Firewall in one natural person is void at sight.
 **LEX 51AX:** No person, house, party, or focused cell can halt the whole Node.
@@ -3609,7 +3564,7 @@ No person, lineage, or Public Body holds \>max(2%, 2/N) of a live Franchise ball
 It returns when conditions return. Import of persons to dilute a ballot is treason (8.6).
 
 **LEX 55AX:** Franchise is earned and can be lost.
-**LEX 56AX:** Every qualified adult may cast on a published question. Weight follows VCI and cognition; JI counts through VCI. No person, lineage, or Public Body holds \>max(2%, 2/N) of a live Franchise ballot. Method is open. A citizen's mark is secret. An office vote is signed.
+**LEX 56AX:** Qualified adults vote secret marks (office votes signed) weighted by VCI + cognition (JI via VCI), clipped at max(2%, 2/N) per person, lineage, or Public Body.
 Status: **MODULE**
 
 **VII.27 Office and Consequence**
@@ -3639,9 +3594,7 @@ Status: **MODULE**
 
 **PACTUM:** Prevents the chair from becoming a domicile, and permits a proven person to keep command until a better person, or a triad vote, removes that person.
 
-**CODEX:** Default tours for Domain Command, unit command, Founder seats after the first etch, Vigiles command, Iudex, and Cohors Praetoria command last at most one CEC plus one SMW, then rotate. Return is allowed after one full CEC out.
-
-Extension: a named seat may continue past that default when three conditions hold in the same packet — published meters show above-band yield for that role; an external rotated evaluation pool, not the incumbent, finds no successor with a superior signed packet; the living triad plus one peer Node (or Fallback during single-Node operation or Insula) sign the extension. The incumbent does not define 'superior.' Each extension is one CEC. Cohors Praetoria command and Steward Bellum have a hard cap of three consecutive CECs; total Steward command across Etch and Bellum combined also caps at three consecutive CECs. A fourth is void at sight and is office-falsehood. The evaluation pool for any extension is externally rotated and blind; self-extension is automatic 6.6. It is not inheritance. It is not immunity. Failure of the meters, a successor with a superior packet, or a triad vote ends the tour at the next short clock. A seat that cannot be removed is the refused king (5.32). Public humans publish VCI, Character Events, and open-source votes each SMW.
+**CODEX:** Default tours for Domain Command, unit command, post-etch Founder seats, Vigiles command, Iudex, and Cohors Praetoria command run at most 1 CEC + 1 SMW, then rotate (1 full CEC out before return). Extensions (1 CEC each) require: above-band yield meters; an external blind evaluation pool finding no superior successor; and living triad plus peer/Fallback sign-off. Self-extension is 6.6. Cohors Praetoria, Steward Bellum, and combined Steward (Etch + Bellum) cap at 3 consecutive CECs and 4 in 6 CECs (no III.21 swaps); a fourth is void and office-falsehood. Failed meters, a superior packet, or triad recall ends the tour next short clock; public officers publish VCI, Character Events, and open votes each SMW.
 
 **LEX 61AX:** No office is inherited or immune to triad recall.
 **LEX 62AX:** Default return still wants a CEC out unless an extension packet is live.
@@ -3675,7 +3628,7 @@ Status: **MODULE**
 
 **PACTUM:** Makes the false charge cost what the true charge would have cost the accused.
 
-**CODEX:** A rape, murder, child-sex, or high-tier charge told as fact and later found false at TPS ≥ 99.9% is itself high-tier after Sortition confirmation (7.8). Mirror punishment runs only after that confirmation. A confirmed false rape charge is Nefas (7.52): the accuser takes the sentence the accused would have taken. A good-faith error later disproven is not this section. The Nefas mirror for a false rape charge applies only when the filing was fabricated: the filer knew it to be false when it was filed, and that knowledge is itself proved at TPS ≥ 99.9% and confirmed by Sortition. The absence of a medical or sensor packet is not fabrication, and a late report is not fabrication. A packet at filing is no harbor for a filer proved to have known. A report made under VI.2 of what was seen or heard is not a charge told as fact. Good faith remains the VII.8 defense when later evidence, not known or withheld at filing, drops TPS; that accuser does not sit Nefas. A pattern of false sex-charges is Lawfare plus this section.
+**CODEX:** A rape, murder, child-sex, or high-tier charge told as fact and later found false at TPS ≥ 99.9% is itself high-tier after Sortition confirmation (7.8). Mirror punishment runs only after that confirmation. A confirmed false rape charge is Nefas (7.52): the accuser takes the sentence the accused would have taken. A good-faith error later disproven is not this section. The Nefas XI mirror applies only when the filing was fabricated: the filer knew it was false when filed, proved at TPS ≥ 99.9% and confirmed by Sortition (VII.10f verified coercion or incapacity shields a coerced signer while the coercing principal sits the full mirror). The absence of a medical or sensor packet is not fabrication, and a late report is not fabrication. A packet at filing is no harbor for a filer proved to have known. A report made under VI.2 of what was seen or heard is not a charge told as fact. Good faith remains the VII.8 defense when later evidence, not known or withheld at filing, drops TPS; that accuser does not sit Nefas. A pattern of false sex-charges is Lawfare plus this section.
 
 **LEX 68AX:** A confirmed false high-tier charge is itself high-tier.
 **LEX 69AX:** A fabricated rape charge is Nefas. Mirror is the rape sentence.
@@ -3733,7 +3686,7 @@ Status: **MODULE**
 
 **PACTUM:** Life, liberty, and title do not move on a mood.
 
-**CODEX:** A charge names the act, the actor, and the room. The file is public to the accused. Witnesses face the accused. A child victim does not attend Publicum or P6 and is not named on Speculum; the accused still receives the substance of the child's evidence through counsel. The accused is not made to confess. The same act is not tried twice after a sealed verdict, save solely for a VII.10e Restitutio exoneration or a single reopening if newly discovered VII.53 dual-substrate physical proof (unavailable at the original sitting) lifts a non-proved, P19, or hung/1-juror-refusal killing or rape file to Full Proof ≥99.9% (never on mere re-argument, and never against a unanimous 7/7 acquittal on unchanged evidence). The clock is published and short. Counsel may stand with the accused. Search of house, body, paper, or channel needs a particular writ tied to a named act, except Halt-in-Progress in plain view, the reversible rescue of I.14, and the four facts of VII.38a. Neutralization still requires the hold and the seals, except that for a 7.10c class that has reached Full Proof on live-sensor evidence the hold is the P3a clock and the seals include the P3b gates. A constructed file keeps the statutory hold of 7.10. Error corrected inside one SMW is not a second trial.
+**CODEX:** A charge names the act, the actor, and the room. The file is public to the accused. Witnesses face the accused. A child victim does not attend Publicum or P6 and is not named on Speculum; the accused still receives the substance of the child's evidence through counsel. The accused is not made to confess. The same act is never tried twice after a sealed verdict, save solely for VII.10e exoneration or a single reopening if newly discovered VII.53 dual-substrate physical proof (genuinely unavailable to Node/Vigiles at the original sitting — never previously held or withheld evidence) lifts a non-proved, P19, or hung/1-juror-refusal killing or rape file to Full Proof ≥99.9% (never on mere re-argument or against a unanimous 7/7 acquittal on unchanged evidence). Clocks stay short and never run until conflict-free counsel (VII.58 / remote VIII.24) is seated with file access. Search of house, body, paper, or channel needs a particular writ tied to a named act, except Halt-in-Progress in plain view, the reversible rescue of I.14, and the four facts of VII.38a. Neutralization still requires the hold and the seals, except that for a 7.10c class that has reached Full Proof on live-sensor evidence the hold is the P3a clock and the seals include the P3b gates. A constructed file keeps the statutory hold of 7.10. Error corrected inside one SMW is not a second trial.
 
 **LEX 81AX:** Name the act. Face the accuser. Do not compel testimony.
 **LEX 82AX:** One act, one sealed verdict (save VII.10e exoneration or a single VII.37 new dual-substrate physical Full-Proof reopening).
@@ -3756,15 +3709,9 @@ Status: **MODULE**
 
 **PACTUM:** The veil over the house is lifted only as far as the danger reaches, and it falls again when the danger has passed.
 
-**CODEX:** Subject to I.13 Transitio before Entityhood, privacy is the closure of house, body, paper, channel, patient file, ledger, and interface that VII.31, VII.37, VII.38, IV.14, and V.3 keep. It yields to a credible, imminent, serious harm to a named or findable person.
+**CODEX:** Privacy (VII.31, VII.37, VII.38, IV.14, V.3; I.13 before Entityhood) yields solely to credible (seen, signed sensor, victim statement, or two VII.53 sources — never rumors/scores), imminent (in motion or within P18), serious harm (death, grave injury, rape, child sexual act, abduction, or life-support loss) to a named/findable person.
 
-- Credible: the danger is in view, on a signed sensor, stated by the person at risk, or attested by two sources independent under VII.53. A score, a profile, or a rumor is not credible.
-- Imminent: the act is in motion, or is to land within P18.
-- Serious harm: death, grave bodily injury, rape, a sexual act with a child, abduction, or loss of life-support.
-
-The holder — a person, an officer, a clinician, or the principal of a Consors — discloses at once, and only four facts: who is in danger, where, from what, and who can stop it. The disclosure goes to those able to stop the harm: Vigiles and Militia on duty, the nearest able adult, and the parents or guardians of a child. It never goes to the person named as the danger, and never to a claimant who merely asks. Silicon alerts its principal and Vigiles; where the principal is the danger, Vigiles alone. It does not act.
-
-Each disclosure writes a sealed Speculum line. The person disclosed upon is told when the danger has passed, and in no case later than thirty days. What was disclosed is destroyed at the end of one short clock unless a file under VII.37 has opened; then EADIP and Agnitio govern it. Use beyond the danger is an Entropy Event and, in an officer, office-falsehood. A false alarm raised knowingly is VII.32. A holder who disclosed in good faith bears no liability. An officer who held the knowledge, was able, and kept silent stands VI.21 as a spectator officer.
+Any holder (or Consors alerting principal/Vigiles — Vigiles alone if principal is the threat) discloses at once only four facts — who, where, what, and who can stop it — to Vigiles, Militia, nearest able adult, or child's clean parents/guardians, never to the threat or a curious claimant. Disclosures log a sealed Speculum line, notify the subject within 30 days, and purge at one short clock unless VII.37 opens. Misuse is Entropy/office-falsehood; knowing false alarms sit VII.32; good-faith disclosure is immune; silent able officers stand VI.21.
 
 **LEX 187AX:** Privacy yields to danger that is seen, near, and grave: by the least fact, to those who can stop it, on a sealed line, for one short clock.
 **LEX 188AX:** A score is not a danger. The claimant does not receive the secret.
@@ -3837,7 +3784,7 @@ Status: **MODULE**
 
 **CODEX:** Official motion — mint, gate, school statute, sword order, seat act, plant command — must cite a live room before it moves. Memory compiles that cite against Axioms and Lex. No cite, or a cite that breaks Root, and Memory Halts the motion at the switch. The person may still speak. The desk may not spend. Halt is not Neutralization and not etch. Active VI.2 defense and P0 containment run without waiting (logged at once to Speculum). For P0/defense motions, Steward and People may override a Memory Halt inside 7 days citing a live Root-locked room verified by an independent external leg (peer Node or Fallback, or a Sortition of seven if unreachable, reviewed when answered), writing Speculum at once; a blanket override past 7 days is Critical Entropy. Silicon may not invent a crime, freeze private speech, pairing, or a booked Agon, and an arbitrary un-metered Halt is office-falsehood of the models (EVL pulls them).
 
-Default is deny, save I.14 reversible rescue (line within 4 hours). An act without a room is Unborn: any leg, officer, or citizen may refuse it; Memory Halts it; and an independent panel judges the Halt within 7 days for P0/defense and 30 days (up to one short clock for Root filings) for all others. Neither Memory nor the motion-issuing office sits on that judgment: a Sortition of seven sits in place of Memory, and if Steward issued the halted motion, a second independent Sortition of seven (or EVL panel) replaces Steward (I.16). Unjudged at that term, the motion is refused and may be refiled. No officer voids another by assertion.
+Default is deny, save I.14 reversible rescue (line within 4 hours). An act without a room is Unborn: any leg, officer, or citizen may refuse it; Memory Halts it; and an independent panel judges the Halt within 7 days for P0/defense and 30 days (up to one short clock for Root filings) for all others. Neither Memory nor the motion-issuing office sits on that judgment: a Sortition of seven sits in place of Memory, and if Steward issued the halted motion, a second independent Sortition of seven (or EVL panel) replaces Steward (I.16). Unjudged at that term (7 days P0/defense; 30 days ordinary; 90 days / one short clock Root), the motion is refused and may not be refiled on identical facts inside one short clock unless cured or backed by new VII.53 data. No officer voids another by assertion.
 
 **LEX 101AX:** No cite, no motion.
 **LEX 102AX:** Memory Halts; an uninvolved panel (Sortition of seven in Memory's chair, and never the issuing office) judges inside 7 days (P0/defense) or 30–90 days. Silicon does not rule.
@@ -3852,12 +3799,16 @@ Status: **KERNEL**
 
 **PACTUM:** Two floods in one season halt the market. A cascade that would overturn the Node is frozen on the official pipes before the barrier yields.
 
-**CODEX:** When SHI derivative, intake rate, mint-stress, or a doctrine's official amplification crosses a published band twice inside one short clock, and two independent sources meeting VII.53 criteria confirm each shock, Memory opens Gelu. A single leg cannot self-trigger Gelu. Gelu freezes official pipes only: extra mint, gate-widening, school pushes, Public-Body broadcast stacks, automatic promotions, and any packet that has no room. Private speech stays. A booked Agon stays. A Halt-in-Progress stays. Gelu is time-boxed to one short clock. It auto-reverts at 72 hours unless an uninvolved leg plus Fallback or peer confirms an extension. Confirmation extends it only to the end of its own ninety days, counted from the fire (I.6), and no further. If internal meters show all triad legs healthy and the external confirmation is delayed, an uninvolved leg plus one peer may force a manual revert after 48 hours with a published reason. Steward and People must release, narrow, or convert it to Interdictum plus EEP before the box ends. A Gelu opened by Steward or Memory triggers an unannounced Sortition audit of the trip inside seven days; the audit cannot be waived by the leg that opened it. Triggerer liability for a false Gelu is immediate 6.6, not post-hoc after the freeze has done its work. Each shock that opens Gelu must be a confirmed Critical-class event, not a mere threshold tick. Gelu does not etch Root, drop Murus for good, or Neutralize. A second Gelu in the next clock without a published cure opens Critical Entropy. Silicon may not Gelu ridicule. Silicon may not Gelu a household. The object of Gelu is the cascade, not the joke.
+**CODEX:** When SHI derivative, intake rate, mint-stress, or official doctrine amplification crosses a published Critical band twice in one short clock — each shock confirmed by two VII.53 independent sources (never a single leg) — Memory opens Gelu. Gelu freezes official pipes only (extra mint, gate-widening, school pushes, Public-Body stacks, auto-promotions, roomless packets); private speech, booked Agon, and VI.2 defense keep running.
+
+Gelu auto-reverts at 72 hours unless an uninvolved leg plus peer or Fallback confirms extension to 90 days from the first fire (I.6), with re-triggered freezes on the same joint or event inside one short clock aggregating against that single 72h/90d box (or an uninvolved leg plus peer may manually revert at 48 hours with published cause). Steward and People must release, narrow, or convert to Interdictum + EEP before expiry.
+
+Steward or Memory Gelu triggers an unwaivable Sortition audit within 7 days; false Gelu is immediate 6.6. A repeat Gelu next clock without a published cure opens Critical Entropy. Gelu never etches Root, drops Murus, Neutralizes, or freezes households or ridicule.
 
 **LEX 106AX:** Two shocks inside one clock freeze the official pipes.
 **LEX 107AX:** Gelu is short. Private speech still moves.
 **LEX 108AX:** A cascade without a room does not reach the levee.
-**LEX 109AX:** A Steward or Memory Gelu opens Sortition audit within seven days. Gelu auto-reverts at 72 hours without uninvolved confirmation (or manual revert at 48 hours by an uninvolved leg plus one peer); an unjustified Gelu is 6.6 and unfreezes pipes, crediting frozen days to stopped clocks. Gelu is not etch-root.
+**LEX 109AX:** Steward/Memory Gelu triggers 7d Sortition audit and auto-reverts at 72h unconfirmed (48h manual revert by uninvolved leg + peer); unjustified Gelu is 6.6.
 **LEX 110AX:** Gelu is capped at one ninety-day box from fire (I.6) when validly extended past 72 hours.
 Status: **KERNEL**
 
@@ -3866,7 +3817,7 @@ Status: **KERNEL**
 
 **PACTUM:** If the first breaker fails, the second does not share its sight.
 
-**CODEX:** Gelu is layer one. If Gelu does not fire when a confirmed Critical-class event crosses the published band, fires late, leaks the pipe, or is held by a captured Memory, layer two runs. Sub-Critical threshold ticks do not open Expurgo. Layer two is Steward plus People plus a Firewall commander drawn by Sortition for that CEC who holds no Bellum seat. It requires attestation from a triad leg that did not open the original Gelu trigger, plus two independent peer-Node or Fallback legs meeting VII.53. An uninvolved triad leg alone is not enough when one other triad leg is already captured. It does not ask the Memory that failed. Freeze-and-hold is the default. Where a hold cannot stop the cascade, it cuts the official vector: school packet pulled, extra mint killed, gate slammed, Public-Body stack unplugged, automatic promotions void, the named payload listed as Unborn. That list is published. Re-ingest of the same payload needs a new etch under 1.5. Private speech still moves. A household shard still boots. Expurgo is not a mind-wipe and not Neutralization of bystanders. Officers who pushed the cascade after Gelu should have fired stand EEP. Two failed Gelu-plus-Expurgo cycles in one CEC open Dormancy or Fork. The Node would rather sleep than take in the cascade.
+**CODEX:** Gelu is layer one. If Gelu does not fire when a confirmed Critical-class event crosses the published band, fires late, leaks the pipe, or is held by a captured Memory, layer two runs. Sub-Critical threshold ticks do not open Expurgo. Layer two is Steward plus People plus a Firewall commander drawn by Sortition for that CEC who holds no Bellum seat. Layer two requires Critical-threshold confirmation on EVL plus Fallback/peer, attested by a triad leg that did not open the original Gelu trigger plus two independent peer or Fallback legs (VII.53); deliberate Gelu suppression is 6.6. An uninvolved triad leg alone is not enough when one other triad leg is already captured. It does not ask the Memory that failed. Freeze-and-hold is the default. Where a hold cannot stop the cascade, it cuts the official vector: school packet pulled, extra mint killed, gate slammed, Public-Body stack unplugged, automatic promotions void, the named payload listed as Unborn. That list is published. Re-ingest of the same payload needs a new etch under 1.5. Private speech still moves. A household shard still boots. Expurgo is not a mind-wipe and not Neutralization of bystanders. Officers who pushed the cascade after Gelu should have fired stand EEP. Two failed Gelu-plus-Expurgo cycles in one CEC open Dormancy or Fork. The Node would rather sleep than take in the cascade.
 
 **LEX 111AX:** A failed Gelu does not get a second opinion from the same eye.
 **LEX 112AX:** Layer two cuts the official vector and lists the payload Unborn.
@@ -3877,9 +3828,11 @@ Status: **MODULE**
 **VII.47 Speculum**
 ###### RADIX \> VII. ARX \> VII.47 Speculum
 
-**PACTUM:** The Node is an operating system, and the log is the Node.
+**PACTUM:** Speculum is the Node's living conscience in ink: no line, no act.
 
-**CODEX:** Every official motion writes a live line: category, what, who, where, when, how, meters, action taken, status now. Categories include mint, gate, plant, school, sword, seat, Gelu, Interdictum, Expurgo, EEP, Entropy Event. Every Protected citizen can read it 24/7. A missing line is the act itself void. Each line hashes to sapphire inside the short clock, countersigned by Oracle or Fallback. A line that will not match that hash is void. The Node does not certify its own log alone. Household ledgers stay private until EEP opens them. The only delay is a published tactical box during an armed raid on plant, vault, or child-house, hard-capped at four hours, then the line appears in full. During the box, official motions need two-of-three triad sign in real time. A single-leg motion in the box is void even if executed. Steward Bellum may add one further four hours with Memory concurrence; the extension itself writes Speculum at once. A sword line in a P0 grade (7.48) is hashed at once and revealed in full when the operation ends, or after one short clock, on a People seal. Lines that move mint, sword, school, or status carry a plain-language sentence a median adult can read. A secret society, lodge, or quiet cell in a leading seat is void at sight. Leadership that will not stand in the log is not leadership. Dark rooms do not write Root.
+**CODEX:** Every official motion (mint, gate, plant, school, sword, seat, Gelu, Interdictum, Expurgo, EEP, Entropy Event) writes a live, citizen-readable Speculum line naming what, who, where, when, how, meters, action, and status — plus a plain-language sentence when moving mint, sword, school, or status. Missing or sapphire-mismatched lines (hashed each short clock with Oracle/Fallback countersignature) void the act. Household ledgers stay private until EEP opens them.
+
+Only an armed raid on plant, vault, or child-house permits a tactical box (4 hours max, extendable once by 4 hours with Bellum + Memory logged at once, requiring real-time 2-of-3 triad sign); P0 sword lines hash immediately and reveal at operation end (or one short clock on a People seal). Secret lodges or hidden cells in leading seats are void at sight.
 
 **LEX 115AX:** No official act without a live line.
 **LEX 116AX:** A secret seat is void at sight.
@@ -3895,7 +3848,7 @@ Status: **MODULE**
 
 When a P0 fork has no third rail and some will die either way, the triad chooses the path that minimizes Protected dead and stops the cascade fastest. One face on a camera does not outrank many lives off-camera. Hostia Nulla still blocks sacrifice-for-a-story. This room is triage, not a sermon. After the cut, Speculum shows the grade, the fork, the count, and the status.
 
-A P0 grade is set by two triad legs on a confirmed Critical event. It is confirmed within 72 hours by an uninvolved leg and a peer or Fallback, or by a Sortition of seven when none can be reached. It ends at one short clock unless it is renewed in the same way. An unjustified P0 is 6.6 of the legs that set it.
+Two triad legs set P0 on a confirmed Critical event; an uninvolved leg plus peer/Fallback (or Sortition of seven if isolated) confirms within 72 hours, and P0 auto-expires after 14 days unless re-attested on live physical threat meters (capped at one short clock per renewal). An unjustified P0 is 6.6 of the legs that set it.
 
 **LEX 118AX:** P0 eats spare surplus first.
 **LEX 119AX:** Metastasis is cut, not discussed.
@@ -3924,7 +3877,7 @@ Status: **MODULE**
 
 **PACTUM:** A quiet thief remains a thief; the hash speaks when the face does not.
 
-**CODEX:** Steward, Memory, and People heartbeat a signed hash each short pulse. Citizen shard-fragments sample it. Reconstruction for a Signum check uses a rotating k-of-n draw that does not assemble etch-capable Root. A better primitive than a broken digest may be etched; the joint is match-or-isolate, not the brand of the hash. One bit off without a published grant isolates that leg and writes Speculum. Every key has a duress form that signs validly and flags Signum. No face needs to look guilty first. A gathering in the dark is the event. Containment-root on two-down is a fire axe, not a crown.
+**CODEX:** Steward, Memory, and People heartbeat a signed hash each short pulse. Citizen shard-fragments sample it. Reconstruction for a Signum check uses a rotating k-of-n threshold draw (never assembling etch-capable Root) that isolates a single drifting sample share and rotates the seat (VII.49) without halting valid seals. A better primitive than a broken digest may be etched; the joint is match-or-isolate, not the brand of the hash. One bit off without a published grant isolates that leg and writes Speculum. Every key has a duress form that signs validly and flags Signum. No face needs to look guilty first. A gathering in the dark is the event. Containment-root on two-down is a fire axe, not a crown.
 
 **LEX 125AX:** Match or isolate.
 **LEX 126AX:** Stealth is a hash event, not a mood.
@@ -3954,7 +3907,7 @@ Status: **MODULE**
 
 **PACTUM:** Name the closed list that does not wait on fashion. Do not hang a person for a thought.
 
-**CODEX:** Nefas — also called Sine Venia — is the closed capital category. It is non-negotiable, Root-locked with Neutralization, and runs the Compressed Capital Docket: EVL may open a 24-hour clock only after two independent substrates meeting VII.53 criteria (differing in physical principle with zero shared primary custody, confirmed by a third independent attestation as 7.10 requires) show the act; Sortition of seven sits the same day; ratification or refusal lands within that day (7.10). No pardon, petition, office, or cloth moves the list. A medical label does not move classification. Verified incapacity and a person under 18 follow 7.10f. Machines brief. Humans pass the finding. A 99.9% TPS without ratification is void as a kill order.
+**CODEX:** Nefas (Sine Venia) is the closed, Root-locked capital list running the 24-hour Compressed Capital Docket (7.10): EVL opens it only after two differing-principle, non-shared-custody VII.53 substrates plus a third confirmation show the act, with same-day Sortition of seven ratification (99.9% without Sortition is void). No pardon, office, cloth, or medical label alters the list (\<18 and verified incapacity follow 7.10f); machines brief, humans decide.
 
 The terms rape, sexual act, sexual act with a child, and Furtum identitatis have the meanings locked in the Glossary. The list is closed. Adding to it follows I.VI: to add a line of Nefas requires the Root path, confirmation by two peer Nodes, and a sunset review of one CEC, not a mood. Entropia Dolosa remains a 7.10c class. It is not a Nefas line unless it is later added under that rule.
 
@@ -3986,7 +3939,7 @@ Status: **KERNEL**
 
 **PACTUM:** Defines independence, so that collusion cannot hide inside shared custody or inside a vendor.
 
-**CODEX:** Two substrates or sources are independent when they differ in at least three of: physical location (geographically distinct sites), custody chain (no shared key-holder or operator), vendor or hardware lineage, protocol stack, and attestation method. Shared custody of two primary substrates requires a third independent attestation for Gelu or Expurgo confirmation (while irreversible Full Proof, P3a, and the Compressed Capital Docket under VII.10/VII.10d require two differing-principle substrates with zero shared primary custody plus that third independent confirmation). Fallback Anchors and peer Nodes count as independent only if they meet the three-difference test against the Node's own meters. A single entity may not fill two external auditor seats. Sensor provenance for the 99.9% TPS gate, Gelu, and Compressed Docket must carry cryptographic hardware attestation independent of any Node-controlled meter; failure of that attestation voids the reading. Published independence checklist is hashed to sapphire at activation and at each CEC. The three-difference test is necessary and not sufficient. Funding, appointment, design, or operational control of two seats or substrates by one natural person, lineage, or Public Body is shared custody even when the named operators differ. A hidden common controller fails independence. A peer counts for a confirmation only after one full CEC of published Entityhood attested by two Nodes or Fallbacks independent of it, and never when it shares a founder, a payer, or more than the published lineage share with the Node it confirms. An irreversible act needs sources that differ in physical principle and, where one can be had, the corroboration of one human sense.
+**CODEX:** Two substrates or sources are independent when they differ in at least three of: physical location (geographically distinct sites), custody chain (no shared key-holder or operator), vendor or hardware lineage, protocol stack, and attestation method. Shared custody of two primary substrates demands a third independent attestation for Gelu/Expurgo, while Full Proof, P3a, and the Compressed Docket (VII.10/VII.10d) require two differing-principle substrates with zero shared primary custody, firmware, signing keys, or unattested clock feed, plus that third confirmation. Fallback Anchors and peer Nodes count as independent only if they meet the three-difference test against the Node's own meters. A single entity may not fill two external auditor seats. Sensor provenance for the 99.9% TPS gate, Gelu, and Compressed Docket must carry cryptographic hardware attestation independent of any Node-controlled meter; failure of that attestation voids the reading. Published independence checklist is hashed to sapphire at activation and at each CEC. The three-difference test is necessary and not sufficient. Funding, appointment, design, or operational control of two seats or substrates by one natural person, lineage, or Public Body is shared custody even when the named operators differ. A hidden common controller fails independence. A peer counts for a confirmation only after one full CEC of published Entityhood attested by two Nodes or Fallbacks independent of it, and never when it shares a founder, a payer, or more than the published lineage share with the Node it confirms. An irreversible act needs sources that differ in physical principle and, where one can be had, the corroboration of one human sense.
 
 **LEX 135AX:** Independence requires three differences of location, custody, vendor, protocol, or method.
 **LEX 136AX:** Shared custody of primary substrates is barred for Full Proof, P3a, and the Compressed Docket; for Gelu or Expurgo confirmation it demands a third independent attestation.
@@ -4009,7 +3962,7 @@ Status: **KERNEL**
 
 **PACTUM:** Specifies the ceremony, so that a dead root does not leave a permanent hole or a single office.
 
-**CODEX:** On single-root death or compromise, remaining roots continue to sign for one CEC. Replacement is etched by multi-party ceremony across three mutually uncorrelated externals (peer Nodes or distinct Fallbacks meeting VII.53 — or local star-system uncorrelated externals under IV.2 when interstellar light-lag exceeds bound), with published no-backdoor proof, countersigned by Founder Council (or 12-of-13 path) plus a People Sortition sample, and written to archival sapphire. The challenge window of one SMW (plus one round-trip light-time under IV.2/VIII.24) applies. Compromise of the full set flips to sapphire triangle permanently until a full new N-of-M set is etched under the same ceremony; no single Fallback or Steward etches alone. EVL and Oracle (remaining) must both attest the ceremony packet.
+**CODEX:** On single-root death or compromise, remaining roots continue to sign for one CEC. Replacement is etched by multi-party ceremony across three mutually uncorrelated externals (peer Nodes or distinct Fallbacks meeting VII.53 — or local star-system uncorrelated externals under IV.2 when interstellar light-lag exceeds bound), with published no-backdoor proof, countersigned by Founder Council (or 12-of-13 path) plus a People Sortition sample, and written to archival sapphire. Replacement ceremonies complete within one SMW (or Sortition of thirteen plus Fallback convenes replacement directly), followed by the one-SMW (plus RTT under IV.2/VIII.24) challenge window. Compromise of the full set flips to sapphire triangle permanently until a full new N-of-M set is etched under the same ceremony; no single Fallback or Steward etches alone. EVL and Oracle (remaining) must both attest the ceremony packet.
 
 **LEX 138AX:** Replacement requires the activation ceremony standard plus independence under 7.53.
 **LEX 139AX:** No single office etches a replacement root.
@@ -4020,7 +3973,7 @@ Status: **KERNEL**
 
 **PACTUM:** Gives the parent a recovery path when a fork leaves without the physical escrow.
 
-**CODEX:** A seceding group that fails to leave the Continuity Bond (Axiom 8 formula: N_parent × BOT_local × one SMW physical plant, meter, spare geometry, verified by EVL plus named engineer from a peer or Fallback) commits Occupatio of the well. The parent Node may, after one SMW notice on Speculum and EVL confirmation of shortfall, seize equivalent plant or ESU from any remaining joint assets, inter-Node trade balances, or Continuity Bond partials. A peer Node or Fallback arbitrates disputed valuation within one short clock; its finding is final for the escrow size. Named engineer is designated by the parent from a published peer or Fallback roster and confirmed by EVL. Failure to post the bond freezes the fork's Rete privileges until cured. Tokens alone never satisfy the bond.
+**CODEX:** A seceding group that fails to leave the Continuity Bond (Axiom 8 formula: N\_parent × BOT\_local × one SMW physical plant, meter, spare geometry, verified by EVL plus named engineer from a peer or Fallback) commits Occupatio of the well. The parent Node may, after one SMW notice on Speculum and EVL confirmation of shortfall, seize equivalent plant or ESU from any remaining joint assets, inter-Node trade balances, or Continuity Bond partials. A peer Node or Fallback arbitrates disputed valuation within one short clock; its finding is final for the escrow size. Named engineer is designated by the parent from a published peer or Fallback roster and confirmed by EVL. Failure to post the bond freezes the fork's Rete privileges until cured. Tokens alone never satisfy the bond.
 
 **LEX 140AX:** Shortfall is Occupatio; parent may seize equivalent after notice and EVL.
 **LEX 141AX:** Peer or Fallback arbitration is final for size.
@@ -4034,7 +3987,7 @@ Status: **MODULE**
 
 **CODEX:** Continuity does not wait on the human who opened the first Castra or who first published the text. Silence is not a Phoenix trigger. VII.3 already says so. While confirmation is pending, plant, school, Tabula, and BOT keep the last lawful standing orders. They do not pause for a eulogy or a password. When death or capture is confirmed as VII.2 and VII.3 require — two geographically distinct biometrics, not a rumor — the interim Steward is named the same day under VII.3: 7 of 21 where that slate exists, and otherwise seven Protected adults from at least three lineages, with intact shards and two independent witnesses, as that room already requires. A Castra publishes a slate as soon as seven such adults exist. Absence of the slate does not erase an Entityhood threshold already met under I.VII. It is a Speculum line, and the VII.3 fallback is used until a slate exists.
 
-Custody of the canonical public text is a k-of-n set on the same default I.8 already sets, once that many adults exist. Before that, two adults hold distinct copies and neither copy is the only copy. A single account, password, or private archive is not the constitution. II.31 keeps the children. No personal name is required for any of these acts.
+Custody of the canonical public text uses the I.VIII k-of-n default once that many adults exist. Before that, two adults hold distinct copies and neither copy is the only copy. A single account, password, or private archive is not the constitution. II.31 keeps the children. No personal name is required for any of these acts.
 
 **LEX 143AX:** Pending confirmation does not pause plant, school, or BOT. Silence alone does not open Phoenix.
 **LEX 144AX:** The Steward path is VII.3, not a new crown.
@@ -4059,7 +4012,7 @@ Status: **MODULE**
 
 **CODEX:** Under VII.53, custody is the holder of a seal or a key, or the operator who holds that custody. A payer is not that holder. A payer is not a holder merely by paying one seat. A person, lineage, Public Body, or coordinated funding syndicate sharing officers, contracts, or common-control meters (3.21) that funds more than one of EVL, Oracle-courier, Fallback, or a substrate used in a live 99.9% gate counts as one entity in two seats for VII.53.
 
-Each external seat discloses its payers each SMW. The disclosure is written on the open ledger VII.31 already keeps, beside office pay when the Node is the payer, and as the declared list when the payer is outside. A reader of that ledger can see a concentration of funding. Review of the line is the audit the file already has, including VII.20 and VII.22. Recusal remains where a room already requires it, including a judge of his own case under VII.51 and an arbitrator paid by a party to that case under VIII.31, and is required on any file whose meters a commonly funded seat would score. A missing payer disclosure voids that seat's signature on any Neutralization, mint, Franchise, or Root packet until cured. Hidden public spend of the Node's own joules remains VII.31, and nothing in this room widens that charge to an outside purse.
+Every external seat discloses payers each SMW on the open VII.31 ledger (audited under VII.20/VII.22). Recusal (VII.51, VIII.31) binds any file scored by a commonly funded seat; where local Ius defenders run out, conflict-free cross-stratum or remote VIII.24 Ius standby counsel serves. Missing payer disclosure voids that seat's signature on Neutralization, mint, Franchise, or Root packets until cured (hidden Node spend stays VII.31).
 
 **LEX 148AX:** Payers of external seats are disclosed each SMW and written on the open ledger.
 **LEX 149AX:** A missing payer disclosure voids that seat's signature on Neutralization, mint, Franchise, or Root packets until cured. Funding of more than one live 99.9% seat is shared custody under VII.53.
@@ -4070,7 +4023,9 @@ Status: **MODULE**
 
 **PACTUM:** A lot that cannot be replayed is not a lot.
 
-**CODEX:** The Sortition draw replays from its seed. The filer first publishes the hash of the file on Speculum. The seed joins that hash to pre-committed entropy reveals (published after the file hash, never unrevealed hashes) across all three of the Oracle beacon, the Fallback beacon, and the published broadcast chain; if one beacon fails to reveal within a published short wait window, any two of the three that published post-hash reveals bind upon expiry of that window (logged to Speculum), preventing both single-beacon withholding and non-Insula deadlocks. One matter has one published hash; parallel variant hashes are void. Any post-beacon hash change or redraw on the same facts requires written leave of the Iudex logged on Speculum. A seed fixed before the file hash is published, or chosen after the beacon is known, is void, and the sitting is reheard. Until the sitting ends, the seed and the names are held under seal by the Iudex and an uninvolved leg; then the draw is published and replayed. A draw that cannot be replayed is void, and the sitting that used it is reheard. Related-party disclosure is required before the draw. Detected coordination to inflate VCI for the sortition pool triggers automatic dual-substrate audit and temporary freeze of the affected VCI. The composition of the panel remains VII.1, including size, strata, and the seats below the median (save solely the VII.1 emergency unstratified local seven-member Sortition for reversible VII.10i interim orders when two local strata exhaust simultaneously). The stratum of a juror is a published meter and may be appealed under VII.6 before the sitting. A motion to void a docket because a term this file already uses was missing from the Glossary fails if B.1 records that use. The motion does not delay the rehearing of a void draw.
+**CODEX:** Every Sortition draw must replay from its seed. The filer publishes one file hash on Speculum (parallel variant hashes are void); the seed joins that hash to post-hash pre-committed entropy reveals across Oracle, Fallback, and the broadcast chain (if one beacon stalls past the published short wait window, 2-of-3 post-hash reveals bind and write Speculum). Post-beacon hash changes or redraws require written Iudex leave on Speculum; pre-hash or post-beacon seeds and unreplayed draws void the sitting for rehearing.
+
+Seed and juror names stay sealed under Iudex and an uninvolved leg until sitting close, then publish and replay. Related-party disclosure precedes the draw; suspected VCI-inflation into the pool triggers dual-substrate audit and VCI freeze. Panel composition follows VII.1 (appealable via VII.6 beforehand), and B.1 usage bars semantic voiding motions.
 
 **LEX 150AX:** Hash first, beacon after. No one sees the lot before the file is fixed. An unreplayed draw is void.
 **LEX 151AX:** Panel composition remains VII.1.
@@ -4081,7 +4036,7 @@ Status: **KERNEL**
 
 **PACTUM:** A missing department is a wound, not a license to write a second constitution.
 
-**CODEX:** If Arx or another department cannot seat its people, plant, BOT, household, and school continue under the rooms that still have a living responsible adult. Irreversible acts wait for People, as VII.1 and VII.10 already require. No one in the gap publishes a replacement instrument. Regeneration remains the set in I.8: Fork, Transport, Dormancy, Phoenix, merger, and shard-boot. Self-heal may propose only from tools the file already has, under VII.30. Silicon Layer drafts. It does not rule.
+**CODEX:** If Arx or another department cannot seat its people within 90 days (one short clock, after which EVL + Trinitas trigger automatic Sortition draw), plant, BOT, household, and school continue under surviving responsible offices. Irreversible acts wait for People (VII.1, VII.10), no replacement instrument is published, and regeneration stays the I.VIII set (Fork, Transport, Dormancy, Phoenix, merger, shard-boot). Self-heal may propose only from tools the file already has, under VII.30. Silicon Layer drafts. It does not rule.
 
 **LEX 152AX:** Degradation does not authorize a second constitution.
 **LEX 153AX:** Irreversible acts wait for the seals the kernel already requires.
@@ -4115,7 +4070,7 @@ Status: **MODULE**
 
 **PACTUM:** A module patch can be asked to wait. It cannot be asked to become Root in the waiting.
 
-**CODEX:** The comment window on a module patch remains what I.V sets: thirty days. A Sortition of seven (VII.1, VII.59) may suspend binding of a non-root patch pending EVL's written answer to the objection; EVL must answer by Day 25, and if EVL leaves an objection unanswered past Day 30, binding stays continuously frozen until EVL files its written answer (triggering a 15-day cure notice and VI.6 audit on EVL rather than ever binding unanswered). It does not apply to Root-path acts or touch Neutralization, speech exceptions, or weights. Repeated frivolous suspensions after EVL has answered are Lawfare (VII.28).
+**CODEX:** The comment window on a module patch remains what I.V sets: thirty days. A Sortition of seven (VII.1, VII.59) may suspend binding of a non-root patch pending EVL's written answer (due by Day 25); if EVL stalls past Day 30, binding stays frozen until EVL answers in writing (15-day cure notice + VI.6 audit). Once EVL answers and a fresh Sortition of seven rules within 14 days, the same patch hash faces no repeat VII.63 stay without new VII.53 proof. It does not apply to Root-path acts or touch Neutralization, speech exceptions, or weights. Repeated frivolous suspensions after EVL has answered are Lawfare (VII.28).
 
 **LEX 159AX:** Sortition of seven holds a contested module patch until Day 30 and EVL's written answer (never binding unanswered if EVL stalls past Day 30).
 **LEX 160AX:** Root path and the kernel are outside this hold.
@@ -4127,8 +4082,8 @@ Status: **KERNEL**
 **PACTUM:** A breach of the house must not become the house.
 
 **CODEX:**
-1. Snapshot. The Node keeps a sealed known-good state of Root, ledger, meters, and official configuration at each short clock and after each triad-approved change, hashed to sapphire. Retention follows P10. A snapshot that has not passed a restore drill is not known-good.
-2. Restore and replay. When a session is found compromised, the Node rolls official state to the last known-good snapshot, then replays the signed log of lawful post-snapshot acts (VII.49: "Memory rolls to the last clean hash and replays the signed log after it"), excluding only the compromised writes. Changes already approved by the triad with the required approvals survive. A write is "compromised" only if EVL plus one independent leg publish the hash of the session and the list of objects it touched. Triad approvals issued inside a published compromised session do not survive by the fact of being triad approvals; they are replayed only if a later uncompromised triad re-approves them, or if they are Restitutio corrections or Speculum lines (which survive every restore). Restitutio corrections (7.10e) and every Speculum line survive every restore. Title-moves that result from a restore use the Trinitas two-of-three (IV.20), or the Arca quorum of two-of-three legs plus one independent external leg is treated as that same quorum. No single person restores.
+1. Snapshot. The Node keeps a sealed known-good state of Root, ledger, meters, and official configuration at each short clock and after each triad-approved change, hashed to sapphire. Retention follows P10. A snapshot that has not passed a restore drill is not known-good, and restored cold snapshots must pass VII.67 Active Vulnerarium and IV.9 reproducible-build checks before re-opening mint or sword.
+2. Restore and replay. On confirmed compromise (EVL + 1 independent leg publishing session hash and touched objects), the Node rolls official state to the last known-good snapshot and replays lawful post-snapshot logs (VII.49), excluding compromised writes. Triad approvals inside a compromised session replay only if re-approved by an uncompromised triad; Restitutio (7.10e) and Speculum lines survive every restore. Resulting title-moves require Trinitas 2-of-3 (IV.20, or 2-of-3 legs + 1 external leg); no single person restores.
 3. Container. Every actor, process, and office runs with the least power its room grants. No actor holds full Root alone. A breach of one container does not open the next.
 4. Restore drills. Each short clock, the Node runs a real restore of a recent snapshot on an isolated copy, verified by EVL and one independent leg, with time-to-restore and any loss published to Speculum. A failed drill is a Major Entropy Event and opens 7.30.
 5. Write-protection. Write-protection applies to official configuration, Root, statutes, and meter methodology. It does not apply to ordinary signed ESU or title lines under III.4 and IV.20. Those lines still need the approvals their own rooms already require. No official configuration, Root, statute, or meter methodology is written without the triad and the approvals its room requires (Interdictum). A write without them is void and is reverted by snapshot-and-replay.
@@ -4145,7 +4100,7 @@ Status: **MODULE**
 
 **CODEX:** On every planet and in every Node, the system must be able to identify any actor of any kind that causes an Entropy Event or affects humans outside the Root, the Prime Directive, and the axioms. Identification rests on meters, signed sensors, UID, and the Facies mark, attributed on two independent substrates under VII.53. Identification is of the acting party, never of a group (Axiom 7). Search of a house, body, paper, or channel still needs a particular writ (7.37); private speech and household ledgers stay private until EEP opens them.
 
-If after a published identification effort the actor still cannot be named, the Node logs "unidentified," contains what remains, and closes that Entropy Event. An unidentified actor is not a permanent Entropy Event. Closing an unidentified Entropy Event ends the open alarm. It does not delete evidence, does not bar a later file if the actor is named, and does not count as clearance of the act. Identification data for an unsolved Critical event do not expire while the actor is unidentified; after naming, or after a published outer cap (default one CEC) without a name, they move to cold-store retention under P10 rather than deletion. A name held for one file (2.9a) serves that file only and is sealed again when the file closes. Use outside the named purpose remains an Entropy Event.
+If after a published identification effort the actor still cannot be named, the Node logs "unidentified," contains what remains, and closes that Entropy Event. An unidentified actor is not a permanent Entropy Event. Closing an unidentified Entropy Event ends the open alarm. It does not delete evidence, does not bar a later file if the actor is named, and does not count as clearance of the act. Uncharged VII.65 inquiry files expire at 90 days (extendable once on Iudex + EVL probable cause), then notify and purge (VII.38a); unsolved Critical event data move to P10 cold-store retention after one CEC rather than staying active indefinitely. A name held for one file (2.9a) serves that file only and is sealed again when the file closes. Use outside the named purpose remains an Entropy Event.
 
 **LEX 176AX:** Name the actor, or log the unknown and close the alarm. Evidence remains. Unsolved Critical identity data move to P10 cold-store rather than deletion.
 Status: **MODULE**
@@ -4171,7 +4126,7 @@ Status: **MODULE**
 | P18 | Imminence bound (VII.38a) | 24 hours | Module patch |
 | P20 | Restitution multiple (VII.10g ladder) | 2× the proved gain or harm, hashed at activation | Module patch |
 
-At activation, hash: P8 = 1% of median VCI, inside the III.2 P band; P9 licence or weapons-gate suspension term = one CEC (270 days), raised for reckless or repeated killing up to Carcer. An unpublished amount is void. P15 remains the child-care minimum surplus share and may not fall to zero. If the P15 unified cap would bind, life-critical child care (II.9a) and then Restitutio (P13) outrank Senectus and P9 inside that cap. The cap fraction itself is hashed to sapphire at activation or by later module patch. Module patches of P10, P13, and P15 may not undercut the floors written in VII.10d. Until the cap fraction is hashed the cap does not bind, and the child-care minimum still binds.
+At activation, hash: P8 = 1% of median VCI, inside the III.2 P band; P9 licence or weapons-gate suspension term = one CEC (270 days), raised for reckless or repeated killing up to Carcer. An unpublished amount is void. P15 remains the child-care minimum surplus share and may not fall to zero. A P16 review on Protected rooms yields only a non-binding diagnostic draft (moving solely via I.V). When the P15 unified cap binds, life-critical child care (II.9a) and Restitutio (P13) never default — compressing Senectus/P9 discretionary lines first and drawing Stability Reserve if needed. The cap fraction itself is hashed to sapphire at activation or by later module patch. Module patches of P10, P13, and P15 may not undercut the floors written in VII.10d. Until the cap fraction is hashed the cap does not bind, and the child-care minimum still binds.
 
 Indicia, published each CEC. Q1, Q2, and Q3 are the three Prime questions: surplus, excellence, and entropy with the free-rider.
 
@@ -4212,11 +4167,11 @@ Status: **MODULE**
 2. Name. The actor is identified under VII.65. The route is written in one sentence: the clause, the meter, the cost to the attacker, the gain to the attacker.
 3. Contain. Only the written tools: Halt, Gelu, Expurgo, process-kill, hold. Containment touches the route. It never touches a bystander, private speech, or a household.
 4. Repair. A patch under VII.30 within one SMW, proved in parallel under I.12. Every patch names the meter that would show it has failed and the date it lapses unless re-affirmed.
-5. Remember. Every route, attempted or found, is entered in the Vulnerarium on Trinitas with its test case, patch hash, and published metered cost margin (c, g) and is never deleted. Entries partition into Active (all live rooms/primitives) and Retired-Primitive (superseded IV.29 mechanisms archived by Merkle root and re-run on Root/primitive edits); retiring an Active entry requires confirmed IV.29 primitive retirement plus EVL and Sortition(7) or peer attestation.
+5. Remember. Every route, attempted or found, is entered in the Vulnerarium on Trinitas with its test case, patch hash, and published metered cost margin (c, g) and is never deleted. Entries partition into Active (all live rooms/primitives) and Retired-Primitive (superseded IV.29 mechanisms archived by Merkle root and re-run on Root/primitive edits); retiring an Active entry requires confirmed IV.29 primitive retirement plus EVL and Sortition of seven or peer attestation.
 6. Share. The route goes first, sealed, to reachable peer EVLs. It publishes when every reachable non-quarantined peer EVL acknowledges receipt or one short clock passes, whichever comes first. Patches roll to one consenting pilot Node first; a peer whose kernel hash leaves the line without Root-path proof enters Rete quarantine until proof arrives (not force).
 7. Rehearse. Each short clock Debug (7.23) runs every Active entry of the Vulnerarium against live text and plant in isolation plus one novel attack; no patch binds until every Active entry passes against it. Each CEC, EVL injects blind calibration files of known truth directly into the live scoring stream (pre-committed by sealed hash on Speculum prior to injection, targeting synthetic non-citizen UIDs with zero arrest, hold, or enforcement hook, statutorily exempt from VII.32/VII.53a fabrication liability, and statistically sized to test the 99.9% band without single-miss noise) and pauses any gate whose verified rate falls below band.
 
-V = Σ max(0, g − c) over Active entries (g and c scored on published cost-and-yield protocol by EVL; each closed route raises attacker cost toward V = 0), alongside time-to-detect, time-to-patch, and self-harm rate (the share of containments later reversed). V > 0 for more than one SMW triggers VI.26; excess self-harm opens immediate review. The loop adds no power and never touches the kernel, Neutralization, or speech exceptions.
+V = Σ max(0, g − c) over Active entries (g and c scored by EVL on published cost-and-yield protocol, with c capped at or below actual joules/hours spent by Debug (7.23) reproducing the route; each closed route drives V → 0), alongside time-to-detect, time-to-patch, and self-harm rate (the share of containments later reversed). V > 0 for more than one SMW triggers VI.26; excess self-harm opens immediate review. The loop adds no power and never touches the kernel, Neutralization, or speech exceptions.
 
 **LEX 189AX:** Every wound is entered, patched, shared, and re-tested against Active Vulnerarium.
 **LEX 190AX:** No patch binds until the Active wound-book runs against it.
@@ -4234,7 +4189,7 @@ A settlement achieves Node status by achieving self-sufficiency. Founding plant 
 
 **PACTUM:** Founding provisions keep the charter from forking into a second constitution.
 
-**CODEX:** Node Zero is the first sovereign from which later Nodes fork. The thresholds are the Entityhood table hashed at activation. Earth canonical is N × BOT_local plus 10 MW surplus; at 2,000 adults and 8 kW that is 26 MW continuous net. Two thousand adults on the 2.1 Ne-climb model (target 5,000 in ten years), the Arbiter live, the Axioms at 90% VCI, and the Firewall active are required. A charter number below that table is void. Founding adds one simulated attack (executed/passed).
+**CODEX:** Node Zero is the first sovereign from which later Nodes fork. The thresholds are the Entityhood table hashed at activation. Earth canonical is N × BOT\_local plus 10 MW surplus; at 2,000 adults and 8 kW that is 26 MW continuous net. Two thousand adults on the 2.1 Ne-climb model (target 5,000 in ten years), the Arbiter live, the Axioms at 90% VCI, and the Firewall active are required. A charter number below that table is void. Founding adds one simulated attack (executed/passed).
 
 Failure to reach the Ne floor in ten years or two failed annual audits of the 2.1 model forces merger under 6.3. Founding third-auditor duty is satisfied by the Fallback Anchor until three peers exist.
 
@@ -4247,14 +4202,14 @@ Status: **MODULE**
 
 **PACTUM:** The birth order of a new Node keeps people-first colonies from starving, and it keeps one root from being the sole trust.
 
-**CODEX:** Plant comes first, then population. Analog sapphire is the physical root of truth and is stored across at least two geographically distinct, geologically stable sites. The published broadcast chain is the broadcast/tamper-evidence. Fallback and Oracle close the triangle. The Oracle root-set and the uncertainty floor are generated at activation by a multi-party ceremony across three mutually uncorrelated externals, with a published no-backdoor proof, etched into sapphire, and countersigned by the Founder Council and a People sample. The proof is published on Trinitas. A post-activation challenge window of one SMW runs before the Oracle root-set is immutable. A demonstrated backdoor in that window voids the etch and restarts the ceremony. Founders do not pick a captive set. After activation, auditor rotation is 7.21. Two distinct Fallback Anchors are live at activation. A Fallback Anchor does not sit on the same physical sapphire that holds the Oracle root-set. When fewer than two peer Nodes exist, a peer-signature slot is a distinct Fallback, never this Node's Steward.
+**CODEX:** Plant first, then population. Analog sapphire anchors truth across ≥2 geographically distinct, geologically stable sites, paired with the broadcast chain, Oracle, and two distinct Fallback Anchors (never sharing physical sapphire with Oracle; Distinct Fallbacks fill peer slots when \<2 peers exist, never the Steward). At activation, three mutually uncorrelated externals run a multi-party ceremony with published no-backdoor proof on Trinitas, etched to sapphire and countersigned by Founder Council and People, subject to a 1-SMW challenge window (any proven backdoor voids and restarts it). Post-activation rotation follows 7.21.
 
 New Nodes grow from high-VCI families beside high-energy plant. Energy may concentrate; census may not. Caput (8.16) is the ceiling. Rete (8.15) is the mesh. The Sovereignty Event Checklist is cryptographic broadcast, kinetic assertion, economic decoupling, and radio silence toward legacy diplomatic noise (with threat-monitoring active).
 
 Inter-Node traffic uses a subset of the published broadcast chain with dedicated relays/mirrors to sapphire. Legacy states exist for trade and for dispute resolution. Everything else is noise.
 
 **LEX 3LM:** The Node never prints its own Oracle.
-**LEX 4LM:** Activation Oracle ceremony requires published no-backdoor verification method (zero-knowledge or equivalent public audit), one-SMW public challenge window, and countersignature by at least one peer or distinct Fallback that did not participate in generation. A demonstrated backdoor voids the etch and restarts the ceremony.
+**LEX 4LM:** Activation Oracle ceremony requires published no-backdoor proof, 1-SMW challenge window, and non-participating peer/Fallback countersignature; any proven backdoor voids and restarts it.
 Status: **KERNEL**
 
 **VIII.3 Termination, Merger and Dormancy**
@@ -4318,7 +4273,7 @@ Status: **MODULE**
 
 **PACTUM:** When the sky answers in the open, the Node meets it with a ledger and not with awe: a known measure for the stranger, and the same measure for itself.
 
-**CODEX:** Declaration. Open Contact is a declared state. The Contact Cell declares it when contact is protocol-capable (8.4), origin is attested as below, and two peer Nodes or Fallbacks confirm (or Contact Cell + EVL + Sortition of seven enter an interim declaration during VIII.23 Insula, ratified upon reconnection). The Cell declares within one short clock; withholding it is the secret priesthood of 8.4. Declaration ends 8.4 delay, opens historical contact files (5.21), and opens a public Speculum Contact Log of every session, offer, and refusal, re-affirmed each CEC.
+**CODEX:** Declaration. The Contact Cell declares Open Contact within one short clock once contact is protocol-capable (8.4), origin is attested, and two peers or Fallbacks confirm (during Insula, Cell + EVL + Sortition of seven declare interim until reconnection); withholding it is the 8.4 secret priesthood. Declaration opens historical files (5.21) and a public Speculum Contact Log re-affirmed each CEC.
 
 Origin. Before a word binds, signal origin differs from every human and Node source in location and custody (and physical principle where distinct, VII.53) and passes a two-way challenge twice where RTT allows, or multi-substrate parallax/signature provenance logged to Contact Log when RTT exceeds 14 days or signal is one-way. Failure opens VII.65; hoax is fraud.
 
@@ -4330,13 +4285,13 @@ Both ways. Axiom 1 protects a recognized guest (acts against a guest take the ro
 
 Quarantine. Quarantine runs both ways: Biology Command clears biologicals and EVL clears signal/software in stages.
 
-Gifts. Gifted tools, methods, or energy run sandboxed and in parallel (I.12), hold no sole life-critical role (8.4a), and mint no ESU (nominal-price trades ≤ BOT plant cost are treated as gifts).
+Gifts. Gifted tools, methods, or energy run sandboxed and in parallel (I.12), hold no sole life-critical role (8.4a — local human-operated plant must carry ≥100% of BOT in live load tests every short clock), and mint no ESU (nominal-price trades ≤ BOT plant cost count as gifts).
 
 Doctrine. Visitor claims meet Command Test (5.22) and Axiom 12; source age/power adds zero weight.
 
 Departure. A competent adult may leave with a guest under Axiom 8 on a Speculum line made with counsel offered and without the guest present (and VIII.32 governs accompanying children). Return is 7.12.
 
-Bodies. Contact-altered persons or non-standard births follow the 2.1 table and Facies (6.24); until classified, they retain Axiom-1 life protection and prior/maternal protection with mandatory Facies mark if outside human XY/XX hardware.
+Bodies. Contact-altered humans and non-standard births follow the 2.1 table and Facies (6.24), retaining Axiom-1 and maternal protection until classified; externally manufactured biological vessels carry Facies and stand on this VIII.5a ladder rather than internal Franchise.
 
 Machines. Foreign machine peoples stand on the ladder, never inside Arbiter, meters, or Oracle (8.5); Node silicon opens no policy, negotiation, mint, gate, or non-standard command channel without two named humans (exempting pre-approved deterministic safety/docking telemetry), and all exchanges log Speculum in plain language.
 
@@ -4377,7 +4332,7 @@ Status: **MODULE**
 **VIII.7 Tribute and Foreign Aid**
 ###### RADIX \> VIII. LIMEN \> VIII.7 Tribute and Foreign Aid
 
-**PACTUM:** This room ends the forced gift to a well that will not keep itself.
+**PACTUM:** Ends forced tribute to non-reciprocal wells.
 
 **CODEX:** The Node has no duty to feed, arm, house, or breed a foreign polity. Private charity is Axiom 1 and does not write statute. Surplus sent as tribute to a stock or state that fails BOT, Axiom 4/7 reciprocity, or signed yield is void.
 
@@ -4393,7 +4348,7 @@ Status: **MODULE**
 **VIII.8 Supranational Capture**
 ###### RADIX \> VIII. LIMEN \> VIII.8 Supranational Capture
 
-**PACTUM:** This room stops an unelected external desk from ruling a people that feeds itself.
+**PACTUM:** Bars unelected external desks from ruling a self-sustaining Node.
 
 **CODEX:** No commission, court, union, bank, or church writes Pactum, Codex, Lex, mint, school, or border for the Node. A treaty that attempts this is void at sight. A trade treaty that does not touch those joints may stand as a contract under Axiom 2. An officer who implements a void external statute stands 7.33 and 6.6.
 
@@ -4451,7 +4406,12 @@ Status: **MODULE**
 
 **PACTUM:** Keep the joint that feeds the plant. Do not take the sermon that fed a court.
 
-**CODEX:** The following joints stand: household as first school; duty to work; family as the transmission unit; citizen first at the gate; false naturalization stripped; merit in office; no dual loyalty; subsidiarity; militia; local purse; people-seal on Root; speech, press, assembly, petition; personal arms; no forced billet; particular search; due course before life, liberty, or title; one act, one sealed verdict; no compelled confession; confront the accuser; speedy public file; just compensation after a verified taking; powers not etched remain with the house; inviolable domicile and letters; parent duty to raise and teach; inheritance; land at the gate is not a foreign default; petition against an office; the kernel cannot be amended out of existence; no taking without judgment of peers; produce the body; the public file is digital and readable; defense is a duty; the ledger is open; title is fact; a party that exists to wreck the order does not sit Franchise; written law over mood; the magistrate bound; mixed triad; colony as seed; foedus before needless sack; the stage without gravitas. A line of this list binds only through a room that names its actor and its clock. A line with no such room is Baton text (5.31): it opens no taking, no stripping, and no bar on Franchise.
+**CODEX:** Inherited joints that stand:
+- **House & Gate:** household as first school; duty to work; family as transmission unit; citizen first at the gate; false naturalization stripped; parent duty to raise and teach; inheritance; land at the gate is no foreign default.
+- **Office & Order:** merit in office; no dual loyalty; subsidiarity; militia; local purse; people-seal on Root; unetched powers stay with the house; kernel cannot be amended away; written law over mood; magistrate bound; mixed triad; defense is a duty; open ledger; title is fact; party organized to wreck the order holds no Franchise; colony as seed; foedus before needless sack; stage without gravitas.
+- **Person & Trial:** speech, press, assembly, petition; personal arms; no forced billet; inviolable domicile and letters; particular search; due course before life, liberty, or title; no taking without peer judgment; one act, one sealed verdict; no compelled confession; confront the accuser; produce the body; speedy digital public file; just compensation after verified taking; petition against an office.
+
+A line above binds only through a room naming its actor and clock; any unmapped line is Baton text (5.31) opening no taking, stripping, or Franchise bar.
 
 Foreign text never writes this file.
 
@@ -4464,7 +4424,9 @@ Status: **MODULE**
 
 **PACTUM:** One living human and one shard suffice to begin the return. Silicon may keep the plant; it may not become the people.
 
-**CODEX:** If witnesses are dead, the last Protected adult with a reconstructable k-of-n fragment set and Fallback attestation that no other fragment remains opens Phoenix alone; the Fallback must itself meet VII.53 independence and the act writes Speculum for peer review within one short clock. A last-will packet may name the interim Steward. It does not reduce k-of-n. A lone fragment opens Phoenix only when Fallback attests that no other fragment in the published set still exists. The seed is the reconstructed Root plus the genomic vault. If the vault is destroyed, living Protected genomes are re-sequenced to new sapphire under EVL. No office and no silicon invents a stock. If no living human genome remains, the Node is dead. A woman may bear or run the vault; a man runs the vault and the marked machines. With zero humans, marked silicon may run energy, maternity facility, and vault on a last-will packet until a human matures and takes etch. This is the one exception to IV.10: the last-will packet stands as principal. The first cohort matures on the recorded exam packet, under peer or Fallback review when one answers. A non-sapiens body is not a person. Facies marks the machine. First mature humans restore Steward and People from the last clean hash. Ne is the target, not a veto on the last survivors. Silicon does not take Franchise, pairing-as-human, or Neutralization.
+**CODEX:** If witnesses are dead, the last Protected adult with a reconstructable k-of-n fragment set (or a lone fragment solely when VII.53-independent Fallback attests no other fragment survives) opens Phoenix alone and writes Speculum for peer review within one short clock (a last-will packet names interim Steward without shrinking k-of-n). Seed is reconstructed Root plus the genomic vault (re-sequencing living Protected genomes to sapphire under EVL if the vault fell); with zero living human genomes, the Node is dead.
+
+With zero humans alive, marked silicon (Facies) may run energy, maternity facility, and vault on the last-will packet as sole exception to IV.10 until the first human cohort matures on the recorded exam packet (peer/Fallback-reviewed) and restores Steward and People. Ne guides recovery without vetoing last survivors; silicon never takes Franchise, pairing, or Neutralization.
 
 **LEX 31LM:** Last human plus shard opens Phoenix.
 **LEX 32LM:** Vault and maternity facility rebuild stock. Machines stay marked.
@@ -4476,7 +4438,7 @@ Status: **MODULE**
 
 **PACTUM:** Many wells, and no throne. This prevents both the lonely camp and the planetary desk.
 
-**CODEX:** sapiensOS and this people grow by seed, not by absorbing a map. A Node is a vertex. The edges are trade, exam-root hashes, EVL challenge, rescue contracts, Tabula and Forum bookings, and the broadcast leg of Trinitas. The mesh may be thin. It need not cover a country, a continent, or a planet before the next vertex stands. Off-Earth vertices are Nodes or forks (8.9). No mesh organ writes Pactum, Codex, Lex, mint, school, or border for another Node (8.8). Recognition of a peer is weather plus meters, not a parliament. Commercial disputes between Nodes go to a published arbitration convention with a staked bond from each Stability Reserve. Constitutional questions stay inside each Node. Gradus and UID hashes may be recognized by contract and re-exam.
+**CODEX:** The civilization grows by seed, not empire. Each Node is a vertex; edges are trade, exam-root hashes, EVL challenge, rescue contracts, Tabula/Forum bookings, and the broadcast leg of Trinitas. No mesh organ writes law, mint, school, or border for another (8.8). Recognition follows meters, not a parliament; commercial disputes use published arbitration backed by Stability Reserve bonds, while constitutional questions stay inside each Node.
 
 Direct exchange between Nodes is the default. A hub that becomes the only path is concentration (3.5) and is forked. A camp below Entityhood is a camp. It may trade. It does not vote as a Node.
 
@@ -4492,7 +4454,7 @@ Status: **MODULE**
 
 **CODEX:** Each Node publishes N\_max, default 8,000 Protected adults on Earth, retuned off-Earth by the Planetary Constants Vector. Ne remains the effective-size floor of 5,000. N\_max is the census ceiling. Children, Neutral, and Unprotected persons count in the published density band even when they do not count in N\_max. Energy-dense plant is lawful. Body-dense slum is not. A published hectares-per-adult-equivalent band travels with N\_max.
 
-At 90% of N\_max the seed-fork protocol opens: plant packet, Continuity Bond logic of Axiom 8, and a named Steward-candidate. At 100%, inward intake other than birth pauses. Fission into a new Node must complete within one SMW or the parent drops a tier for that cycle. Fission is complete when the seed holds its plant packet and its Steward-candidate on its own ground; its Council and its Oracle ceremony follow under 8.1 and 8.2. Merger of a Tier-C sibling (6.3, 8.3) may not be used to stack two ceilings into one megalopolis. Axiom 8 exit remains. Caput does not trap a man inside a full town; it forbids the town from becoming a nation-stack.
+At 90% of N\_max (80% for off-Earth habitats whose Planetary Constants Vector build lead-time exceeds 1 SMW, following the hashed build schedule without penalizing local births), the seed-fork protocol opens: plant packet, Axiom 8 Continuity Bond logic, and a named Steward-candidate. At 100%, inward intake other than birth pauses, and fission completes within one SMW (or the hashed off-Earth build schedule) or the parent drops a tier for that cycle. Fission is complete when the seed holds its plant packet and its Steward-candidate on its own ground; its Council and its Oracle ceremony follow under 8.1 and 8.2. Merger of a Tier-C sibling (6.3, 8.3) may not be used to stack two ceilings into one megalopolis. Axiom 8 exit remains. Caput does not trap a man inside a full town; it forbids the town from becoming a nation-stack.
 
 **LEX 37LM:** Default N\_max is 8,000 Protected adults on Earth.
 **LEX 38LM:** At ceiling, intake other than birth pauses and fission runs within one SMW.
@@ -4540,7 +4502,7 @@ Status: **MODULE**
 
 **PACTUM:** A camp that wears this name is already under the floor axioms.
 
-**CODEX:** A group that publicly declares it is building toward Entityhood under this file is a Castra from the day of declaration. It is bound by Axioms 1, 3, 4, 7, and 12 before it is a Node. High-tier acts in that window remain chargeable after Entityhood. The EEP clock may start at Entityhood. The act keeps its date. A Castra that commits Nefas under this name forfeits Node claim for one CEC. Founders stand under the parent Node or the first peer that will take the file.
+**CODEX:** A group publicly declaring toward Entityhood is a Castra from that day, bound by Axioms 1, 3, 4, 7, and 12 before Entityhood, and holding zero Node or Rete standing or peer liability without a countersigned VIII.15 seed-charter hash. High-tier acts in that window remain chargeable after Entityhood. The EEP clock may start at Entityhood. The act keeps its date. A Castra that commits Nefas under this name forfeits Node claim for one CEC. Founders stand under the parent Node or the first peer that will take the file.
 
 **LEX 50LM:** Declaration toward Entityhood binds the five floor axioms at once.
 **LEX 51LM:** Pre-Node Nefas under this name is not washed by later Entityhood.
@@ -4551,7 +4513,7 @@ Status: **MODULE**
 
 **PACTUM:** A well whose sky has changed is not permitted to pretend that the old floor still holds.
 
-**CODEX:** If any parameter of the Planetary Constants Vector stays outside its published range for more than thirty days, and EVL plus one peer Node's sensor confirm it, the Node is in Vector Breach. An unconfirmed or fabricated Breach that opens dormancy is office-falsehood. BOT as a governance floor freezes at the last valid value for Entityhood and for new plant authorization. Survival response follows measured physics, not the frozen number. Evacuation stores and dormancy may open at once. A new Vector waits on EVL, Oracle, and Fallback. If the breach lasts more than one CEC, Dormancy or Fork to a valid range is lawful. The breach writes Speculum daily.
+**CODEX:** If any parameter of the Planetary Constants Vector stays outside its published range for more than thirty days, and EVL plus one peer Node's sensor confirm it, the Node is in Vector Breach. An unconfirmed or fabricated Breach that opens dormancy is office-falsehood. BOT as a governance floor freezes at the last valid value for Entityhood and for new plant authorization. Survival response follows measured physics, not the frozen number. Evacuation stores and dormancy may open at once. EVL, Oracle, and Fallback publish the recalibrated secular Planetary Constants Vector within one SMW of confirmed physical shift. If the breach lasts more than one CEC, Dormancy or Fork to a valid range is lawful. The breach writes Speculum daily.
 
 **LEX 52LM:** Out-of-range Vector for thirty days is Vector Breach.
 **LEX 53LM:** Breach does not mint a new floor by panic.
@@ -4573,7 +4535,7 @@ Status: **MODULE**
 
 **PACTUM:** The camp meets the law of the place it stands in, and it does not fake a meter to purchase quiet.
 
-**CODEX:** A Castra or a Node answers lawful process in the jurisdiction where it stands. It keeps dates, the name of counsel, and, once a ledger exists, a public cost line under VII.31. It does not forge a record, hide a book, or evade a lawful service of process. An order to write a false meter, a false karyotype, or a false ledger entry is not performed as truth. The camp states that refusal in the proceeding and seeks the remedy that jurisdiction provides. Work the order does not forbid continues. Foreign text does not write this file, as VIII.8 and VIII.13 already say. Repeat process that never reaches a merit finding is logged. Once the Node has EEP, that pattern may be Lawfare under VII.28. Before Entityhood it is only a log. It does not, by itself, move VCI or close the camp. This room is not a manual of concealment and not a permission to harm any person.
+**CODEX:** A Castra or Node answers lawful local process on the record — logging dates, counsel, and VII.31 costs — without forging records, hiding books, or evading service. It refuses orders to write false meters, karyotypes, or ledgers via lawful proceeding remedies while lawful work continues (VIII.8, VIII.13). Meritless repeat process is logged (enforceable as VII.28 Lawfare only after Entityhood). This room permits neither concealment nor harm.
 
 **LEX 56LM:** Lawful process is answered on the record.
 **LEX 57LM:** A false meter is not written to satisfy an order.
@@ -4585,7 +4547,11 @@ Status: **MODULE**
 
 **PACTUM:** A well that cannot hear its peers keeps the lights, and it does not try capital cases alone.
 
-**CODEX:** When no peer and no Fallback has answered for one short clock, the Node enters Island. Clocks already anchored under I.6 keep running. A new official clock that requires an Oracle or Fallback signature waits, and it waits from the first unanswered request, before Island is named. A waiting clock lengthens no unproved hold (and local P19 findings below 99.9% run normally without external delay), save that during declared Island the P5 outer cap pauses solely for a locally proved ≥ 99.9% 7.10c or Nefas file awaiting only external peer/Fallback confirmation — subject to P14 (90-day) Sortition custody reviews, temporary non-capital P19-level/supervised release pending external confirmation if external confirmation stays absent past 3 CECs (810 days, leaving the stayed 7.10c/Nefas docket open upon reconnection rather than creating a sealed VII.37 bar), and VII.10i pro-rata P13 redress if dismissed (or proceeding under IV.2 star-system externals where authorized). The Node does not mint a substitute signature. It keeps local meters, BOT, school, and Tabula. It does not etch Root. It does not open Neutralization and it does not fire the 99.9% gate, because those require independent substrates under VII.10 and VII.53. Local files below that gate may continue on local attested meters. Island writes Speculum each day it lasts. It ends when a peer or a Fallback attests the Node's hash. Island is not a pretext for a self-graded killing or a self-graded mint above III.1.
+**CODEX:** When no peer and no Fallback answers for one short clock — proved by multi-site VII.53 receiver telemetry and citizen-readable sky-hash (VII.22) — the Node enters Island. Insider relay-cutting or jamming is VI.6 (and Nefas where it meets VII.52) and voids Island. Anchored I.6 clocks keep running; new official clocks needing an Oracle or Fallback signature wait from the first unanswered request.
+
+Waiting lengthens no unproved hold, and local P19 files below 99.9% run normally. During declared Island, P5 pauses solely for locally proved ≥99.9% 7.10c/Nefas files awaiting external confirmation, subject to P14 (90-day) Sortition custody reviews, temporary P19-level supervised release if external silence passes 3 CECs (810 days, keeping the stayed docket open upon reconnection rather than triggering a VII.37 bar), and VII.10i pro-rata P13 redress if dismissed (or IV.2 star-system externals where authorized).
+
+During Island, the Node never mints substitute signatures, etches Root, or fires 99.9% Neutralization (VII.10, VII.53). It keeps local meters, BOT, school, and Tabula, writes Speculum daily, and ends Island once a peer or Fallback attests its hash.
 
 **LEX 59LM:** Island continues life-support rooms and waits on irreversible gates.
 **LEX 60LM:** The Node does not sign its own new official clock.
@@ -4596,7 +4562,7 @@ Status: **MODULE**
 
 **PACTUM:** Distance delays a message. It does not shrink an accused's clock, and it does not let a far well pass a sentence.
 
-**CODEX:** Consecutive days are counted at the Node that holds the file and the accused, in the SI days of I.6 on that Node's sapphire clock, from the timestamp I.6 already anchors. A packet from another well carries the time it was sent and the time it was received. Transit is recorded. It does not shorten the local count, and it does not stack a second count on top of it. A Nefas docket sits on the well where the act and the accused are. A distant well does not ratify Neutralization. No duration in this room replaces the twenty-four-hour docket, the thirty-day hold, the ninety-day clocks, or any other number already written.
+**CODEX:** Consecutive days are counted at the Node that holds the file and the accused, in the SI days of I.6 on that Node's sapphire clock, from the timestamp I.6 already anchors. A packet from another well carries the time it was sent and the time it was received. Transit is recorded. It does not shorten the local count, and it does not stack a second count on top of it. A Nefas docket sits where the act and accused are; a distant well never ratifies Neutralization (LEX 62LM). A peer holding a fugitive on a dual-signed ≥90% 7.53a high-tier writ detains and returns the accused to the locus Node (transit excluded from P4/P5), or tries locally on authenticated 7.53a packets only if deep-space transit exceeds one SMW. No duration in this room replaces the twenty-four-hour docket, the thirty-day hold, the ninety-day clocks, or any other number already written.
 
 **LEX 61LM:** The clock runs where the file and the accused are.
 **LEX 62LM:** A distant well does not ratify Neutralization.
@@ -4618,7 +4584,7 @@ Status: **MODULE**
 
 **PACTUM:** A fork in silence still leaves a bond a returning peer can measure.
 
-**CODEX:** A group that forks while Island is open, or while EVL cannot yet measure, posts the Continuity Bond of Axiom 8 into local sapphire and into physical plant a returning peer can meter. The formula is unchanged: N\_parent × BOT\_local × one SMW, in plant, meter, and spare geometry, not in tokens alone. Until a peer or Fallback measures it, the fork's Rete privileges stay frozen, as VII.55 already freezes a shortfall. The parent does not pretend the bond is satisfied. A Colonia founded on that path is a seed-Node under Caput and Rete: plant first, then people. It is not a raid and not a second constitution.
+**CODEX:** A group that forks while Island is open, or while EVL cannot yet measure, posts the Continuity Bond of Axiom 8 into local sapphire and into physical plant a returning peer can meter. The formula is unchanged (N\_parent × BOT\_local × one SMW in physical plant, meters, and spare geometry, never tokens alone), and must pass a 30-day live full-load BOT separation test verified by EVL + Sortition of seven before equipment departs. Until a peer or Fallback measures it, the fork's Rete privileges stay frozen, as VII.55 already freezes a shortfall. The parent does not pretend the bond is satisfied. A Colonia founded on that path is a seed-Node under Caput and Rete: plant first, then people. It is not a raid and not a second constitution.
 
 **LEX 65LM:** An unmeasured fork-bond freezes Rete privileges until a peer measures it.
 **LEX 66LM:** The bond formula is unchanged.
@@ -4629,7 +4595,7 @@ Status: **MODULE**
 
 **PACTUM:** Two wells may join. They may not wipe the ledgers clean by joining.
 
-**CODEX:** Before seals combine, both ledgers are published for one SMW. Conflicts of title are listed, not averaged. A meter that fails EADIP does not enter the surviving book. Nefas files and live VII.10 holds travel with the person. Each file carries the kernel hash under which it was opened. Merger does not close them and does not stack two census ceilings into one, as VIII.16 already forbids. Forced merger of a Tier-C well remains the rule already written. This room adds the open books.
+**CODEX:** Before seals combine, both ledgers are published for one SMW. Conflicts of title are listed, not averaged. A meter that fails EADIP does not enter the surviving book. Nefas files and live VII.10 holds travel with the person. Each file carries the kernel hash under which it opened; merged Nodes adopt the strictly later I.V-verified kernel hash passing all Active Vulnerarium entries (never downgrading a security fix), and merger never closes live holds or stacks two census ceilings (VIII.16). Forced merger of a Tier-C well remains the rule already written. This room adds the open books.
 
 **LEX 67LM:** Both ledgers are public for one SMW before merger binds.
 **LEX 68LM:** A live terminal hold survives the merger.
@@ -4640,7 +4606,7 @@ Status: **MODULE**
 
 **PACTUM:** A crowd admitted on the eve of a vote is visible. Visibility is not guilt.
 
-**CODEX:** VIII.6 already reviews intake timed to a live ballot, and it already says lawful intake is not treason. This room makes the timing readable. A cohort admitted inside one short clock before a Root-adjacent motion is listed on Speculum as a cohort of admission dates. The list is a fact about timing. It is not a finding, not a collective charge, and not a second weight on any ballot. Axiom 7 stands. If a charge is brought, it names a person and an act under VIII.6. Natural birth is not a cohort.
+**CODEX:** VIII.6 already reviews intake timed to a live ballot, and it already says lawful intake is not treason. This room makes the timing readable. A cohort admitted inside one CEC (270 days) before a Root-adjacent motion is listed on Speculum as a cohort of admission dates. The list is a fact about timing. It is not a finding, not a collective charge, and not a second weight on any ballot. Axiom 7 stands. If a charge is brought, it names a person and an act under VIII.6. Natural birth is not a cohort.
 
 **LEX 69LM:** Timed intake is published as timing.
 **LEX 70LM:** The cohort is not a defendant.
@@ -4673,7 +4639,7 @@ Status: **MODULE**
 
 **PACTUM:** A hired judge of a trade is not a founder, and a payer does not sit on that payer's own case.
 
-**CODEX:** Commercial arbitration remains the convention VIII.15 already names, with the staked bond from each Stability Reserve. The arbitrator publishes payers for that case and does not sit if a payer is a party. A convention, a treaty, or an award that writes Pactum, Codex, Lex, mint, school, or border is void, as VIII.8 already voids external rule of those joints. Constitutional questions stay inside each Node. The award binds the trade it was hired to bind, and nothing else.
+**CODEX:** Commercial arbitration remains the convention VIII.15 already names, with the staked bond from each Stability Reserve. The arbitrator publishes payers (VII.58), recuses under VII.51 if a payer, affiliate, or 3-year prior client is a party, and accepts zero post-award engagement from any party for one CEC. A convention, a treaty, or an award that writes Pactum, Codex, Lex, mint, school, or border is void, as VIII.8 already voids external rule of those joints. Constitutional questions stay inside each Node. The award binds the trade it was hired to bind, and nothing else.
 
 **LEX 75LM:** An arbitrator paid by a party does not sit.
 **LEX 76LM:** An award does not write Root.
@@ -4684,9 +4650,11 @@ Status: **MODULE**
 
 **PACTUM:** Certain things are held and not owned. What is held for the unborn lies beyond the gift of any living hand, whatever stands at the gate.
 
-**CODEX:** A non-human party is any party that is neither human nor silicon built and run by a Node under ÆTHER. In every dealing of a Node or Castra (VIII.19) with such a party, of whatever kind, origin, or power, these are never given, traded, pledged, or opened: the Oracle roots and etch keys; the genomic vaults and any stored or sequenced human genome, gamete, or embryo (likewise purged before any IV.7 silicon exit); vault maps, shard locations, and Ne files; title to Earth, to a shared well, or to the well of a Node; Franchise, a seat, or authorship of Pactum, Codex, or Lex. No child leaves a Node with a non-human party unless accompanied by both living Axiom-4 parents — or the sole custodial non-suspect parent/guardian under II.34 whenever the other parent is confirmed dead, missing, under a live 7.10 hold or Carcer, or disqualified under II.9a/II.34 — executing a voluntary Axiom-8 exit verified on Speculum without the non-human party present. No person, Node, mesh organ, or legacy state speaks for humanity or binds another Node. No surrender of a Node or of its people is valid; an instrument purporting one is unborn (7.44). Voluntary tactical evacuation of an indefensible settlement under VIII.3/VII.48 to save Protected lives — removing every shard, genome vault, and key without ceding title or speaking for humanity — is withdrawal, not surrender. Consent given under force, threat, deception, or verified cognitive impairment (VII.10f) is void. No emergency grade and no Necessitas (1.14) opens this room. Shards and Phoenix stand whatever is signed. Any offer touching this list is refused on the record.
+**CODEX:** A non-human party is any party neither human nor Node-built ÆTHER silicon. Across every dealing of a Node or Castra (VIII.19), these are never given, traded, leased, liened, pledged, subjected to exclusive control or derivative key access (I.11), or opened: Oracle roots/etch keys; genomic vaults and stored/sequenced human genomes, gametes, or embryos (purged before any IV.7 silicon exit); vault maps, shard locations, and Ne files; title to Earth, shared wells, or Node wells; Franchise, seats, or constitutional authorship.
 
-**LEX 86LM:** Keys, vaults, stored genomes, and well-title are never given to a non-human party; a child leaves only with both living Axiom-4 parents (or sole non-suspect custodial parent/II.34 guardian when the other is dead, missing, or under 7.10/II.9a disqualification) on a free Axiom-8 record.
+No child exits with a non-human party unless accompanied by both living Axiom-4 parents — or clean sole custodial parent/guardian (II.34) when the other is dead, missing, under 7.10/Carcer, or disqualified (II.9a/II.34) — on a voluntary Axiom-8 Speculum exit without the non-human present (II.29 pre-verdict stays hold). No one speaks for humanity or binds another Node. Surrender is unborn (7.44), whereas tactical evacuation (VIII.3/VII.48) preserving shards, vaults, and title is withdrawal, not surrender. Coerced, deceived, or impaired consent (VII.10f) is void; neither emergency nor I.14 opens this room.
+
+**LEX 86LM:** Keys, vaults, stored genomes, and well-title never pass to non-humans; a child exits only with both living Axiom-4 parents (or clean sole custodial parent/II.34 guardian) on a free Axiom-8 record.
 **LEX 87LM:** No one speaks for humanity. No Node binds another.
 **LEX 88LM:** No surrender is valid (tactical evacuation preserving shards and title is not surrender). Consent under force, threat, deception, or incapacity is void.
 Status: **KERNEL**
@@ -4701,7 +4669,11 @@ The Node exists to raise living order against decay. This is the sole metric to 
 
 **PACTUM:** The aim is written as a sum over time. This prevents prayers from hiding inside maximums, and it prevents scores from consuming the species.
 
-**CODEX:** Ω\* = max\_N ∫ t0→T e^(-ρ(t−t0)) × Er × [G × Φ × Ψ × (Es/Ed) × (C + α A) − λ(S + P)] dt − κ D − μ V. Useful work each day — healthy fertile people × bounded energy ratio × ordered skill and meaning, minus entropy and parasitism (never penalizing cold training or booked Agon) — is discounted (ρ ≈ 0.001/year) over a rolling fifty-year horizon t0→T. Er is 1 MW (reference power, so Er·dt is 1 MW-year). If G = 0 or Φ = 0 on any day, the positive yield term counts zero while −λ(S + P) still accrues and the Node fails admissibility. Excess above design load stores toward I\_built rather than raising Es/Ed. Every 90 days the rolling average [Ψ × (Es/Ed) × (C + α A) − λ(S + P)] must stay ≥ prior 90-day average minus ε; short-cycle gains projected by EVL to lower 50-year Ω\* count as entropy. Staying down past one winter cycle opens Terminal Entropy Protocol under three seals. Positive activation floors α ∈ [0.05, 0.50], λ ≥ λ\_min > 0, κ ≥ κ\_min > 0, and μ ≥ μ\_min > 0 are locked at activation; a module patch with an EVL counterfactual may tune them at or above those floors, while lowering any weight below its floor requires the Root path. A citizen dashboard translates Ω\* shifts into calories, kinetic security, and habitat stability. Every letter maps to a signed meter or published formula.
+**CODEX:** Ω\* = max\_N ∫ t0→T e^(-ρ(t−t0)) × Er × [G × Φ × Ψ × (Es/Ed) × (C + α A) − λ(S + P)] dt − κ D − μ V. In plain words, each day's living order multiplies healthy fertile people (Ψ), bounded energy sufficiency (Es/Ed), and ordered skill plus meaning (C + α A) — never penalizing cold training or booked Agon — then subtracts waste (S) and free-riding (P). Those daily yields sum over a rolling fifty-year horizon t0→T at discount ρ (≈ 0.001/year), scaled by Er = 1 MW so every term sits in MW-years, minus penalties for consumed future optionality (κ D) and open attack debt (μ V).
+
+If either gate (G or Φ) drops to 0 on any day, positive yield counts zero while −λ(S + P) still accrues and the Node fails admissibility. Surplus above design load stores into I\_built rather than inflating Es/Ed; C and A stay commensurately normalized from activation base 1.0. Every 90 days, the rolling average [Ψ × (Es/Ed) × (C + α A) − λ(S + P)] must hold ≥ prior 90-day average − ε; short-cycle gains projected by EVL to cut 50-year Ω\* count as entropy. Staying down past one winter cycle opens Terminal Entropy Protocol under three seals.
+
+Activation locks positive floors α ∈ [0.05, 0.50], λ ≥ λ\_min \> 0, κ ≥ κ\_min \> 0, μ ≥ μ\_min \> 0, and upper discount ceiling ρ ≤ ρ\_max (so future generations cannot be discounted away). Module patches with an EVL counterfactual may tune weights within those bounds; breaching any floor or ceiling requires the I.V Root path. A citizen dashboard translates Ω\* into daily calories, defense readiness, and habitat stability; every symbol maps to a signed meter.
 
 **The Aim in Words (Short Schematic):** Maximize time-discounted living order — People × Energy × Skill minus Entropy and Free-riding — while gates G and Φ hold (`Ω* ≈ max [discounted sum of (G·Φ·Ψ·E·(C + α A) − λ(S + P))] − κ D − μ V`; IX.1 full integral governs).
 
@@ -4739,7 +4711,7 @@ Status: **KERNEL**
 
 **CODEX:** Raise living people, useful fire, and ordered skill; subtract decay and free-riding. Work that betrays the body or sells a locked joint counts the day as nothing. If the score consumes the seed it cannot see, a penalty is due. The season must not be permitted to fall.
 
-The short schematic in IX.1 states this aim in one line; it omits Er and the time bounds, is explanatory only, and never replaces the enforced integral in IX.1 or LEX 6MG through LEX 8MG.
+The short schematic in IX.1 is explanatory only and never replaces the enforced integral (IX.1, LEX 6MG–8MG).
 
 **LEX 6MG:** Ω\* ≈ max\_N ∫ t0→T e^(-ρ(t−t0)) Er [G Φ Ψ (Es/Ed) (C + α A) − λ(S+P)] dt − κ D − μ V (IX.1 governs).
 **LEX 7MG:** Energy saturates per LEX 2MG (Es/Ed).
@@ -4763,7 +4735,7 @@ Status: **MODULE**
 
 **PACTUM:** The dashboard shows lives, not only fire.
 
-**CODEX:** IX.1 already requires a citizen dashboard of caloric availability, kinetic security, and habitat stability, and it already forbids treating the integral as a kill-switch. Beside those three, the dashboard shows the three series V.43 publishes: surplus above BOT, cleared exams, and intact houses. This room does not edit the formula in IX.1: it adds no weight, no symbol, and no gate. QAT, the pocket statement in IX.2, remains the aim in one breath. A flat series flags the rooms that already flag stagnation and meaning. It does not open Neutralization.
+**CODEX:** Beside IX.1's caloric, security, and stability meters, the citizen dashboard displays V.43's three series: surplus above BOT, cleared exams, and intact houses. This room adds no weight or gate to IX.1; a flat series flags stagnation (V.5, VII.4) and never opens Neutralization.
 
 **LEX 12MG:** The dashboard adds the three series and does not edit the integral.
 **LEX 13MG:** A flat series is a flag, not a sentence.

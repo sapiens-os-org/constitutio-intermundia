@@ -3,15 +3,16 @@
 cff-version: 1.2.0
 title: "sapiensOS · Constitutio Intermundia"
 message: "If you cite this work, use the metadata in this file."
-version: "1.18"
-date-released: 2026-11-22
+version: "1.19"
+date-released: "2026-11-22"
 license: GPL-3.0-only
 repository-code: "https://github.com/sapiens-os-org/constitutio-intermundia"
 url: "https://github.com/sapiens-os-org/constitutio-intermundia/blob/main/sapiens-novus.md"
 authors:
   - name: human-terran
 abstract: >-
-  sapiensOS is not software for machines. It is a shared set of rules that
-  people run together. Its constitution, Constitutio Intermundia, is one text
-  meant to hold on Earth and beyond it.
-  Public Release v1.18.
+  sapiensOS is not software for machines; it is operating consciousness — a
+  shared discipline of awareness, law, and self-rule run together by conscious
+  humans over deterministic instruments. Constitutio Intermundia is its
+  constitution between worlds, built to hold on Earth and beyond.
+  Public Release v1.19.

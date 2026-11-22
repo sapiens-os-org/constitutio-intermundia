@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report security vulnerabilities privately.
+Please report security vulnerabilities — including constitutional exploit vectors, adversarial routes (`VII.67 Immunitas` / Active `Vulnerarium`), or ledger/identity bypasses in *sapiensOS · Constitutio Intermundia* (`v1.19`) — privately.
 
 GitHub private vulnerability reporting is enabled for this repository:
 
