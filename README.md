@@ -1,8 +1,8 @@
 # sapiensOS · Constitutio Intermundia
 
-Full text of the current release, v1.17: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.17](https://github.com/sapiens-os-org/constitutio-intermundia/releases/tag/v1.17). Historical version files: [versions/](versions/).
+Full text of the current release, v1.18: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.18](https://github.com/sapiens-os-org/constitutio-intermundia/releases/tag/v1.18). Historical version files: [versions/](versions/).
 
-## Public Release v1.17
+## Public Release v1.18
 
 Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it.
 
