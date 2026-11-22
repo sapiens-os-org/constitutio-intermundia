@@ -1,8 +1,8 @@
 # Contributing
 
-This repository publishes the text of *sapiensOS · Constitutio Intermundia*, Public Release v1.x. The file is [`sapiens-novus.md`](sapiens-novus.md).
+This repository publishes *sapiensOS · Constitutio Intermundia*, Public Release v1.19 ([`sapiens-novus.md`](sapiens-novus.md)).
 
-A change merged here updates that public text under the [GNU General Public License v3.0](LICENSE). It does not etch Root, move an Axiom, or stand in for the instrument's own amendment gate. That gate is the room **V. Modularity and Amendment** under **I. PRIMA**. Read it before you propose a change that touches an Axiom, the Oracle, the Ne floor, Neutralization, VCI weights, or the Protected-List.
+A change merged here updates that public text under the [GNU General Public License v3.0](LICENSE). It does not etch Root, move an Axiom, or stand in for the instrument's own amendment gate (`I.V Modularity and Amendment` and `I.9 Cingulum` closure under `I. PRIMA`). Read both before proposing a change touching an Axiom, the Oracle, the `Ne` floor, Neutralization, VCI weights, or the Protected-List and its closure.
 
 The text names no personal author and no contact address. Use issues and pull requests on this repository.
 
@@ -22,7 +22,8 @@ In either place:
 - Quote the current wording.
 - Give the proposed wording in full. Do not leave the diff to be guessed.
 - Say which meter, contract, or named failure the change answers.
-- Say whether the proposal touches a Root-locked item. If it does, say so in the first line. Do not reclassify a locked item as a module inside the patch.
+- Say whether the proposal touches a Root-locked item or its `I.9` closure. If it does, state so in the first line; never reclassify a locked item as a module inside the patch.
+- Confirm any attack route or failure mode is logged and re-tested against the Active `VII.67 Immunitas` wound-book.
 
 Grief, rage, love, and offense do not amend. The file says that. A pull request that only vents will be closed.
 

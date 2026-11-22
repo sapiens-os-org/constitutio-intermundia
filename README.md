@@ -1,16 +1,16 @@
 # sapiensOS · Constitutio Intermundia
 
-Full text of the current release, v1.18: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.18](https://github.com/sapiens-os-org/constitutio-intermundia/releases/tag/v1.18). Historical version files: [versions/](versions/).
+Full text of the current release, v1.19: [sapiens-novus.md](sapiens-novus.md). [Public Release v1.19](https://github.com/sapiens-os-org/constitutio-intermundia/releases/tag/v1.19). Historical version files: [versions/](versions/).
 
-## Public Release v1.18
+## Public Release v1.19
 
-Constitutio Intermundia is the living marrow of a new civilization. It is both sovereign and shared: a constitution written not for one people but for everyone who chooses to live by it.
+Constitutio Intermundia is the living marrow of a new civilization: sovereign yet shared, written not for one tribe alone but for anyone who chooses to live by its order.
 
-sapiensOS is not software for machines. It is a shared set of rules that people run together. Its constitution, Constitutio Intermundia, is Latin for "constitution between worlds": one text, meant to hold on Earth and beyond it.
+sapiensOS is not software for machines. It is operating consciousness — a shared discipline of awareness, law, and self-rule run together by conscious humans over deterministic instruments (reactors, sensors, sapphires, and ledgers). *Constitutio Intermundia*, Latin for "constitution between worlds," is its binding text, built to hold on Earth and wherever human settlements take root.
 
-From the first camps on Earth to settlements on other worlds, and across the mesh where decentralized nodes join into one network, it defines what sapiensOS is: an operating system for human consciousness. It is made to scale exponentially, from Earth out to the planets. Its aim is easy to say and hard to fake: more human flourishing that can be measured, and relentlessly less entropy. And it takes its bearings from reality: it measures, then pinpoints.
+From the first camps on Earth to worlds across the mesh, it aligns human consciousness with physical reality. Its aim is plain to state and impossible to counterfeit: measurable human flourishing, and relentlessly less decay.
 
-Full text: [`sapiens-novus.md`](sapiens-novus.md).
+Full text: [`sapiens-novus.md`](sapiens-novus.md) (`303` sections [`70 KERNEL`, `233 MODULE`], `822` Lex lines, `225` Glossary cells, `72,637` words; `SHA-256: 87d5b05e37f70eeaa2f60018b3a545ab027a8a5fd40f73e64f13a1ae8165f415`).
 
 ### How to read
 Pactum explains. Codex governs. Lex executes. Words are commands. Meters outrank speech.
