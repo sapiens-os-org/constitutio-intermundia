@@ -7,7 +7,7 @@ version: "1.19"
 date-released: "2026-11-22"
 license: GPL-3.0-only
 repository-code: "https://github.com/sapiens-os-org/constitutio-intermundia"
-url: "https://github.com/sapiens-os-org/constitutio-intermundia/blob/main/sapiens-novus.md"
+url: "https://github.com/sapiens-os-org/constitutio-intermundia/blob/main/sapiensos.md"
 authors:
   - name: human-terran
 abstract: >-

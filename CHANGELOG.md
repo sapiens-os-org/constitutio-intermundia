@@ -2,6 +2,10 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## Unreleased — 2026-11-25
+
+- Renamed the canonical root file from `sapiens-novus.md` to `sapiensos.md` and updated repository links (`README.md`, `CITATION.cff`, `CONTRIBUTING.md`, `versions/README.md`). Constitution text remains Public Release v1.19 (no text change; SHA-256 unchanged: `87d5b05e37f70eeaa2f60018b3a545ab027a8a5fd40f73e64f13a1ae8165f415`). Historical snapshots (`versions/sapiens-novus-v1.0.md`–`v1.19.md`) remain preserved; future releases (`v1.20+`) use `versions/sapiensos-v*.md`.
+
 ## 1.19 — 2026-11-22
 
 - Version line set to **Public Release v1.19**. Release date 22.11.2026. This release applies a 120-scenario adversarial review (`AS-001`–`AS-120`), operating-consciousness harmonization, Rank-2 `B. Glossary` synchronization, full `I.9` closure, and semantic/diction elevation across all 303 sections (verified by independent Second Reader `PASS` under `I.16` / `WB-D1`). Kernel rooms are edited, so adopting requires the Root Amendment Path (`1.5`). No act is charged under a room that did not exist when the act was done.
