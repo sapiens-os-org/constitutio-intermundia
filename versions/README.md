@@ -1,6 +1,6 @@
 # Released texts
 
-Each file is the complete constitution of that release. It is byte-identical to `sapiens-novus.md` at the tag, and GitHub renders it as a page.
+Each file is the complete constitution of that release, rendered directly by GitHub. The canonical root file is `sapiensos.md`; historical releases `v1.0`–`v1.19` keep their archived `sapiens-novus-v*.md` filenames verbatim, and releases from `v1.20` onward use `sapiensos-v*.md`.
 
 | Version | Date | Page |
 | --- | --- | --- |
