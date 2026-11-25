@@ -1,6 +1,6 @@
 # sapiensOS · Constitutio Intermundia
 
-**Public Release v1.20**
+**Public Release v1.20.1**
 
 Constitutio Intermundia is the living marrow of a new civilization: sovereign yet shared, written not for one tribe alone but for anyone who chooses to live by its order.
 
@@ -71,7 +71,7 @@ Status: **KERNEL**
 
 **PACTUM:** The whole instrument fits in one line, so that a child may carry it and an engineer may check it.
 
-**CODEX:** Ω\_day = Φ · G · Ψ · E · K − λ(S + P). Each day's living order multiplies healthy fertile people (Ψ), bounded energy (E), and ordered skill plus meaning (K) while the constitutional gates (G, Φ) hold, then subtracts waste (S) and free-riding (P).
+**CODEX:** Ω\_day = Φ · G\_7d · Ψ · E · K − λ((S + P) / Ed(t)). Each day's living order multiplies healthy fertile people (Ψ), bounded energy (E), and ordered skill plus meaning (K) while the constitutional gates (G\_7d, Φ) hold, then subtracts waste (S) and free-riding (P) normalized by live design power Ed(t).
 
 - Ψ: biological vitality — fertile XY–XX houses, Ne, and Character (base 1.0). E = min(1, (1 − e^(−3 Ea/Ed)) / (1 − e^(−3))): bounded energy sufficiency (0 to 1, reaching 1.00 at design load Ea = Ed), so abundance helps without rewarding reckless burn. K = C + α A: complexity and meaning (α ∈ [0.05, 0.50]). λ \> 0: weight on entropy S and parasitism P. G\_7d (7-day rolling energy buffer) and Φ (1 or 0): Prime Directive and Final Invariant gates.
 

@@ -2,6 +2,10 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.20.1 — 2026-11-25
+- Erratum aligning the first sentence of `0.F Formula` Codex (`G_7d` and `λ((S + P) / Ed(t))`) verbatim with `LEX 53PR` and `IX.1`.
+- Canonical text (`sapiensos.md` / `versions/sapiensos-v1.20.1.md`): `73,762` words, `472,821` bytes, SHA-256 `637b0778bca57641c064af9b132a3b2684e31fbedee4e566c672c067c3bf4376`.
+
 ## 1.20 — 2026-11-25
 
 - Version line set to **Public Release v1.20**. Release date 25.11.2026. This release applies the 12-cluster external systems audit (`WB-v120-01`–`WB-v120-12`) across `Pactum`, `Codex`, `LEX`, and `B. Glossary` (awaiting Independent Second Reader `WB-D1` review). Kernel rooms are edited, so adopting requires the Root Amendment Path (`1.5`). No act is charged under a room that did not exist when the act was done.
