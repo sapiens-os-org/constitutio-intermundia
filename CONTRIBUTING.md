@@ -1,6 +1,6 @@
 # Contributing
 
-This repository publishes *sapiensOS · Constitutio Intermundia*, Public Release v1.19 ([`sapiensos.md`](sapiensos.md)).
+This repository publishes *sapiensOS · Constitutio Intermundia*, Public Release v1.21 ([`sapiensos.md`](sapiensos.md)).
 
 A change merged here updates that public text under the [GNU General Public License v3.0](LICENSE). It does not etch Root, move an Axiom, or stand in for the instrument's own amendment gate (`I.V Modularity and Amendment` and `I.9 Cingulum` closure under `I. PRIMA`). Read both before proposing a change touching an Axiom, the Oracle, the `Ne` floor, Neutralization, VCI weights, or the Protected-List and its closure.
 
