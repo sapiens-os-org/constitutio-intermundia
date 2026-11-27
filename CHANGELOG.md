@@ -2,6 +2,19 @@
 
 Public versions of *sapiensOS · Constitutio Intermundia*. The text names no calendar date. Headings here follow the version in the file.
 
+## 1.21 — 2026-11-27
+
+- Version line set to **Public Release v1.21**. Release date 27.11.2026. Approved by Terran on 27.11.2026 (21:46). Kernel rooms are edited and classes change, so adopting requires the Root Amendment Path (`1.5`, `I.V`). No act is charged under a room that did not exist when the act was done.
+- **Meaning restoration (audit of v1.1–v1.20.1).** Founding sentences cut in v1.19/v1.20 are restored beside the newer wording (`0. PRAEFATIO`, `A. Ordo`, `II.23`, `IV.22`, `V.31`, `VI.28` and others; 34 rooms back to v1.18 wording, 195 sentences re-inserted in 52 rooms). `V.22`/`LEX 22aAV` command-test scope, `V.27` organic-talk clause and `LEX 65AV`, `V.17` machine-recoding line, `V.4` non-capital sanctions, `VII.32` prima facie fabrication, deme `Ne ≥ 5,000` floor (`II.1`, `VIII.1`, `LEX 2LM`), within-a-day `Nefas` path for live dual-substrate acts with a 30-day floor on a timely defense challenge (`VII.10`, `LEX 10aAX`, `VII.52`), base-rate priors defined by act class and evidence channel only.
+- **Founding names.** `Kali Yuga (Secular Demographic Drift, Declinatio Saecularis)`, `II.1.1 Schumann Meter (Magnetospheric & Ionospheric Meter)`, `Bitcoin (the published broadcast chain; a successor only under IV.29)`, `VI.14 War-without-Skin (War-without-Personal-Stake)`; "throat" restored in five sayings (`VIII.18`, `LEX 81AX`, `LEX 95AV`, `III.14`, `VI.25`); `IV.19` vein lines; `V.2` household rule keeps its Japanese and German origin and `Pflicht`.
+- **New `0.C Custos Sensus`** (Final Invariant, Kernel, `LEX 61PR`–`66PR`): meaning only grows; register of founding names; Meaning Ledger naming the drafter; independent Second Reader (never the drafting machine or one of its make); automated meaning-loss check; word-poisoning ban; sex is binary forever, male (XY) and female (XX). `I.V`, `I.9`, `VII.19` and `B. Glossary` link it.
+- **New `0.R.2 Ossa`** (Module, `LEX 67PR`–`68PR`): the kept and refused bones of inherited law from v1.0, as Baton text.
+- **Kernel.** `II.10`, `II.23`, `II.25`, `II.26`, `II.27`, `II.28`, `II.30`, `V.4`, `V.27`, `VI.11`, `VI.16`, `VIII.6` move to Kernel and into the `I.9` closure.
+- **ESU.** `Storage-Entropy Demurrage` removed from `III.4`, `LEX 3aAN` and `B. Glossary` (conflict with `III.8`/`LEX 25AN`); burn-on-redemption kept; redemption above live surplus is rationed or priced on the published clearing.
+- **Remedies.** `V.27`/`LEX 65bAV` and `II.26` name non-capital remedies against institutions (audit quarantine, demotion or removal, charter suspension).
+- Size, as `I.12` requires: `305` Status-bearing sections (`83` Kernel, `222` Module; `+2` rooms `0.C`, `0.R.2`), `842` Lex lines (`836` unique tags; none removed), `226` Glossary cells, **`78,878` words** (`73,762` before), **`502,093` bytes**, SHA-256 `e3dc5c6da87c0b724d6390912bf93aa81ea6c59b4818065af2939e2d9682af55`.
+- Full change list: `CHANGES-v1.21.md` (169 entries).
+
 ## 1.20.1 — 2026-11-25
 - Erratum aligning the first sentence of `0.F Formula` Codex (`G_7d` and `λ((S + P) / Ed(t))`) verbatim with `LEX 53PR` and `IX.1`.
 - Canonical text (`sapiensos.md` / `versions/sapiensos-v1.20.1.md`): `73,762` words, `472,821` bytes, SHA-256 `637b0778bca57641c064af9b132a3b2684e31fbedee4e566c672c067c3bf4376`.
