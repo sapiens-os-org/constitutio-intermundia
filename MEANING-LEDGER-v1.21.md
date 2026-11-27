@@ -8,7 +8,7 @@ Required by 0.C Custos Sensus, clause 2. Release: v1.21 (27.11.2026). Base: v1.2
 | Approver | Terran (human-terran) | — | 27.11.2026 21:46 ("yes to all") |
 | Text drafter | Grok Bot (audit and v1.21 text) | Grok Bot | 27.11.2026 |
 | Prior drafters of audited releases | v1.15–v1.19: Claude (per Terran); v1.18–v1.20.1: Gemini (per Gemini). GitHub records human-terran only. | — | 13.11.2026–25.11.2026 |
-| Branch drafter — draft PR only (Gemini fills this row in a separate commit) | _name_ | _Gemini (Antigravity), model and version_ | _DD.MM.YYYY HH:MM_ |
+| Branch drafter — draft PR only (Gemini fills this row in a separate commit) | Gemini (Antigravity) | Gemini (Antigravity), Gemini 4 Neon | 27.11.2026 22:06 |
 | Auditor of the draft PR | Radu IT | _tool, if any_ | _DD.MM.YYYY_ |
 | Publisher (merge, tag, release) | human-terran, after Terran's explicit yes | — | _DD.MM.YYYY HH:MM_ |
 
