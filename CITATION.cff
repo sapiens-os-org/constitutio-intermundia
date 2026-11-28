@@ -3,8 +3,8 @@
 cff-version: 1.2.0
 title: "sapiensOS · Constitutio Intermundia"
 message: "If you cite this work, use the metadata in this file."
-version: "1.21"
-date-released: "2026-11-27"
+version: "1.22"
+date-released: "2026-11-28"
 license: GPL-3.0-only
 repository-code: "https://github.com/sapiens-os-org/constitutio-intermundia"
 url: "https://github.com/sapiens-os-org/constitutio-intermundia/blob/main/sapiensos.md"
@@ -15,4 +15,4 @@ abstract: >-
   shared discipline of awareness, law, and self-rule run together by conscious
   humans over deterministic instruments. Constitutio Intermundia is its
   constitution between worlds, built to hold on Earth and beyond.
-  Public Release v1.21.
+  Public Release v1.22.
