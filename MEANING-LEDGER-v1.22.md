@@ -1,20 +1,20 @@
 # Meaning Ledger — sapiensOS · Constitutio Intermundia v1.22
 
-Required by 0.C Custos Sensus, clause 2. Release: v1.22 (draft prepared 28.11.2026; three additive clarifying sentences added 28.11.2026 17:00 on Terran's explicit yes). Base: v1.21 (`fd24b17`, 27.11.2026, `SHA-256: e3dc5c6da87c0b724d6390912bf93aa81ea6c59b4818065af2939e2d9682af55`).
+Required by 0.C Custos Sensus, clause 2. Release: v1.22 (draft prepared 28.11.2026; three additive clarifying sentences added 28.11.2026 17:00; Terran explicit yes 17:01; full-scope yes 28.11.2026 17:11 to publish the complete draft, all 92 changes, plus those three sentences). Tag: `v1.22`. Canonical `sapiensos.md` `SHA-256: 477d3750ee9123022b3a3de451f954f71545b48e6caab294222bf06f71f9281b`. Base: v1.21 (`fd24b17`, 27.11.2026, `SHA-256: e3dc5c6da87c0b724d6390912bf93aa81ea6c59b4818065af2939e2d9682af55`).
 
 ## Drafters (named, as 0.C requires)
 | Role | Name | Tool / make and version | Date |
 |---|---|---|---|
-| Commissioner / Approver | Terran (human-terran) | — | 28.11.2026 16:22 (draft commissioned); 28.11.2026 17:00 (explicit yes: three additive clarifying sentences, final text prepared, handoff to Radu IT for merge and publish) |
+| Commissioner / Approver | Terran (human-terran) | — | 28.11.2026 16:22 (draft commissioned); 28.11.2026 17:01 (explicit yes: three additive clarifying sentences); 28.11.2026 17:11 (full-scope yes: publish the complete Gemini draft, all 92 changes / 59 rooms, plus the three sentences) |
 | Text & branch drafter — draft PR only | Gemini (Antigravity) | Gemini (Antigravity) | 28.11.2026 16:30 |
-| Independent auditor of the draft PR | Grok (Radu IT) | Grok | 28.11.2026 (audit of draft PR #36 and of the three clarifying sentences; Grok is not a drafter) |
+| Auditor of the draft PR | Radu IT | Grok Bot; audit PASS on scope approved by Terran (PR36-AUDIT.md) | 28.11.2026 17:13 |
 | Mechanical insertion and commit of three sentences authored verbatim by Terran (no wording drafted by the inserter) | Alexandru (Code Guardian bot) | Grok Bot | 28.11.2026 17:00 |
 | Publisher (merge, tag, release) | human-terran (executed by Radu IT after Terran's explicit yes and final checks) | _pending_ | _DD.MM.YYYY HH:MM_ |
 
 ## Second Reader (independent; not a drafter, not a machine of the same make as any drafter; at least one named human)
 | Second Reader | Human or machine | Result | Date |
 |---|---|---|---|
-| Terran (human-terran) — Second Reader and approver; Grok — independent auditor | human + independent non-Gemini model | Terran's explicit yes recorded for the three additive clarifying sentences and the final release; Grok audit by Radu IT | 28.11.2026 17:00 |
+| Terran (human-terran) | human | pass (explicit yes 28.11.2026 17:01 + full-scope yes 17:11, via Grok Bot chat) | 28.11.2026 17:13 |
 
 ## Meaning check (0.C Custos Sensus, OLD = v1.21, NEW = v1.22)
 - **Lost rooms:** none (`0`).
