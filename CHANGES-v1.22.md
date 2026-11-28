@@ -1,7 +1,7 @@
 # CHANGES — sapiensOS v1.21 → v1.22 (Draft for Grok Audit)
 
 Draft release text prepared 28.11.2026 (`Europe/Bucharest`) on Terran's instruction following the 18,400-scenario adversarial audit of `v1.21` (`fd24b17`, `SHA-256: e3dc5c6da87c0b724d6390912bf93aa81ea6c59b4818065af2939e2d9682af55`).
-**Not yet published:** Draft PR only for independent Grok audit, Terran's explicit yes, and Grok's final publication.
+**Not yet published:** Terran's explicit yes for the three additive clarifying sentences (rows 90–92) was given on 28.11.2026 at 17:00 (`Europe/Bucharest`); merge, tag, and release are executed by Radu IT after final checks. Independent auditor: Grok. Second Reader and approver: Terran (human-terran).
 
 **0.C Custos Sensus & Root Path Note:**
 - `0.C Custos Sensus` (`L90–112`, `Class: FINAL INVARIANT`, `LEX 61PR–66PR`), all twelve Axioms (`I.III`), `II. Prime Directive`, `I.VI`, `VIII.32`, and all locked biological, binary-sex, family, lineage, speech, and anti-ideology clauses (`II.1` sex & atypical-karyotype mapping, `II.10`, `II.13` wording, `II.17`, `II.19`, `II.23`, `II.25`–`II.28`, `II.30`, `V.1`, `V.4`, `V.22`, `V.38`, `V.39`) are **100% byte-for-byte untouched**.
@@ -9,12 +9,12 @@ Draft release text prepared 28.11.2026 (`Europe/Bucharest`) on Terran's instruct
 - Kernel rooms are clarified, `8` load-bearing rooms move `Module → Kernel` (`II.13`, `III.4`, `IV.26`, `IV.29`, `VII.3`, `VII.29`, `VII.47`, `VIII.23`), and `6` new Latin `Kernel` rooms are added (`0.D Ordo Canonis`, `II.35 Incrementum Demes`, `III.25 Mensura Potentiae`, `IV.30 Catena Interstellaris`, `VII.10j Ordo Terminalis`, `VIII.33 Regimen Insulae`); adoption in a live Node requires the Root Amendment Path (`I.V`). Publishing repository text does not etch Root.
 
 ## Summary Counts (`v1.21` → `v1.22`)
-- **Words:** `78,878` → `83,083`
-- **Bytes:** `502,093` → `531,196` (`SHA-256: 498003ff84ff3946a0fa53def514196f99ccf4f055f58ccf33ec928ce64e051c`)
+- **Words:** `78,878` → `83,153`
+- **Bytes:** `502,093` → `531,611` (`SHA-256: 477d3750ee9123022b3a3de451f954f71545b48e6caab294222bf06f71f9281b`)
 - **Statused sections:** `305` (`83 KERNEL`, `222 MODULE`) → `311` (`97 KERNEL`, `214 MODULE`)
 - **LEX lines / unique tags:** `842 / 836` → `868 / 862` (`0` `v1.21` tags missing; `0` non-exempt duplicates)
 - **Glossary cells:** `226` → `233` (`7` added: `Ordo Canonis`, `Incrementum Demes`, `Mensura Potentiae`, `Catena Interstellaris`, `Ordo Terminalis`, `Regimen Insulae`, `Specialist`)
-- **Change entries:** `89`
+- **Change entries:** `92`
 - **Ideological / woke insertions:** `0`
 
 ## Full Before / After Change Table
@@ -110,3 +110,6 @@ Draft release text prepared 28.11.2026 (`Europe/Bucharest`) on Terran's instruct
 | 87 | VIII.26 Furca (LEX 64aLM) | Salami-split & specialty fix | no | Sync LEX 64aLM with trailing-CEC cumulative and per-specialty >35% G4/G5 evaluation. | **LEX 64aLM:** A Furca split removing \> 35% of active G4/G5 life-critical hands owes a 180-day on-site Adjutor cross-training bond until parent replacement hands certify. | **LEX 64aLM:** Cumulative 1-CEC Furca splits removing \> 35% of active G4/G5 hands in all or any single life-critical specialty (or leaving zero G5) owe a 180-day on-site Adjutor cross-training bond until parent replacement hands certify. |
 | 88 | VIII.33 Regimen Insulae (new room) | New room (Kernel) | yes | Add VIII.33 Regimen Insulae at the end of VIII. LIMEN to close the [140, 280] Pigeonhole trap, 2–6 survivor deadlock, Insula court/governance freezes, VII.59 1-bit stall bias, Day-811 sealed-dome predator release, hostile Ultimus beacon OPSEC leak, and Furca specialty strips. | # IX. OMEGA | **VIII.33 Regimen Insulae** ###### RADIX \> VIII. LIMEN \> VIII.33 Regimen Insulae  **PACTUM:** A settlement reduced to a handful of survivors or cut off by years of dark sky neither deadlocks on impossible lineage math nor turns proved predators loose inside a sealed hull.  **CODEX:** 1. Monotone shard-boot quorum. Root reconstruction and VII.3 Shard-Boo... |
 | 89 | IX.1 Master Formula | Math fix | yes | Pin Ed(t) in IX.1 symbol table to III.25 Mensura Potentiae so over-declared nameplate capacity can never inflate Omega* up to 3.157x. | \| Ed(t)        \| Live design power (so Ed(t)·dt carries MW-year energy units).                                        \| | \| Ed(t)        \| Live design power pinned in III.25 to min(attested dual-method online capacity, N\_adult·BOT\_local·k\_design) (MW-year units; never unbuilt nameplate). \| |
+| 90 | VII.10j Ordo Terminalis (clause 5) | Additive clarification (Kernel) | yes | Terran's explicit yes 28.11.2026 17:00: a VII.10i renewal under the Root-patch bridge cannot outlive its Root motion. Sentence appended to the end of clause 5; nothing removed. | ...while VII.30 Module gaps retain the 270-day ceiling. | ...while VII.30 Module gaps retain the 270-day ceiling. A VII.10i renewal under this bridge expires at once if the linked I.V Root motion is withdrawn, fails a published milestone, or has no further seal activity for one short clock. |
+| 91 | VIII.33 Regimen Insulae (clause 1) | Additive clarification (Kernel) | yes | Terran's explicit yes 28.11.2026 17:00: state the collapse of the quorum to VIII.14 Ultimus at L_surv < 2 or m_surv = 1. Sentence appended to the end of clause 1 (after the monotone k formula and its governing sentence, which stays whole); nothing removed. | ...while VII.3 and VII.56 seven-adult / 7-of-21 slates never apply at census ≥ 140. | ...while VII.3 and VII.56 seven-adult / 7-of-21 slates never apply at census ≥ 140. When L\_surv \< 2 or m\_surv = 1, the quorum collapses to VIII.14 Ultimus; no lineage-count requirement remains. |
+| 92 | III.25 Mensura Potentiae (clause 1) | Additive clarification (Kernel) | yes | Terran's explicit yes 28.11.2026 17:00: Ed(t) is re-computed each signed meter interval; a stale Ed(t) is void. Sentence appended to the end of clause 1; nothing removed. | ...never enters Ed(t) and never dilutes (S + P) / Ed(t). | ...never enters Ed(t) and never dilutes (S + P) / Ed(t). Ed(t) is re-computed on every signed meter interval that reports plant status; a stale Ed(t) from a prior interval is void. |

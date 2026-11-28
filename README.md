@@ -10,7 +10,7 @@ sapiensOS is not software for machines. It is operating consciousness — a shar
 
 From the first camps on Earth to worlds across the mesh, it aligns human consciousness with physical reality. Its aim is plain to state and impossible to counterfeit: measurable human flourishing, and relentlessly less decay.
 
-Full text: [`sapiensos.md`](sapiensos.md) (`311` sections [`97 KERNEL`, `214 MODULE`], `868` Lex lines [`862` unique tags], `233` Glossary cells, `83,083` words; `SHA-256: 498003ff84ff3946a0fa53def514196f99ccf4f055f58ccf33ec928ce64e051c`).
+Full text: [`sapiensos.md`](sapiensos.md) (`311` sections [`97 KERNEL`, `214 MODULE`], `868` Lex lines [`862` unique tags], `233` Glossary cells, `83,153` words; `SHA-256: 477d3750ee9123022b3a3de451f954f71545b48e6caab294222bf06f71f9281b`).
 
 ### How to read
 Pactum explains. Codex governs. Lex executes. Words are commands. Meters outrank speech.
